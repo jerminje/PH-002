@@ -1,0 +1,2001 @@
+plant_v,LDR,PH_value,VOC,Leaf_Temperature,Ambient_temperature,Nitrogen_N,phosphorus_P,potassium_K,Soil_Moisture,Scenario,Class
+1.65,Bright,4.7,12 ppm,19.2C,16.1C,35,16,83,64,Normal monitoring,Nutrient Deficiency
+1.66,Bright,4.4,35 ppm,37.1C,31.8C,61,33,166,74,Fungal infection,Disease
+1.72,Dark,5.8,14 ppm,36.4C,34.3C,84,45,191,63,Normal monitoring,Healthy
+1.63,Bright,4.2,42 ppm,41.6C,34.7C,67,32,199,79,Pest infection,Disease
+1.72,Bright,4.1,45 ppm,35.7C,31.9C,61,39,161,76,Bacterial infection,Disease
+1.7,Bright,6.5,11 ppm,34.4C,32.8C,80,36,206,68,Normal monitoring,Healthy
+1.72,Dark,4.1,59 ppm,41.9C,38.9C,58,39,150,66,Viral infection,Disease
+1.66,Dark,4.9,17 ppm,25.4C,24.6C,21,15,110,59,Normal monitoring,Nutrient Deficiency
+1.66,Bright,5.4,12 ppm,22.5C,19.2C,22,10,103,57,Normal monitoring,Nutrient Deficiency
+1.66,Dim,5.1,10 ppm,35.0C,31.9C,35,17,80,64,Normal monitoring,Nutrient Deficiency
+1.61,Bright,6.0,15 ppm,20.8C,12.8C,47,16,127,16,Normal monitoring,Water Stress
+1.68,Dim,5.8,12 ppm,37.2C,34.4C,80,35,211,64,Normal monitoring,Healthy
+1.64,Dim,6.0,8 ppm,35.2C,34.8C,89,41,214,67,Normal monitoring,Healthy
+1.6,Dim,5.8,21 ppm,25.1C,19.3C,43,17,129,27,Normal monitoring,Water Stress
+1.68,Dim,5.1,11 ppm,23.5C,20.2C,37,16,109,59,Normal monitoring,Nutrient Deficiency
+1.63,Dark,6.2,5 ppm,25.0C,23.0C,77,41,205,66,Normal monitoring,Healthy
+1.63,Bright,5.9,18 ppm,30.8C,23.5C,49,28,105,18,Normal monitoring,Water Stress
+1.62,Dim,3.8,64 ppm,40.0C,31.4C,70,32,163,82,Fungal infection,Disease
+1.6,Bright,6.0,12 ppm,14.3C,14.9C,76,36,215,67,Normal monitoring,Healthy
+1.66,Bright,5.4,15 ppm,26.0C,25.6C,25,14,117,64,Normal monitoring,Nutrient Deficiency
+1.62,Bright,4.2,34 ppm,23.3C,18.2C,65,33,176,75,Pest infection,Disease
+1.6,Dim,6.1,7 ppm,23.8C,23.9C,77,43,193,67,Normal monitoring,Healthy
+1.6,Bright,5.8,18 ppm,40.8C,35.1C,48,21,99,19,Normal monitoring,Water Stress
+1.6,Bright,5.5,15 ppm,34.6C,33.9C,27,13,109,56,Normal monitoring,Nutrient Deficiency
+1.65,Bright,4.5,56 ppm,35.2C,30.9C,68,33,181,80,Fungal infection,Disease
+1.68,Bright,6.1,7 ppm,27.3C,28.5C,81,46,211,60,Normal monitoring,Healthy
+1.67,Dim,5.9,10 ppm,22.4C,23.8C,88,39,209,60,Normal monitoring,Healthy
+1.67,Bright,6.1,8 ppm,14.7C,14.6C,78,48,190,69,Normal monitoring,Healthy
+1.69,Bright,5.5,23 ppm,28.0C,21.5C,40,15,126,16,Normal monitoring,Water Stress
+1.7,Dim,5.9,16 ppm,40.3C,33.1C,40,17,113,16,Normal monitoring,Water Stress
+1.62,Bright,5.9,15 ppm,30.6C,24.0C,37,29,117,24,Normal monitoring,Water Stress
+1.59,Bright,5.9,12 ppm,24.2C,22.6C,83,35,200,61,Normal monitoring,Healthy
+1.67,Dim,5.8,20 ppm,19.3C,13.8C,38,19,117,13,Normal monitoring,Water Stress
+1.64,Dim,6.2,14 ppm,21.1C,19.0C,85,37,211,64,Normal monitoring,Healthy
+1.6,Dark,5.9,22 ppm,29.1C,22.1C,48,21,129,10,Normal monitoring,Water Stress
+1.64,Bright,6.0,23 ppm,36.0C,28.4C,45,24,123,13,Normal monitoring,Water Stress
+1.69,Bright,6.4,12 ppm,31.4C,28.8C,79,47,215,58,Normal monitoring,Healthy
+1.64,Bright,5.6,24 ppm,22.4C,15.5C,48,28,90,25,Normal monitoring,Water Stress
+1.63,Dim,4.8,11 ppm,28.6C,25.4C,23,13,90,54,Normal monitoring,Nutrient Deficiency
+1.67,Bright,5.9,22 ppm,39.8C,33.8C,45,18,127,17,Normal monitoring,Water Stress
+1.63,Bright,5.7,17 ppm,40.6C,33.3C,44,22,96,17,Normal monitoring,Water Stress
+1.61,Bright,5.8,8 ppm,27.4C,28.3C,87,37,209,66,Normal monitoring,Healthy
+1.65,Bright,5.1,18 ppm,16.5C,16.5C,37,12,87,56,Normal monitoring,Nutrient Deficiency
+1.64,Dim,3.4,47 ppm,41.7C,33.6C,64,31,194,76,Bacterial infection,Disease
+1.66,Dark,5.8,18 ppm,36.1C,28.8C,40,17,126,11,Normal monitoring,Water Stress
+1.68,Bright,6.1,8 ppm,16.3C,17.9C,78,37,195,61,Normal monitoring,Healthy
+1.65,Bright,5.5,15 ppm,41.3C,33.7C,39,23,105,15,Normal monitoring,Water Stress
+1.68,Bright,5.9,22 ppm,20.2C,14.7C,49,18,127,23,Normal monitoring,Water Stress
+1.69,Bright,5.8,23 ppm,41.2C,35.6C,41,29,124,26,Normal monitoring,Water Stress
+1.61,Dim,5.9,15 ppm,32.0C,25.6C,41,29,108,12,Normal monitoring,Water Stress
+1.69,Dim,3.5,51 ppm,40.6C,37.1C,63,28,199,83,Fungal infection,Disease
+1.64,Bright,4.5,41 ppm,31.1C,25.3C,76,27,191,78,Pest infection,Disease
+1.63,Dark,3.9,51 ppm,33.6C,29.5C,66,28,158,76,Fungal infection,Disease
+1.67,Dark,4.0,64 ppm,36.4C,31.0C,73,37,150,74,Fungal infection,Disease
+1.68,Bright,5.7,20 ppm,40.8C,34.5C,38,23,126,17,Normal monitoring,Water Stress
+1.63,Dim,5.6,20 ppm,22.3C,15.9C,48,24,100,23,Normal monitoring,Water Stress
+1.66,Bright,5.9,17 ppm,41.2C,33.9C,49,18,129,15,Normal monitoring,Water Stress
+1.64,Bright,4.4,48 ppm,39.7C,31.9C,75,29,153,70,Fungal infection,Disease
+1.59,Bright,5.8,20 ppm,32.1C,25.0C,47,29,118,12,Normal monitoring,Water Stress
+1.59,Dim,5.6,15 ppm,41.1C,35.4C,45,17,101,29,Normal monitoring,Water Stress
+1.63,Bright,3.3,36 ppm,17.9C,14.6C,74,36,196,78,Bacterial infection,Disease
+1.63,Dim,4.0,58 ppm,25.9C,16.6C,78,38,168,77,Fungal infection,Disease
+1.71,Dark,5.8,20 ppm,24.7C,18.4C,36,19,122,14,Normal monitoring,Water Stress
+1.64,Dark,5.8,8 ppm,26.1C,27.7C,86,44,191,65,Normal monitoring,Healthy
+1.66,Bright,4.0,32 ppm,41.2C,34.4C,77,39,157,67,Pest infection,Disease
+1.64,Bright,5.1,13 ppm,37.0C,34.9C,26,13,101,54,Normal monitoring,Nutrient Deficiency
+1.67,Bright,5.9,21 ppm,35.5C,29.2C,48,25,117,27,Normal monitoring,Water Stress
+1.65,Bright,5.0,18 ppm,16.8C,15.4C,34,15,111,63,Normal monitoring,Nutrient Deficiency
+1.68,Bright,6.3,8 ppm,39.0C,36.9C,89,37,208,58,Normal monitoring,Healthy
+1.67,Bright,3.8,56 ppm,42.5C,32.8C,74,36,158,71,Pest infection,Disease
+1.73,Dim,6.4,13 ppm,31.8C,30.0C,85,42,217,68,Normal monitoring,Healthy
+1.62,Bright,4.1,50 ppm,34.3C,30.6C,56,31,130,74,Viral infection,Disease
+1.7,Bright,6.5,7 ppm,21.0C,20.8C,80,47,195,55,Normal monitoring,Healthy
+1.58,Dim,3.3,39 ppm,24.9C,16.8C,73,36,185,66,Bacterial infection,Disease
+1.61,Dim,5.9,18 ppm,36.9C,29.7C,35,28,91,29,Normal monitoring,Water Stress
+1.71,Dark,3.2,50 ppm,21.9C,13.3C,66,30,151,75,Bacterial infection,Disease
+1.6,Bright,5.9,5 ppm,33.8C,35.0C,76,40,216,58,Normal monitoring,Healthy
+1.68,Dim,5.8,19 ppm,24.5C,16.8C,37,28,96,25,Normal monitoring,Water Stress
+1.66,Bright,5.9,22 ppm,31.5C,23.7C,36,26,101,20,Normal monitoring,Water Stress
+1.7,Bright,5.9,11 ppm,20.2C,18.3C,87,37,193,61,Normal monitoring,Healthy
+1.6,Bright,6.3,6 ppm,15.3C,15.2C,88,36,207,62,Normal monitoring,Healthy
+1.62,Bright,3.3,57 ppm,19.1C,11.6C,68,34,177,79,Bacterial infection,Disease
+1.69,Bright,5.8,20 ppm,21.9C,14.2C,47,18,104,10,Normal monitoring,Water Stress
+1.64,Bright,5.9,15 ppm,40.7C,34.4C,49,23,123,20,Normal monitoring,Water Stress
+1.68,Bright,5.8,15 ppm,32.0C,26.6C,44,29,113,19,Normal monitoring,Water Stress
+1.61,Dim,5.9,18 ppm,31.4C,24.0C,43,18,94,14,Normal monitoring,Water Stress
+1.66,Dim,5.5,19 ppm,35.9C,30.0C,35,22,122,28,Normal monitoring,Water Stress
+1.67,Bright,6.3,10 ppm,28.9C,27.7C,87,45,190,62,Normal monitoring,Healthy
+1.65,Bright,4.0,52 ppm,25.4C,20.0C,65,28,179,79,Viral infection,Disease
+1.61,Bright,4.9,18 ppm,26.9C,25.4C,27,19,101,63,Normal monitoring,Nutrient Deficiency
+1.65,Bright,5.9,9 ppm,31.0C,30.6C,77,46,190,58,Normal monitoring,Healthy
+1.69,Dim,5.2,14 ppm,36.0C,33.8C,34,19,85,62,Normal monitoring,Nutrient Deficiency
+1.64,Bright,5.8,21 ppm,28.3C,20.8C,35,20,114,11,Normal monitoring,Water Stress
+1.62,Bright,4.3,36 ppm,28.7C,20.4C,60,39,161,71,Pest infection,Disease
+1.67,Dim,4.6,16 ppm,37.1C,33.1C,23,15,115,53,Normal monitoring,Nutrient Deficiency
+1.69,Bright,6.3,8 ppm,32.4C,32.1C,84,36,206,58,Normal monitoring,Healthy
+1.62,Dim,6.1,9 ppm,28.9C,29.4C,81,45,217,68,Normal monitoring,Healthy
+1.69,Dim,5.8,15 ppm,39.4C,32.7C,46,16,106,12,Normal monitoring,Water Stress
+1.67,Dim,4.1,54 ppm,22.4C,17.8C,78,25,167,66,Bacterial infection,Disease
+1.68,Dim,4.0,46 ppm,25.6C,16.9C,64,28,197,67,Pest infection,Disease
+1.64,Dark,3.9,41 ppm,18.5C,14.4C,75,28,172,75,Fungal infection,Disease
+1.67,Bright,4.2,41 ppm,33.4C,29.3C,77,32,189,67,Pest infection,Disease
+1.65,Bright,5.9,24 ppm,38.4C,33.2C,41,19,93,21,Normal monitoring,Water Stress
+1.67,Bright,4.4,44 ppm,34.0C,29.6C,79,30,189,75,Pest infection,Disease
+1.7,Dim,6.0,10 ppm,33.4C,30.5C,88,46,191,56,Normal monitoring,Healthy
+1.67,Dim,4.7,15 ppm,37.5C,34.1C,33,17,93,60,Normal monitoring,Nutrient Deficiency
+1.6,Dim,4.6,12 ppm,28.6C,24.9C,40,19,119,63,Normal monitoring,Nutrient Deficiency
+1.65,Bright,3.4,51 ppm,47.0C,38.3C,60,37,158,73,Bacterial infection,Disease
+1.62,Bright,5.8,21 ppm,29.2C,21.9C,39,15,123,17,Normal monitoring,Water Stress
+1.62,Bright,5.2,16 ppm,36.1C,35.3C,21,17,102,50,Normal monitoring,Nutrient Deficiency
+1.68,Bright,4.6,16 ppm,18.8C,16.7C,25,17,88,54,Normal monitoring,Nutrient Deficiency
+1.69,Dim,4.0,58 ppm,23.6C,17.2C,53,33,136,66,Viral infection,Disease
+1.62,Bright,4.6,19 ppm,18.0C,16.6C,25,13,94,61,Normal monitoring,Nutrient Deficiency
+1.63,Bright,6.0,14 ppm,31.4C,29.5C,87,43,205,57,Normal monitoring,Healthy
+1.69,Bright,3.7,58 ppm,23.0C,16.1C,69,35,199,71,Pest infection,Disease
+1.6,Bright,4.5,10 ppm,32.2C,30.2C,35,14,102,64,Normal monitoring,Nutrient Deficiency
+1.67,Bright,4.5,62 ppm,39.6C,36.4C,60,25,170,82,Fungal infection,Disease
+1.65,Bright,3.6,41 ppm,24.8C,21.5C,69,34,179,82,Fungal infection,Disease
+1.63,Bright,3.7,56 ppm,39.5C,33.1C,66,35,173,75,Fungal infection,Disease
+1.64,Dim,5.3,13 ppm,26.8C,25.9C,37,16,108,59,Normal monitoring,Nutrient Deficiency
+1.65,Bright,5.1,14 ppm,37.7C,35.8C,34,12,88,53,Normal monitoring,Nutrient Deficiency
+1.66,Bright,4.6,10 ppm,19.2C,19.2C,28,13,112,64,Normal monitoring,Nutrient Deficiency
+1.65,Dim,4.7,19 ppm,23.5C,20.8C,35,14,98,57,Normal monitoring,Nutrient Deficiency
+1.69,Dark,3.9,57 ppm,28.7C,23.5C,61,36,171,73,Bacterial infection,Disease
+1.67,Dim,5.6,24 ppm,40.3C,34.9C,41,22,126,18,Normal monitoring,Water Stress
+1.68,Bright,5.8,18 ppm,36.8C,30.2C,47,18,127,14,Normal monitoring,Water Stress
+1.65,Bright,5.9,21 ppm,34.8C,28.2C,41,22,107,19,Normal monitoring,Water Stress
+1.64,Dim,5.7,15 ppm,25.0C,18.8C,41,29,90,20,Normal monitoring,Water Stress
+1.61,Bright,4.0,46 ppm,31.9C,23.0C,72,32,173,79,Bacterial infection,Disease
+1.67,Dim,5.8,21 ppm,21.0C,13.6C,43,29,91,23,Normal monitoring,Water Stress
+1.62,Dark,4.1,48 ppm,36.7C,33.4C,67,27,153,68,Pest infection,Disease
+1.67,Dim,6.1,9 ppm,33.7C,32.5C,78,35,219,68,Normal monitoring,Healthy
+1.62,Dim,4.1,43 ppm,41.1C,34.2C,68,37,172,70,Fungal infection,Disease
+1.74,Dim,5.0,17 ppm,34.0C,31.4C,22,10,99,60,Normal monitoring,Nutrient Deficiency
+1.63,Dim,6.5,7 ppm,19.1C,19.3C,79,42,206,57,Normal monitoring,Healthy
+1.69,Dark,3.5,58 ppm,40.5C,34.0C,66,29,175,77,Bacterial infection,Disease
+1.63,Bright,5.2,11 ppm,16.7C,15.4C,38,14,91,58,Normal monitoring,Nutrient Deficiency
+1.62,Dim,5.9,6 ppm,30.2C,31.5C,84,46,212,62,Normal monitoring,Healthy
+1.71,Bright,5.1,13 ppm,24.9C,21.8C,28,19,87,55,Normal monitoring,Nutrient Deficiency
+1.66,Bright,6.5,6 ppm,30.9C,31.8C,86,45,218,58,Normal monitoring,Healthy
+1.63,Bright,4.3,40 ppm,27.5C,24.0C,67,38,188,66,Pest infection,Disease
+1.6,Bright,5.2,10 ppm,31.3C,29.8C,31,12,106,55,Normal monitoring,Nutrient Deficiency
+1.64,Bright,4.4,53 ppm,31.0C,27.7C,71,38,154,75,Pest infection,Disease
+1.63,Bright,3.6,53 ppm,39.5C,32.9C,68,31,154,69,Bacterial infection,Disease
+1.68,Bright,6.3,8 ppm,30.0C,30.2C,85,38,215,67,Normal monitoring,Healthy
+1.68,Dark,4.9,13 ppm,35.3C,35.2C,34,17,87,63,Normal monitoring,Nutrient Deficiency
+1.7,Dim,4.8,13 ppm,32.8C,31.9C,39,16,107,57,Normal monitoring,Nutrient Deficiency
+1.67,Dim,5.1,17 ppm,36.3C,32.3C,46,11,96,50,Normal monitoring,Nutrient Deficiency
+1.6,Dim,5.2,11 ppm,29.6C,25.8C,30,12,89,59,Normal monitoring,Nutrient Deficiency
+1.6,Dark,5.9,5 ppm,36.0C,35.7C,77,39,201,65,Normal monitoring,Healthy
+1.73,Dim,6.4,11 ppm,14.0C,15.4C,77,40,198,63,Normal monitoring,Healthy
+1.64,Bright,6.2,5 ppm,29.0C,26.6C,77,45,207,66,Normal monitoring,Healthy
+1.66,Dim,3.6,49 ppm,41.0C,31.5C,68,25,154,73,Pest infection,Disease
+1.7,Bright,3.8,63 ppm,43.2C,33.9C,65,35,198,80,Fungal infection,Disease
+1.68,Bright,5.8,19 ppm,40.7C,34.0C,45,29,114,11,Normal monitoring,Water Stress
+1.67,Bright,5.0,17 ppm,36.8C,35.8C,30,17,83,50,Normal monitoring,Nutrient Deficiency
+1.68,Dim,5.8,23 ppm,42.1C,36.3C,41,27,129,26,Normal monitoring,Water Stress
+1.68,Dim,3.5,36 ppm,34.6C,30.9C,60,32,195,83,Fungal infection,Disease
+1.58,Dark,5.4,10 ppm,27.4C,24.9C,38,10,113,64,Normal monitoring,Nutrient Deficiency
+1.65,Dim,6.4,9 ppm,37.8C,35.1C,75,35,201,66,Normal monitoring,Healthy
+1.65,Bright,6.4,7 ppm,34.4C,33.8C,85,42,208,61,Normal monitoring,Healthy
+1.64,Bright,3.5,33 ppm,25.0C,16.3C,68,29,188,65,Pest infection,Disease
+1.67,Bright,3.6,40 ppm,28.5C,20.6C,78,37,180,78,Fungal infection,Disease
+1.69,Bright,6.1,11 ppm,26.9C,24.0C,86,42,209,57,Normal monitoring,Healthy
+1.63,Bright,6.0,5 ppm,38.6C,36.8C,78,47,201,61,Normal monitoring,Healthy
+1.64,Dark,3.8,52 ppm,40.9C,33.4C,60,33,179,72,Bacterial infection,Disease
+1.63,Bright,5.3,14 ppm,22.9C,19.8C,38,16,94,64,Normal monitoring,Nutrient Deficiency
+1.65,Bright,6.3,5 ppm,33.8C,30.9C,76,37,194,59,Normal monitoring,Healthy
+1.62,Dark,6.1,5 ppm,23.1C,22.9C,87,40,190,56,Normal monitoring,Healthy
+1.62,Bright,5.3,13 ppm,26.1C,22.6C,37,14,85,60,Normal monitoring,Nutrient Deficiency
+1.66,Bright,6.0,13 ppm,37.5C,35.9C,89,43,199,68,Normal monitoring,Healthy
+1.66,Dim,5.9,12 ppm,28.5C,30.3C,89,49,219,58,Normal monitoring,Healthy
+1.66,Bright,5.8,10 ppm,16.9C,18.7C,89,44,214,67,Normal monitoring,Healthy
+1.65,Bright,4.5,16 ppm,20.1C,17.8C,27,15,88,61,Normal monitoring,Nutrient Deficiency
+1.66,Bright,4.3,46 ppm,30.2C,22.6C,71,33,152,84,Fungal infection,Disease
+1.63,Bright,5.5,14 ppm,34.0C,32.1C,25,19,84,57,Normal monitoring,Nutrient Deficiency
+1.67,Dim,5.6,22 ppm,37.0C,29.5C,41,21,115,21,Normal monitoring,Water Stress
+1.62,Bright,3.9,43 ppm,45.0C,35.1C,79,35,171,68,Pest infection,Disease
+1.69,Dim,5.8,15 ppm,32.5C,25.9C,41,27,121,27,Normal monitoring,Water Stress
+1.62,Dim,6.2,10 ppm,27.6C,25.9C,81,36,219,55,Normal monitoring,Healthy
+1.62,Bright,4.2,44 ppm,41.4C,33.5C,64,37,140,68,Viral infection,Disease
+1.66,Bright,5.5,23 ppm,37.9C,31.3C,47,22,91,27,Normal monitoring,Water Stress
+1.69,Bright,5.8,23 ppm,36.2C,30.9C,35,19,92,27,Normal monitoring,Water Stress
+1.64,Bright,6.4,10 ppm,16.2C,14.0C,88,45,206,55,Normal monitoring,Healthy
+1.7,Dark,6.3,10 ppm,29.8C,30.4C,76,49,191,58,Normal monitoring,Healthy
+1.67,Bright,5.7,19 ppm,22.1C,16.3C,35,23,97,14,Normal monitoring,Water Stress
+1.57,Bright,6.0,13 ppm,41.6C,39.4C,83,42,191,67,Normal monitoring,Healthy
+1.67,Dim,5.7,16 ppm,37.0C,30.7C,38,16,108,14,Normal monitoring,Water Stress
+1.64,Dim,4.4,40 ppm,36.6C,29.1C,68,28,163,73,Viral infection,Disease
+1.65,Bright,5.3,13 ppm,17.7C,14.8C,42,12,116,57,Normal monitoring,Nutrient Deficiency
+1.65,Dim,5.9,15 ppm,22.6C,17.5C,36,18,103,11,Normal monitoring,Water Stress
+1.65,Bright,6.0,5 ppm,22.6C,20.2C,75,46,194,57,Normal monitoring,Healthy
+1.7,Dark,5.6,19 ppm,33.3C,26.8C,37,24,126,28,Normal monitoring,Water Stress
+1.62,Dim,6.1,9 ppm,30.9C,32.3C,76,48,192,64,Normal monitoring,Healthy
+1.61,Bright,4.4,63 ppm,26.8C,22.8C,61,39,171,70,Fungal infection,Disease
+1.7,Bright,5.9,14 ppm,29.9C,31.8C,83,46,215,63,Normal monitoring,Healthy
+1.65,Bright,5.8,17 ppm,25.1C,18.8C,40,26,110,17,Normal monitoring,Water Stress
+1.61,Dim,5.9,21 ppm,31.3C,23.4C,48,25,114,22,Normal monitoring,Water Stress
+1.68,Dim,6.4,7 ppm,34.7C,32.6C,77,46,190,55,Normal monitoring,Healthy
+1.65,Bright,3.9,38 ppm,34.1C,25.9C,62,35,192,67,Bacterial infection,Disease
+1.58,Bright,6.5,10 ppm,22.8C,24.1C,80,48,196,59,Normal monitoring,Healthy
+1.65,Dim,5.9,12 ppm,18.3C,16.7C,80,41,190,55,Normal monitoring,Healthy
+1.68,Dim,4.5,30 ppm,27.4C,21.4C,65,39,156,68,Viral infection,Disease
+1.63,Bright,5.7,18 ppm,40.8C,34.3C,35,20,121,29,Normal monitoring,Water Stress
+1.66,Bright,4.7,10 ppm,17.8C,14.2C,27,19,96,57,Normal monitoring,Nutrient Deficiency
+1.6,Dim,6.4,11 ppm,28.0C,25.2C,79,49,201,58,Normal monitoring,Healthy
+1.71,Bright,6.0,10 ppm,17.8C,17.3C,76,47,218,57,Normal monitoring,Healthy
+1.68,Bright,6.1,13 ppm,31.6C,29.4C,85,39,207,67,Normal monitoring,Healthy
+1.62,Dark,5.8,10 ppm,27.0C,26.0C,79,36,213,66,Normal monitoring,Healthy
+1.65,Bright,5.9,17 ppm,35.9C,30.7C,41,25,103,12,Normal monitoring,Water Stress
+1.63,Dim,5.2,13 ppm,33.7C,33.3C,30,11,116,51,Normal monitoring,Nutrient Deficiency
+1.62,Dim,5.4,15 ppm,38.6C,35.5C,31,17,92,59,Normal monitoring,Nutrient Deficiency
+1.65,Dim,4.1,55 ppm,39.7C,30.9C,74,35,199,73,Pest infection,Disease
+1.64,Bright,4.0,53 ppm,22.1C,15.6C,67,31,155,65,Pest infection,Disease
+1.64,Bright,6.0,15 ppm,20.2C,14.1C,37,28,111,23,Normal monitoring,Water Stress
+1.58,Bright,5.8,23 ppm,33.8C,26.7C,49,18,96,22,Normal monitoring,Water Stress
+1.63,Bright,5.8,9 ppm,36.3C,33.4C,88,36,193,56,Normal monitoring,Healthy
+1.62,Dim,6.4,13 ppm,21.4C,20.7C,79,46,200,57,Normal monitoring,Healthy
+1.62,Dim,5.9,21 ppm,39.4C,31.4C,45,25,115,24,Normal monitoring,Water Stress
+1.63,Dim,5.9,6 ppm,22.6C,22.4C,78,46,195,61,Normal monitoring,Healthy
+1.67,Bright,6.3,6 ppm,24.5C,25.9C,84,43,215,59,Normal monitoring,Healthy
+1.59,Bright,5.6,24 ppm,44.0C,36.2C,46,29,124,16,Normal monitoring,Water Stress
+1.65,Bright,4.9,13 ppm,22.1C,21.5C,33,11,119,63,Normal monitoring,Nutrient Deficiency
+1.66,Bright,3.7,41 ppm,30.1C,21.9C,55,27,166,78,Viral infection,Disease
+1.61,Bright,4.1,58 ppm,41.3C,37.8C,64,36,185,75,Fungal infection,Disease
+1.67,Bright,4.7,14 ppm,28.3C,25.1C,38,11,104,55,Normal monitoring,Nutrient Deficiency
+1.62,Dim,5.9,22 ppm,28.0C,22.0C,49,23,96,27,Normal monitoring,Water Stress
+1.64,Dim,4.7,12 ppm,17.3C,13.5C,24,16,113,56,Normal monitoring,Nutrient Deficiency
+1.63,Dim,6.0,21 ppm,43.4C,35.9C,46,22,95,21,Normal monitoring,Water Stress
+1.67,Bright,5.9,5 ppm,14.1C,13.6C,80,42,191,60,Normal monitoring,Healthy
+1.6,Bright,5.5,19 ppm,37.6C,31.8C,49,25,109,24,Normal monitoring,Water Stress
+1.62,Bright,3.8,59 ppm,39.6C,33.0C,61,29,156,83,Fungal infection,Disease
+1.66,Bright,5.8,12 ppm,21.6C,22.2C,77,37,207,58,Normal monitoring,Healthy
+1.64,Bright,4.7,11 ppm,37.2C,35.2C,23,15,107,56,Normal monitoring,Nutrient Deficiency
+1.67,Bright,6.0,24 ppm,32.2C,27.0C,46,28,90,29,Normal monitoring,Water Stress
+1.65,Dim,4.4,45 ppm,36.4C,30.8C,68,39,171,68,Pest infection,Disease
+1.65,Bright,6.2,11 ppm,15.8C,16.9C,89,40,204,68,Normal monitoring,Healthy
+1.59,Dim,3.6,54 ppm,28.2C,22.2C,72,36,185,78,Bacterial infection,Disease
+1.69,Dim,5.2,13 ppm,37.3C,37.0C,29,16,113,53,Normal monitoring,Nutrient Deficiency
+1.63,Bright,4.9,13 ppm,27.2C,27.0C,49,16,114,58,Normal monitoring,Nutrient Deficiency
+1.62,Bright,6.3,5 ppm,35.6C,34.2C,85,49,201,57,Normal monitoring,Healthy
+1.68,Bright,5.8,24 ppm,17.9C,11.5C,45,15,118,16,Normal monitoring,Water Stress
+1.63,Bright,4.2,35 ppm,40.8C,32.8C,69,26,197,66,Pest infection,Disease
+1.65,Dark,5.2,14 ppm,36.3C,36.2C,36,11,93,61,Normal monitoring,Nutrient Deficiency
+1.67,Dim,4.1,47 ppm,25.0C,17.4C,65,30,182,72,Bacterial infection,Disease
+1.63,Bright,3.5,49 ppm,38.3C,33.0C,77,28,169,69,Bacterial infection,Disease
+1.62,Bright,5.9,23 ppm,42.0C,36.2C,46,27,99,10,Normal monitoring,Water Stress
+1.7,Dim,4.6,16 ppm,22.6C,19.5C,23,10,91,59,Normal monitoring,Nutrient Deficiency
+1.66,Bright,4.6,14 ppm,31.9C,29.3C,34,18,91,62,Normal monitoring,Nutrient Deficiency
+1.67,Dim,6.4,12 ppm,31.2C,32.9C,82,44,208,57,Normal monitoring,Healthy
+1.63,Dim,5.7,22 ppm,28.9C,21.9C,45,15,106,19,Normal monitoring,Water Stress
+1.66,Bright,6.0,6 ppm,28.3C,29.7C,83,41,213,69,Normal monitoring,Healthy
+1.67,Dark,5.6,19 ppm,25.8C,19.7C,49,20,96,23,Normal monitoring,Water Stress
+1.67,Bright,3.5,59 ppm,27.1C,18.4C,75,38,169,82,Fungal infection,Disease
+1.66,Bright,6.1,8 ppm,13.3C,13.6C,83,36,203,68,Normal monitoring,Healthy
+1.65,Bright,5.9,21 ppm,41.8C,33.9C,42,21,91,26,Normal monitoring,Water Stress
+1.7,Bright,4.2,44 ppm,32.2C,25.0C,61,35,151,71,Fungal infection,Disease
+1.67,Bright,6.2,14 ppm,38.2C,35.4C,80,43,201,65,Normal monitoring,Healthy
+1.65,Dark,6.2,14 ppm,32.1C,31.3C,84,43,202,64,Normal monitoring,Healthy
+1.65,Bright,6.1,9 ppm,34.9C,34.1C,76,41,204,55,Normal monitoring,Healthy
+1.62,Bright,5.0,11 ppm,27.6C,25.7C,21,18,103,50,Normal monitoring,Nutrient Deficiency
+1.63,Bright,5.3,18 ppm,19.1C,18.3C,28,12,91,58,Normal monitoring,Nutrient Deficiency
+1.7,Bright,6.0,7 ppm,33.7C,30.9C,82,43,206,57,Normal monitoring,Healthy
+1.62,Bright,4.4,43 ppm,41.8C,34.4C,54,27,166,69,Viral infection,Disease
+1.62,Bright,6.2,10 ppm,19.5C,16.9C,78,39,213,69,Normal monitoring,Healthy
+1.63,Bright,6.2,5 ppm,35.5C,33.0C,87,40,210,60,Normal monitoring,Healthy
+1.65,Dim,5.8,5 ppm,13.4C,15.3C,84,36,211,60,Normal monitoring,Healthy
+1.7,Dark,6.5,10 ppm,20.2C,22.0C,81,46,200,60,Normal monitoring,Healthy
+1.68,Dim,5.8,22 ppm,29.9C,22.9C,49,27,117,24,Normal monitoring,Water Stress
+1.64,Bright,5.6,23 ppm,40.3C,32.9C,44,16,108,12,Normal monitoring,Water Stress
+1.72,Bright,3.5,44 ppm,36.3C,29.5C,64,37,187,73,Bacterial infection,Disease
+1.65,Dim,5.5,12 ppm,30.2C,28.8C,33,13,103,63,Normal monitoring,Nutrient Deficiency
+1.61,Dim,5.8,9 ppm,18.6C,19.2C,80,35,194,63,Normal monitoring,Healthy
+1.56,Dim,6.2,7 ppm,34.8C,35.3C,78,37,199,68,Normal monitoring,Healthy
+1.64,Dim,4.0,31 ppm,36.2C,32.5C,60,26,197,75,Pest infection,Disease
+1.65,Dim,4.6,11 ppm,34.5C,33.6C,33,18,90,54,Normal monitoring,Nutrient Deficiency
+1.64,Dark,3.6,49 ppm,29.2C,20.3C,78,35,163,74,Bacterial infection,Disease
+1.62,Bright,4.8,12 ppm,12.5C,10.3C,22,19,80,55,Normal monitoring,Nutrient Deficiency
+1.65,Dark,4.8,10 ppm,38.0C,35.5C,36,11,89,64,Normal monitoring,Nutrient Deficiency
+1.67,Bright,4.9,11 ppm,35.1C,34.5C,37,12,110,60,Normal monitoring,Nutrient Deficiency
+1.68,Bright,5.9,9 ppm,35.8C,33.6C,77,49,214,61,Normal monitoring,Healthy
+1.63,Bright,5.9,24 ppm,36.9C,31.1C,45,17,108,19,Normal monitoring,Water Stress
+1.67,Bright,3.6,38 ppm,39.8C,33.6C,53,34,164,72,Viral infection,Disease
+1.65,Dim,3.9,55 ppm,41.6C,32.4C,61,32,139,68,Viral infection,Disease
+1.68,Dim,5.4,14 ppm,31.6C,28.4C,29,16,98,52,Normal monitoring,Nutrient Deficiency
+1.67,Bright,5.1,16 ppm,36.6C,33.1C,31,16,98,63,Normal monitoring,Nutrient Deficiency
+1.67,Bright,3.9,37 ppm,31.2C,22.5C,73,36,185,76,Bacterial infection,Disease
+1.66,Dim,4.0,56 ppm,36.2C,26.8C,63,32,182,72,Bacterial infection,Disease
+1.67,Bright,6.5,13 ppm,34.0C,32.5C,85,45,205,63,Normal monitoring,Healthy
+1.71,Bright,4.5,12 ppm,34.2C,30.6C,22,18,81,50,Normal monitoring,Nutrient Deficiency
+1.68,Bright,5.9,16 ppm,23.9C,16.7C,44,19,98,10,Normal monitoring,Water Stress
+1.65,Bright,4.1,48 ppm,40.1C,33.0C,71,31,176,78,Fungal infection,Disease
+1.66,Bright,4.6,17 ppm,37.6C,36.8C,32,12,82,64,Normal monitoring,Nutrient Deficiency
+1.61,Dark,5.9,21 ppm,40.3C,34.0C,49,19,127,14,Normal monitoring,Water Stress
+1.66,Dark,4.7,18 ppm,20.7C,17.3C,36,16,84,56,Normal monitoring,Nutrient Deficiency
+1.69,Bright,5.7,18 ppm,28.1C,21.7C,48,22,93,16,Normal monitoring,Water Stress
+1.64,Dim,5.6,17 ppm,39.9C,34.0C,49,18,96,25,Normal monitoring,Water Stress
+1.6,Bright,6.3,8 ppm,37.9C,36.7C,75,37,197,62,Normal monitoring,Healthy
+1.61,Bright,5.4,15 ppm,21.3C,18.8C,32,15,80,58,Normal monitoring,Nutrient Deficiency
+1.62,Dim,4.5,41 ppm,37.0C,31.9C,64,33,157,71,Fungal infection,Disease
+1.66,Bright,4.7,10 ppm,16.3C,14.3C,25,17,105,60,Normal monitoring,Nutrient Deficiency
+1.63,Dim,5.6,23 ppm,40.8C,34.4C,36,19,99,19,Normal monitoring,Water Stress
+1.63,Dim,3.9,44 ppm,42.9C,33.7C,65,30,192,68,Pest infection,Disease
+1.65,Bright,4.6,10 ppm,37.2C,37.0C,47,11,87,64,Normal monitoring,Nutrient Deficiency
+1.72,Bright,6.2,10 ppm,37.2C,37.2C,88,45,215,64,Normal monitoring,Healthy
+1.63,Dim,5.9,16 ppm,32.8C,27.6C,49,17,111,29,Normal monitoring,Water Stress
+1.63,Bright,5.0,10 ppm,15.8C,14.5C,49,18,96,51,Normal monitoring,Nutrient Deficiency
+1.66,Bright,4.3,37 ppm,19.2C,13.5C,66,29,153,79,Viral infection,Disease
+1.63,Bright,5.9,7 ppm,21.8C,21.7C,78,45,207,69,Normal monitoring,Healthy
+1.62,Bright,4.5,59 ppm,39.5C,30.7C,64,26,172,67,Pest infection,Disease
+1.67,Dark,5.7,24 ppm,42.7C,35.8C,39,27,108,28,Normal monitoring,Water Stress
+1.66,Dim,6.0,23 ppm,41.5C,34.3C,42,28,120,26,Normal monitoring,Water Stress
+1.69,Bright,5.1,12 ppm,38.2C,34.5C,34,18,103,50,Normal monitoring,Nutrient Deficiency
+1.64,Bright,4.2,35 ppm,41.5C,33.6C,75,28,154,71,Bacterial infection,Disease
+1.71,Bright,5.5,20 ppm,41.3C,35.5C,43,18,115,20,Normal monitoring,Water Stress
+1.65,Bright,3.7,50 ppm,33.9C,29.7C,67,35,180,66,Bacterial infection,Disease
+1.65,Bright,4.4,55 ppm,32.9C,27.0C,62,34,172,77,Pest infection,Disease
+1.6,Dark,4.2,39 ppm,39.1C,32.7C,64,34,187,76,Bacterial infection,Disease
+1.64,Bright,3.8,63 ppm,32.9C,29.7C,71,28,161,74,Fungal infection,Disease
+1.61,Bright,3.6,51 ppm,36.9C,27.4C,73,39,182,74,Pest infection,Disease
+1.61,Bright,3.6,45 ppm,40.3C,35.0C,63,36,183,76,Bacterial infection,Disease
+1.66,Bright,5.9,12 ppm,32.3C,30.7C,76,38,211,64,Normal monitoring,Healthy
+1.61,Dim,6.0,9 ppm,29.9C,28.2C,81,42,212,68,Normal monitoring,Healthy
+1.63,Bright,5.7,17 ppm,26.2C,19.3C,42,23,104,17,Normal monitoring,Water Stress
+1.6,Bright,5.8,15 ppm,28.6C,22.2C,45,17,115,16,Normal monitoring,Water Stress
+1.67,Bright,4.6,11 ppm,30.0C,27.0C,47,14,119,55,Normal monitoring,Nutrient Deficiency
+1.62,Bright,5.6,17 ppm,27.0C,20.0C,47,28,103,20,Normal monitoring,Water Stress
+1.67,Dim,5.5,16 ppm,27.4C,26.1C,34,15,111,51,Normal monitoring,Nutrient Deficiency
+1.67,Bright,5.5,15 ppm,21.5C,15.4C,37,17,118,14,Normal monitoring,Water Stress
+1.58,Dim,3.6,53 ppm,43.0C,34.2C,60,27,171,72,Bacterial infection,Disease
+1.62,Dim,5.7,19 ppm,23.6C,16.9C,39,16,99,25,Normal monitoring,Water Stress
+1.69,Bright,5.2,19 ppm,33.9C,32.5C,32,12,109,63,Normal monitoring,Nutrient Deficiency
+1.62,Dark,4.9,10 ppm,18.2C,15.1C,34,10,115,63,Normal monitoring,Nutrient Deficiency
+1.67,Bright,6.0,24 ppm,24.6C,17.1C,41,26,99,11,Normal monitoring,Water Stress
+1.68,Bright,5.6,19 ppm,22.3C,15.8C,43,27,91,16,Normal monitoring,Water Stress
+1.67,Bright,5.9,5 ppm,35.4C,35.2C,87,46,219,63,Normal monitoring,Healthy
+1.66,Dim,4.5,16 ppm,29.2C,28.1C,22,16,106,62,Normal monitoring,Nutrient Deficiency
+1.66,Bright,4.8,14 ppm,32.3C,28.7C,24,10,104,54,Normal monitoring,Nutrient Deficiency
+1.65,Bright,5.2,10 ppm,40.2C,36.7C,42,12,116,53,Normal monitoring,Nutrient Deficiency
+1.69,Bright,3.4,55 ppm,36.7C,33.3C,79,28,195,75,Bacterial infection,Disease
+1.68,Bright,5.6,22 ppm,42.7C,37.2C,46,23,104,13,Normal monitoring,Water Stress
+1.62,Bright,4.9,13 ppm,30.0C,29.0C,21,19,103,63,Normal monitoring,Nutrient Deficiency
+1.68,Bright,5.2,15 ppm,23.8C,23.3C,45,19,99,61,Normal monitoring,Nutrient Deficiency
+1.64,Dark,6.1,12 ppm,31.7C,31.6C,77,35,219,66,Normal monitoring,Healthy
+1.72,Bright,5.7,15 ppm,32.8C,26.0C,39,17,124,29,Normal monitoring,Water Stress
+1.61,Dim,5.7,24 ppm,35.6C,29.0C,39,19,95,16,Normal monitoring,Water Stress
+1.62,Dim,6.0,10 ppm,22.6C,21.1C,79,36,211,57,Normal monitoring,Healthy
+1.7,Bright,4.8,15 ppm,21.1C,17.9C,20,17,119,63,Normal monitoring,Nutrient Deficiency
+1.67,Bright,6.3,10 ppm,33.0C,31.3C,86,39,195,64,Normal monitoring,Healthy
+1.64,Bright,3.7,61 ppm,42.4C,35.2C,78,33,194,80,Fungal infection,Disease
+1.65,Bright,4.9,12 ppm,29.9C,28.7C,22,12,97,62,Normal monitoring,Nutrient Deficiency
+1.61,Bright,4.6,10 ppm,33.9C,31.5C,30,14,100,56,Normal monitoring,Nutrient Deficiency
+1.65,Bright,6.0,8 ppm,15.0C,13.2C,78,40,212,64,Normal monitoring,Healthy
+1.66,Dim,4.8,10 ppm,37.5C,35.5C,34,17,104,59,Normal monitoring,Nutrient Deficiency
+1.68,Bright,3.9,35 ppm,38.6C,29.6C,59,31,162,75,Viral infection,Disease
+1.63,Dark,6.0,14 ppm,14.9C,15.0C,79,39,206,68,Normal monitoring,Healthy
+1.62,Dim,3.9,35 ppm,34.7C,25.5C,70,26,195,78,Pest infection,Disease
+1.64,Dim,5.1,16 ppm,34.8C,33.9C,36,11,85,63,Normal monitoring,Nutrient Deficiency
+1.68,Bright,5.8,12 ppm,23.7C,24.6C,79,48,219,63,Normal monitoring,Healthy
+1.66,Dim,4.9,14 ppm,24.5C,22.8C,40,13,108,64,Normal monitoring,Nutrient Deficiency
+1.66,Dim,6.2,5 ppm,25.7C,24.2C,87,43,204,55,Normal monitoring,Healthy
+1.67,Bright,4.9,16 ppm,19.9C,16.8C,22,19,93,59,Normal monitoring,Nutrient Deficiency
+1.6,Bright,5.7,17 ppm,38.5C,33.1C,35,16,126,22,Normal monitoring,Water Stress
+1.67,Bright,6.2,5 ppm,13.0C,12.8C,85,41,193,57,Normal monitoring,Healthy
+1.67,Bright,5.7,21 ppm,37.0C,29.9C,36,21,93,14,Normal monitoring,Water Stress
+1.62,Bright,6.3,5 ppm,23.1C,20.3C,79,37,206,69,Normal monitoring,Healthy
+1.63,Dim,5.7,15 ppm,41.1C,33.5C,39,16,107,24,Normal monitoring,Water Stress
+1.63,Bright,4.4,43 ppm,32.4C,27.5C,76,39,191,70,Fungal infection,Disease
+1.63,Bright,5.8,24 ppm,20.6C,15.6C,36,24,111,22,Normal monitoring,Water Stress
+1.64,Bright,3.7,53 ppm,43.4C,35.9C,69,25,185,84,Fungal infection,Disease
+1.62,Bright,6.3,11 ppm,36.5C,35.1C,76,36,194,58,Normal monitoring,Healthy
+1.63,Bright,4.1,32 ppm,24.9C,16.4C,63,38,136,74,Viral infection,Disease
+1.64,Dim,3.9,38 ppm,40.8C,32.9C,58,37,161,79,Viral infection,Disease
+1.66,Dim,5.2,10 ppm,18.2C,16.5C,23,17,89,50,Normal monitoring,Nutrient Deficiency
+1.63,Bright,3.7,30 ppm,38.2C,34.4C,77,34,190,70,Pest infection,Disease
+1.67,Dim,5.2,13 ppm,19.3C,18.0C,23,14,84,59,Normal monitoring,Nutrient Deficiency
+1.68,Dim,4.7,13 ppm,37.5C,34.0C,36,15,114,52,Normal monitoring,Nutrient Deficiency
+1.64,Bright,3.6,48 ppm,27.7C,24.7C,64,31,154,79,Pest infection,Disease
+1.66,Dark,3.8,51 ppm,37.9C,32.3C,74,25,191,70,Bacterial infection,Disease
+1.62,Dim,4.1,44 ppm,32.5C,23.9C,71,29,159,76,Pest infection,Disease
+1.66,Dim,4.7,11 ppm,33.6C,33.1C,29,15,80,60,Normal monitoring,Nutrient Deficiency
+1.62,Bright,5.8,22 ppm,24.4C,16.8C,47,21,119,27,Normal monitoring,Water Stress
+1.66,Bright,5.8,15 ppm,38.8C,33.4C,47,26,118,25,Normal monitoring,Water Stress
+1.64,Bright,5.7,20 ppm,30.6C,22.9C,47,20,124,16,Normal monitoring,Water Stress
+1.64,Bright,6.1,6 ppm,14.6C,13.7C,83,39,195,64,Normal monitoring,Healthy
+1.64,Bright,3.6,39 ppm,27.6C,23.9C,79,38,181,77,Pest infection,Disease
+1.68,Dark,4.8,14 ppm,17.5C,16.2C,37,15,110,52,Normal monitoring,Nutrient Deficiency
+1.6,Bright,5.9,23 ppm,24.7C,17.1C,38,26,99,15,Normal monitoring,Water Stress
+1.65,Dark,4.2,64 ppm,34.9C,30.6C,65,31,192,73,Fungal infection,Disease
+1.65,Bright,6.3,13 ppm,36.9C,38.1C,83,44,214,69,Normal monitoring,Healthy
+1.67,Bright,5.3,11 ppm,35.5C,34.4C,36,18,102,53,Normal monitoring,Nutrient Deficiency
+1.69,Bright,6.2,11 ppm,28.6C,27.6C,82,47,199,69,Normal monitoring,Healthy
+1.64,Dim,5.2,16 ppm,38.7C,35.9C,39,14,102,60,Normal monitoring,Nutrient Deficiency
+1.68,Bright,6.3,7 ppm,38.2C,37.3C,87,37,190,57,Normal monitoring,Healthy
+1.67,Dim,6.4,14 ppm,33.8C,31.6C,76,49,201,63,Normal monitoring,Healthy
+1.66,Bright,4.4,56 ppm,17.6C,14.2C,72,25,191,83,Fungal infection,Disease
+1.62,Dim,6.1,8 ppm,13.4C,14.1C,87,39,197,62,Normal monitoring,Healthy
+1.71,Bright,6.3,12 ppm,14.6C,15.3C,75,46,216,63,Normal monitoring,Healthy
+1.62,Dim,5.0,13 ppm,33.7C,30.8C,28,13,80,53,Normal monitoring,Nutrient Deficiency
+1.65,Dim,3.2,51 ppm,28.3C,18.8C,60,34,154,69,Bacterial infection,Disease
+1.68,Bright,6.3,13 ppm,29.0C,30.2C,88,37,205,68,Normal monitoring,Healthy
+1.67,Bright,5.8,19 ppm,41.0C,34.4C,43,25,91,18,Normal monitoring,Water Stress
+1.69,Bright,3.8,57 ppm,45.4C,36.5C,75,27,192,73,Pest infection,Disease
+1.65,Bright,5.1,17 ppm,34.7C,32.2C,35,14,94,54,Normal monitoring,Nutrient Deficiency
+1.69,Bright,3.5,63 ppm,38.2C,31.0C,75,36,178,83,Fungal infection,Disease
+1.65,Dark,4.7,12 ppm,32.6C,30.4C,34,18,82,54,Normal monitoring,Nutrient Deficiency
+1.63,Bright,3.9,49 ppm,26.0C,19.4C,68,37,161,67,Pest infection,Disease
+1.69,Dim,4.0,54 ppm,30.2C,23.6C,65,34,194,79,Pest infection,Disease
+1.72,Dark,4.3,59 ppm,42.2C,33.5C,59,27,138,70,Viral infection,Disease
+1.63,Dim,4.1,36 ppm,29.0C,20.3C,77,26,176,70,Bacterial infection,Disease
+1.66,Bright,6.1,14 ppm,27.9C,28.7C,76,35,212,61,Normal monitoring,Healthy
+1.66,Bright,4.5,13 ppm,22.7C,19.1C,34,18,87,52,Normal monitoring,Nutrient Deficiency
+1.62,Dim,4.9,16 ppm,27.1C,23.7C,27,10,117,62,Normal monitoring,Nutrient Deficiency
+1.64,Dark,5.3,19 ppm,18.7C,18.6C,21,12,86,50,Normal monitoring,Nutrient Deficiency
+1.69,Bright,6.1,6 ppm,21.4C,18.7C,76,40,203,60,Normal monitoring,Healthy
+1.61,Dim,6.0,6 ppm,21.9C,21.1C,88,41,216,65,Normal monitoring,Healthy
+1.66,Bright,6.4,5 ppm,36.6C,34.1C,84,40,201,62,Normal monitoring,Healthy
+1.65,Bright,4.0,49 ppm,43.0C,36.1C,65,37,193,69,Bacterial infection,Disease
+1.71,Dim,5.7,19 ppm,21.1C,13.5C,41,27,101,10,Normal monitoring,Water Stress
+1.67,Bright,5.2,14 ppm,37.6C,35.3C,29,14,103,55,Normal monitoring,Nutrient Deficiency
+1.66,Bright,4.4,59 ppm,39.8C,30.1C,62,37,150,65,Viral infection,Disease
+1.72,Dim,5.7,24 ppm,45.0C,37.5C,43,15,90,12,Normal monitoring,Water Stress
+1.69,Bright,6.4,10 ppm,23.1C,20.8C,86,49,206,64,Normal monitoring,Healthy
+1.7,Bright,4.5,11 ppm,15.1C,14.8C,47,17,118,54,Normal monitoring,Nutrient Deficiency
+1.68,Bright,4.9,19 ppm,36.9C,33.8C,39,11,98,63,Normal monitoring,Nutrient Deficiency
+1.64,Bright,4.8,12 ppm,32.2C,32.0C,33,15,102,58,Normal monitoring,Nutrient Deficiency
+1.59,Bright,5.0,17 ppm,16.9C,15.8C,39,15,98,54,Normal monitoring,Nutrient Deficiency
+1.62,Bright,5.5,10 ppm,35.3C,33.1C,48,10,84,51,Normal monitoring,Nutrient Deficiency
+1.66,Dim,6.4,9 ppm,21.1C,22.1C,81,39,190,67,Normal monitoring,Healthy
+1.66,Bright,5.9,10 ppm,38.8C,36.4C,85,38,209,59,Normal monitoring,Healthy
+1.66,Bright,5.9,6 ppm,34.6C,34.6C,87,47,206,61,Normal monitoring,Healthy
+1.69,Bright,6.5,9 ppm,33.6C,33.5C,87,42,193,63,Normal monitoring,Healthy
+1.7,Dim,4.2,43 ppm,39.2C,34.7C,74,28,193,69,Pest infection,Disease
+1.62,Bright,6.5,14 ppm,19.0C,17.6C,85,43,198,59,Normal monitoring,Healthy
+1.65,Bright,6.2,6 ppm,33.2C,33.4C,88,45,202,65,Normal monitoring,Healthy
+1.58,Dim,5.2,15 ppm,34.0C,31.8C,22,15,95,63,Normal monitoring,Nutrient Deficiency
+1.63,Bright,6.2,8 ppm,19.0C,16.7C,78,44,193,68,Normal monitoring,Healthy
+1.65,Dim,5.9,9 ppm,33.4C,32.6C,78,37,215,69,Normal monitoring,Healthy
+1.63,Bright,5.8,21 ppm,38.7C,31.2C,49,26,108,19,Normal monitoring,Water Stress
+1.69,Bright,4.8,15 ppm,38.1C,35.2C,22,19,83,62,Normal monitoring,Nutrient Deficiency
+1.63,Bright,5.2,12 ppm,22.1C,18.5C,31,13,89,61,Normal monitoring,Nutrient Deficiency
+1.6,Bright,5.9,9 ppm,33.7C,34.5C,80,39,214,55,Normal monitoring,Healthy
+1.68,Dim,4.8,12 ppm,28.6C,25.9C,31,14,84,58,Normal monitoring,Nutrient Deficiency
+1.62,Dim,4.5,14 ppm,37.3C,34.7C,24,11,88,61,Normal monitoring,Nutrient Deficiency
+1.65,Dim,5.8,21 ppm,44.8C,38.0C,49,28,106,13,Normal monitoring,Water Stress
+1.66,Bright,4.7,15 ppm,24.3C,23.2C,22,19,116,50,Normal monitoring,Nutrient Deficiency
+1.64,Bright,4.3,51 ppm,31.8C,24.1C,60,36,167,75,Pest infection,Disease
+1.66,Bright,5.1,14 ppm,36.6C,33.0C,34,10,104,58,Normal monitoring,Nutrient Deficiency
+1.67,Bright,5.6,16 ppm,23.4C,15.9C,45,19,122,21,Normal monitoring,Water Stress
+1.66,Bright,6.0,13 ppm,33.4C,33.8C,76,49,197,64,Normal monitoring,Healthy
+1.68,Bright,5.1,13 ppm,16.2C,15.8C,37,14,104,52,Normal monitoring,Nutrient Deficiency
+1.68,Bright,5.8,13 ppm,35.4C,35.7C,88,44,219,61,Normal monitoring,Healthy
+1.7,Bright,5.7,15 ppm,41.2C,35.7C,45,21,93,24,Normal monitoring,Water Stress
+1.64,Dim,4.1,56 ppm,44.4C,36.0C,77,34,164,69,Bacterial infection,Disease
+1.7,Dim,5.8,15 ppm,21.9C,15.4C,39,27,94,15,Normal monitoring,Water Stress
+1.64,Bright,4.7,11 ppm,34.8C,31.1C,26,12,110,53,Normal monitoring,Nutrient Deficiency
+1.64,Dim,5.5,15 ppm,36.1C,30.9C,39,27,121,25,Normal monitoring,Water Stress
+1.7,Bright,3.5,49 ppm,45.7C,37.0C,68,28,184,79,Fungal infection,Disease
+1.65,Bright,5.4,14 ppm,24.1C,21.3C,30,11,94,50,Normal monitoring,Nutrient Deficiency
+1.67,Bright,6.4,9 ppm,23.4C,23.0C,77,35,217,65,Normal monitoring,Healthy
+1.66,Dim,4.9,19 ppm,23.5C,21.9C,33,17,92,58,Normal monitoring,Nutrient Deficiency
+1.62,Bright,5.8,24 ppm,25.4C,17.4C,43,21,99,10,Normal monitoring,Water Stress
+1.67,Dim,6.0,12 ppm,21.6C,18.7C,81,39,199,64,Normal monitoring,Healthy
+1.61,Bright,3.6,61 ppm,36.6C,33.5C,76,34,172,81,Fungal infection,Disease
+1.63,Dim,4.9,13 ppm,28.7C,25.4C,35,19,82,53,Normal monitoring,Nutrient Deficiency
+1.67,Bright,6.4,8 ppm,23.2C,21.2C,78,48,212,64,Normal monitoring,Healthy
+1.66,Dim,5.5,16 ppm,34.7C,33.6C,48,11,88,56,Normal monitoring,Nutrient Deficiency
+1.64,Bright,4.7,17 ppm,23.3C,22.2C,22,19,88,61,Normal monitoring,Nutrient Deficiency
+1.65,Dark,5.9,9 ppm,35.5C,34.0C,89,46,217,69,Normal monitoring,Healthy
+1.65,Bright,4.6,10 ppm,37.3C,34.1C,26,17,101,50,Normal monitoring,Nutrient Deficiency
+1.7,Bright,3.4,37 ppm,28.5C,25.4C,74,32,186,71,Bacterial infection,Disease
+1.66,Dim,6.2,10 ppm,17.0C,15.1C,82,36,211,67,Normal monitoring,Healthy
+1.66,Dim,6.3,9 ppm,35.7C,34.8C,87,45,205,65,Normal monitoring,Healthy
+1.69,Dim,4.5,10 ppm,32.2C,28.4C,31,15,91,52,Normal monitoring,Nutrient Deficiency
+1.62,Dim,3.4,54 ppm,38.0C,34.2C,68,33,170,76,Bacterial infection,Disease
+1.62,Dim,5.9,12 ppm,20.7C,19.0C,76,40,208,58,Normal monitoring,Healthy
+1.69,Bright,5.6,18 ppm,20.1C,14.6C,48,19,101,14,Normal monitoring,Water Stress
+1.61,Bright,4.5,11 ppm,36.9C,33.3C,31,11,91,58,Normal monitoring,Nutrient Deficiency
+1.65,Dim,5.8,24 ppm,30.2C,24.1C,47,27,110,14,Normal monitoring,Water Stress
+1.62,Bright,3.2,42 ppm,30.8C,27.0C,77,25,156,66,Bacterial infection,Disease
+1.67,Bright,3.9,58 ppm,25.0C,20.3C,65,27,178,72,Bacterial infection,Disease
+1.61,Bright,5.8,18 ppm,42.2C,35.4C,40,16,117,28,Normal monitoring,Water Stress
+1.69,Bright,5.3,17 ppm,35.3C,34.7C,35,14,95,53,Normal monitoring,Nutrient Deficiency
+1.6,Bright,6.0,6 ppm,37.8C,35.9C,88,49,216,57,Normal monitoring,Healthy
+1.7,Bright,5.9,17 ppm,38.8C,33.5C,37,26,118,27,Normal monitoring,Water Stress
+1.64,Dim,6.2,14 ppm,16.5C,18.2C,89,35,212,61,Normal monitoring,Healthy
+1.67,Dim,5.7,24 ppm,38.8C,32.6C,45,24,121,19,Normal monitoring,Water Stress
+1.65,Dim,4.6,19 ppm,39.0C,35.3C,35,15,91,52,Normal monitoring,Nutrient Deficiency
+1.66,Dim,5.7,18 ppm,37.6C,31.9C,44,23,127,22,Normal monitoring,Water Stress
+1.65,Dim,5.7,19 ppm,34.2C,28.6C,41,22,114,22,Normal monitoring,Water Stress
+1.63,Dim,5.8,11 ppm,29.8C,31.6C,85,41,210,58,Normal monitoring,Healthy
+1.66,Bright,4.6,12 ppm,37.6C,36.4C,21,10,100,51,Normal monitoring,Nutrient Deficiency
+1.63,Bright,6.3,14 ppm,29.9C,31.8C,86,40,194,60,Normal monitoring,Healthy
+1.61,Bright,5.8,11 ppm,34.2C,32.2C,77,45,212,60,Normal monitoring,Healthy
+1.64,Bright,6.5,7 ppm,37.3C,37.0C,85,47,216,64,Normal monitoring,Healthy
+1.72,Dim,5.8,9 ppm,30.9C,32.0C,81,38,194,60,Normal monitoring,Healthy
+1.64,Bright,4.7,12 ppm,40.8C,37.3C,30,19,86,50,Normal monitoring,Nutrient Deficiency
+1.64,Dim,5.6,19 ppm,41.8C,33.8C,49,25,105,10,Normal monitoring,Water Stress
+1.64,Bright,3.4,46 ppm,43.3C,36.2C,72,29,194,79,Bacterial infection,Disease
+1.66,Dim,5.0,13 ppm,21.3C,19.2C,37,11,100,59,Normal monitoring,Nutrient Deficiency
+1.64,Bright,6.0,8 ppm,12.8C,12.9C,82,35,190,69,Normal monitoring,Healthy
+1.65,Bright,3.6,54 ppm,26.3C,16.7C,73,36,190,68,Pest infection,Disease
+1.6,Bright,5.0,14 ppm,38.2C,37.2C,28,19,86,50,Normal monitoring,Nutrient Deficiency
+1.68,Dim,6.0,24 ppm,42.8C,35.4C,41,20,104,18,Normal monitoring,Water Stress
+1.61,Bright,4.4,44 ppm,21.1C,16.2C,77,37,191,75,Fungal infection,Disease
+1.68,Bright,4.8,19 ppm,25.6C,24.3C,45,18,108,58,Normal monitoring,Nutrient Deficiency
+1.64,Bright,5.9,20 ppm,38.5C,32.4C,43,27,103,24,Normal monitoring,Water Stress
+1.65,Bright,5.8,5 ppm,16.4C,17.7C,80,42,206,69,Normal monitoring,Healthy
+1.62,Bright,4.3,47 ppm,39.7C,34.7C,78,35,157,76,Pest infection,Disease
+1.64,Dim,4.0,47 ppm,33.3C,24.2C,65,38,161,78,Pest infection,Disease
+1.6,Dim,4.0,50 ppm,39.6C,36.1C,75,31,186,68,Bacterial infection,Disease
+1.62,Bright,6.0,24 ppm,42.4C,35.8C,40,27,111,21,Normal monitoring,Water Stress
+1.65,Bright,4.0,33 ppm,37.1C,31.1C,68,32,173,66,Bacterial infection,Disease
+1.68,Dark,6.2,7 ppm,33.7C,31.4C,84,36,203,63,Normal monitoring,Healthy
+1.63,Dim,3.7,52 ppm,31.6C,22.2C,60,35,171,73,Fungal infection,Disease
+1.68,Dim,5.4,11 ppm,30.9C,30.2C,40,15,105,50,Normal monitoring,Nutrient Deficiency
+1.67,Dim,5.6,23 ppm,26.9C,19.2C,45,22,95,16,Normal monitoring,Water Stress
+1.64,Bright,3.7,40 ppm,40.8C,32.2C,74,31,189,75,Bacterial infection,Disease
+1.66,Dim,6.0,10 ppm,23.2C,24.5C,83,36,214,67,Normal monitoring,Healthy
+1.66,Bright,4.7,15 ppm,37.4C,36.1C,34,12,87,53,Normal monitoring,Nutrient Deficiency
+1.66,Dim,4.2,44 ppm,31.1C,25.4C,67,27,160,71,Fungal infection,Disease
+1.68,Dark,6.3,6 ppm,34.6C,36.4C,78,42,211,65,Normal monitoring,Healthy
+1.65,Bright,6.1,8 ppm,25.4C,27.2C,82,38,215,59,Normal monitoring,Healthy
+1.64,Bright,6.3,7 ppm,32.5C,32.8C,83,40,204,55,Normal monitoring,Healthy
+1.61,Dark,5.6,18 ppm,23.1C,15.3C,38,27,95,23,Normal monitoring,Water Stress
+1.64,Bright,6.3,7 ppm,34.9C,33.9C,85,47,192,66,Normal monitoring,Healthy
+1.67,Dim,3.9,40 ppm,34.7C,29.5C,76,28,191,65,Bacterial infection,Disease
+1.67,Bright,6.1,14 ppm,35.5C,32.7C,87,35,215,59,Normal monitoring,Healthy
+1.62,Dim,4.2,43 ppm,34.5C,27.7C,51,25,130,74,Viral infection,Disease
+1.59,Dark,6.0,18 ppm,41.4C,34.8C,39,27,106,17,Normal monitoring,Water Stress
+1.63,Bright,4.4,38 ppm,39.7C,36.0C,67,36,144,78,Viral infection,Disease
+1.66,Dim,5.4,15 ppm,37.1C,33.4C,21,12,106,64,Normal monitoring,Nutrient Deficiency
+1.66,Dark,5.8,15 ppm,41.7C,34.6C,47,15,112,18,Normal monitoring,Water Stress
+1.63,Bright,4.7,14 ppm,35.2C,31.9C,42,14,111,57,Normal monitoring,Nutrient Deficiency
+1.67,Dim,3.9,37 ppm,42.0C,33.9C,68,30,196,73,Fungal infection,Disease
+1.68,Dim,4.5,48 ppm,32.4C,28.1C,78,33,199,79,Pest infection,Disease
+1.6,Bright,5.7,21 ppm,19.7C,12.8C,36,25,99,12,Normal monitoring,Water Stress
+1.61,Bright,3.5,41 ppm,32.5C,29.0C,75,38,159,83,Fungal infection,Disease
+1.65,Bright,5.1,19 ppm,17.9C,16.0C,27,18,110,62,Normal monitoring,Nutrient Deficiency
+1.65,Dim,5.8,17 ppm,30.1C,23.8C,47,19,124,19,Normal monitoring,Water Stress
+1.69,Dark,4.8,10 ppm,22.2C,19.7C,38,13,113,62,Normal monitoring,Nutrient Deficiency
+1.66,Dim,4.9,14 ppm,20.6C,18.9C,38,16,83,54,Normal monitoring,Nutrient Deficiency
+1.62,Bright,6.1,13 ppm,17.7C,16.1C,89,36,215,65,Normal monitoring,Healthy
+1.63,Bright,6.4,9 ppm,21.0C,20.7C,86,48,215,60,Normal monitoring,Healthy
+1.61,Dim,5.4,11 ppm,25.3C,24.8C,30,11,85,51,Normal monitoring,Nutrient Deficiency
+1.68,Dim,5.9,17 ppm,39.6C,32.7C,47,24,128,13,Normal monitoring,Water Stress
+1.63,Bright,5.9,5 ppm,26.8C,27.7C,76,35,212,59,Normal monitoring,Healthy
+1.69,Dark,4.5,19 ppm,34.0C,30.2C,20,19,99,58,Normal monitoring,Nutrient Deficiency
+1.64,Bright,6.0,16 ppm,37.9C,30.0C,35,24,122,14,Normal monitoring,Water Stress
+1.64,Bright,4.7,11 ppm,25.2C,22.6C,30,16,94,53,Normal monitoring,Nutrient Deficiency
+1.64,Bright,4.0,62 ppm,43.3C,33.8C,64,28,154,82,Fungal infection,Disease
+1.63,Dim,3.9,33 ppm,24.0C,18.3C,69,39,165,70,Bacterial infection,Disease
+1.69,Bright,5.2,10 ppm,33.9C,33.0C,29,17,96,51,Normal monitoring,Nutrient Deficiency
+1.6,Dim,6.2,12 ppm,36.9C,34.1C,76,49,192,60,Normal monitoring,Healthy
+1.64,Bright,5.6,21 ppm,22.1C,15.7C,35,27,128,12,Normal monitoring,Water Stress
+1.65,Bright,6.0,5 ppm,19.1C,16.6C,76,45,212,63,Normal monitoring,Healthy
+1.7,Bright,5.1,16 ppm,27.6C,26.3C,26,12,91,52,Normal monitoring,Nutrient Deficiency
+1.63,Bright,5.9,13 ppm,25.9C,25.8C,78,39,202,67,Normal monitoring,Healthy
+1.66,Dim,6.3,8 ppm,16.3C,17.3C,89,48,193,65,Normal monitoring,Healthy
+1.68,Bright,5.1,17 ppm,35.0C,32.2C,33,12,84,61,Normal monitoring,Nutrient Deficiency
+1.62,Bright,6.2,5 ppm,29.6C,31.5C,86,47,214,55,Normal monitoring,Healthy
+1.68,Bright,4.9,18 ppm,38.7C,35.9C,42,17,110,61,Normal monitoring,Nutrient Deficiency
+1.6,Bright,5.8,18 ppm,20.7C,13.6C,40,25,100,20,Normal monitoring,Water Stress
+1.62,Bright,4.8,14 ppm,36.6C,32.9C,33,18,113,58,Normal monitoring,Nutrient Deficiency
+1.68,Dim,3.7,52 ppm,42.8C,36.1C,52,28,178,67,Viral infection,Disease
+1.68,Dim,5.5,16 ppm,43.5C,36.6C,39,21,120,15,Normal monitoring,Water Stress
+1.66,Dark,6.0,9 ppm,15.7C,15.0C,78,35,202,56,Normal monitoring,Healthy
+1.69,Bright,6.1,13 ppm,33.8C,34.6C,86,49,195,64,Normal monitoring,Healthy
+1.67,Dim,4.0,39 ppm,40.9C,34.9C,67,37,131,76,Viral infection,Disease
+1.65,Bright,4.9,13 ppm,28.8C,25.4C,27,12,89,61,Normal monitoring,Nutrient Deficiency
+1.67,Bright,3.9,48 ppm,38.6C,31.3C,74,30,154,78,Pest infection,Disease
+1.68,Bright,3.9,57 ppm,39.0C,32.7C,65,29,140,68,Viral infection,Disease
+1.69,Dim,5.9,20 ppm,43.3C,37.5C,36,24,107,11,Normal monitoring,Water Stress
+1.68,Bright,4.1,44 ppm,19.5C,13.1C,75,34,196,80,Fungal infection,Disease
+1.59,Bright,6.4,12 ppm,33.8C,34.4C,82,49,191,66,Normal monitoring,Healthy
+1.63,Bright,5.7,21 ppm,31.5C,26.4C,38,27,113,29,Normal monitoring,Water Stress
+1.64,Bright,5.9,9 ppm,31.8C,32.9C,89,36,209,61,Normal monitoring,Healthy
+1.69,Dim,5.1,19 ppm,39.1C,35.9C,29,14,84,58,Normal monitoring,Nutrient Deficiency
+1.58,Dark,3.9,58 ppm,39.8C,33.1C,78,32,152,72,Pest infection,Disease
+1.66,Bright,5.3,15 ppm,21.6C,19.4C,24,11,111,52,Normal monitoring,Nutrient Deficiency
+1.65,Bright,4.7,14 ppm,17.6C,15.7C,26,15,90,52,Normal monitoring,Nutrient Deficiency
+1.62,Dim,4.3,52 ppm,48.0C,38.2C,74,30,173,70,Fungal infection,Disease
+1.67,Dark,5.7,19 ppm,41.4C,33.6C,45,25,95,26,Normal monitoring,Water Stress
+1.68,Bright,5.3,18 ppm,31.1C,30.3C,43,13,113,56,Normal monitoring,Nutrient Deficiency
+1.69,Bright,5.9,15 ppm,24.8C,19.1C,36,15,124,21,Normal monitoring,Water Stress
+1.66,Bright,3.4,52 ppm,32.1C,26.7C,78,36,153,67,Bacterial infection,Disease
+1.67,Dim,5.6,16 ppm,40.2C,34.2C,46,15,112,10,Normal monitoring,Water Stress
+1.66,Bright,4.5,18 ppm,36.2C,32.5C,28,12,105,61,Normal monitoring,Nutrient Deficiency
+1.62,Bright,4.2,58 ppm,20.5C,15.7C,62,26,155,75,Bacterial infection,Disease
+1.63,Bright,4.9,19 ppm,35.1C,31.6C,46,18,84,57,Normal monitoring,Nutrient Deficiency
+1.63,Dim,4.4,57 ppm,35.6C,31.8C,57,32,167,66,Viral infection,Disease
+1.64,Dim,3.9,36 ppm,19.2C,14.6C,50,27,165,65,Viral infection,Disease
+1.66,Bright,5.6,24 ppm,19.0C,13.5C,45,16,97,20,Normal monitoring,Water Stress
+1.69,Dim,6.5,8 ppm,19.5C,17.8C,76,48,204,61,Normal monitoring,Healthy
+1.65,Bright,6.1,14 ppm,32.5C,31.0C,79,35,206,57,Normal monitoring,Healthy
+1.67,Dim,6.0,13 ppm,33.1C,33.8C,84,40,210,65,Normal monitoring,Healthy
+1.61,Bright,4.5,14 ppm,36.8C,34.8C,41,16,99,62,Normal monitoring,Nutrient Deficiency
+1.66,Bright,5.0,16 ppm,26.2C,23.7C,43,15,104,63,Normal monitoring,Nutrient Deficiency
+1.66,Dim,5.1,17 ppm,38.7C,35.3C,35,15,84,51,Normal monitoring,Nutrient Deficiency
+1.63,Dim,5.9,16 ppm,34.8C,27.2C,44,26,107,23,Normal monitoring,Water Stress
+1.64,Bright,4.0,32 ppm,34.6C,25.0C,68,31,170,67,Pest infection,Disease
+1.61,Dim,6.2,7 ppm,34.5C,31.6C,78,40,202,58,Normal monitoring,Healthy
+1.61,Bright,4.0,48 ppm,46.5C,37.8C,70,38,187,69,Pest infection,Disease
+1.64,Bright,5.2,10 ppm,18.1C,16.8C,42,19,108,53,Normal monitoring,Nutrient Deficiency
+1.67,Dim,3.9,53 ppm,36.5C,32.3C,52,36,134,73,Viral infection,Disease
+1.63,Dim,5.2,18 ppm,31.2C,28.6C,22,17,94,60,Normal monitoring,Nutrient Deficiency
+1.63,Bright,5.4,17 ppm,31.8C,31.3C,36,14,94,53,Normal monitoring,Nutrient Deficiency
+1.7,Dim,6.5,14 ppm,35.6C,35.3C,81,43,200,66,Normal monitoring,Healthy
+1.67,Bright,4.1,56 ppm,34.6C,28.8C,56,39,167,75,Viral infection,Disease
+1.68,Bright,5.6,18 ppm,39.5C,32.1C,37,16,95,22,Normal monitoring,Water Stress
+1.6,Bright,4.8,11 ppm,33.4C,30.1C,25,18,95,52,Normal monitoring,Nutrient Deficiency
+1.59,Bright,5.9,24 ppm,23.7C,18.5C,38,22,114,16,Normal monitoring,Water Stress
+1.65,Bright,6.1,7 ppm,12.5C,10.7C,83,37,204,56,Normal monitoring,Healthy
+1.67,Bright,6.3,14 ppm,36.9C,38.5C,82,39,197,69,Normal monitoring,Healthy
+1.63,Dark,4.4,35 ppm,27.8C,22.1C,59,30,168,73,Viral infection,Disease
+1.66,Bright,3.8,40 ppm,35.6C,31.4C,54,31,139,79,Viral infection,Disease
+1.67,Bright,3.6,32 ppm,28.8C,19.3C,64,30,176,70,Pest infection,Disease
+1.65,Bright,4.1,36 ppm,35.1C,28.8C,68,35,186,72,Pest infection,Disease
+1.65,Bright,5.9,20 ppm,26.5C,19.5C,45,15,125,19,Normal monitoring,Water Stress
+1.68,Bright,5.9,9 ppm,23.7C,23.2C,77,43,195,63,Normal monitoring,Healthy
+1.65,Bright,5.7,20 ppm,39.6C,32.0C,37,24,123,12,Normal monitoring,Water Stress
+1.63,Bright,5.0,15 ppm,41.4C,39.1C,23,11,88,55,Normal monitoring,Nutrient Deficiency
+1.73,Bright,3.7,48 ppm,30.4C,24.8C,76,30,185,68,Bacterial infection,Disease
+1.66,Dark,4.3,35 ppm,24.1C,20.7C,65,31,175,75,Viral infection,Disease
+1.65,Bright,6.2,8 ppm,37.5C,35.3C,87,38,211,68,Normal monitoring,Healthy
+1.64,Bright,4.4,30 ppm,34.5C,27.3C,59,35,144,70,Viral infection,Disease
+1.62,Bright,5.9,12 ppm,33.4C,30.9C,76,45,202,61,Normal monitoring,Healthy
+1.67,Bright,3.6,59 ppm,24.5C,17.5C,76,26,161,69,Bacterial infection,Disease
+1.62,Bright,5.9,19 ppm,44.8C,39.5C,45,26,125,19,Normal monitoring,Water Stress
+1.6,Dark,6.0,18 ppm,37.6C,31.8C,37,16,128,18,Normal monitoring,Water Stress
+1.66,Bright,5.7,15 ppm,19.3C,14.3C,47,28,105,11,Normal monitoring,Water Stress
+1.69,Dim,5.9,11 ppm,35.8C,33.2C,87,41,203,67,Normal monitoring,Healthy
+1.6,Dark,3.7,51 ppm,38.7C,33.2C,61,39,156,78,Viral infection,Disease
+1.64,Dark,5.2,16 ppm,16.9C,16.4C,39,11,108,63,Normal monitoring,Nutrient Deficiency
+1.64,Dim,6.4,12 ppm,34.7C,34.8C,77,48,203,69,Normal monitoring,Healthy
+1.65,Dim,4.9,16 ppm,39.8C,36.4C,26,19,103,60,Normal monitoring,Nutrient Deficiency
+1.64,Dark,4.6,17 ppm,18.0C,17.5C,39,17,101,58,Normal monitoring,Nutrient Deficiency
+1.69,Dim,6.0,16 ppm,27.5C,22.3C,44,22,98,18,Normal monitoring,Water Stress
+1.63,Bright,3.8,56 ppm,39.2C,29.2C,62,34,169,66,Bacterial infection,Disease
+1.67,Bright,3.8,53 ppm,26.5C,18.2C,61,28,139,76,Viral infection,Disease
+1.67,Dim,3.9,46 ppm,38.5C,31.6C,72,30,197,66,Bacterial infection,Disease
+1.71,Bright,5.9,22 ppm,18.9C,13.7C,44,25,95,13,Normal monitoring,Water Stress
+1.71,Dark,6.3,11 ppm,36.3C,34.1C,79,40,192,59,Normal monitoring,Healthy
+1.68,Bright,3.7,42 ppm,40.1C,31.6C,59,26,176,68,Viral infection,Disease
+1.65,Bright,3.5,55 ppm,24.4C,16.5C,77,38,193,78,Pest infection,Disease
+1.63,Bright,5.4,12 ppm,38.7C,35.4C,33,17,98,56,Normal monitoring,Nutrient Deficiency
+1.72,Bright,5.0,10 ppm,38.7C,35.4C,20,19,102,63,Normal monitoring,Nutrient Deficiency
+1.69,Bright,4.8,19 ppm,27.3C,27.0C,31,17,87,52,Normal monitoring,Nutrient Deficiency
+1.64,Dark,6.2,13 ppm,32.9C,30.5C,81,41,193,65,Normal monitoring,Healthy
+1.66,Dim,4.3,43 ppm,41.1C,32.7C,50,36,140,65,Viral infection,Disease
+1.65,Bright,5.7,22 ppm,41.7C,34.2C,42,22,120,24,Normal monitoring,Water Stress
+1.62,Bright,5.4,10 ppm,34.9C,33.6C,22,14,95,50,Normal monitoring,Nutrient Deficiency
+1.65,Bright,6.5,11 ppm,37.5C,38.2C,78,35,197,67,Normal monitoring,Healthy
+1.64,Dark,5.8,18 ppm,36.0C,29.4C,38,20,111,22,Normal monitoring,Water Stress
+1.63,Bright,4.0,40 ppm,45.6C,39.5C,68,35,152,78,Bacterial infection,Disease
+1.64,Bright,4.4,45 ppm,42.7C,34.4C,73,35,180,72,Pest infection,Disease
+1.7,Bright,6.2,11 ppm,34.0C,34.9C,83,35,190,69,Normal monitoring,Healthy
+1.64,Dim,4.9,16 ppm,38.5C,34.7C,40,17,96,63,Normal monitoring,Nutrient Deficiency
+1.62,Dim,5.3,16 ppm,29.6C,29.4C,33,16,80,50,Normal monitoring,Nutrient Deficiency
+1.63,Dim,3.7,56 ppm,23.7C,16.2C,77,33,153,73,Pest infection,Disease
+1.71,Bright,4.1,47 ppm,33.5C,27.3C,69,38,149,78,Viral infection,Disease
+1.66,Dim,5.4,11 ppm,25.1C,21.2C,36,18,106,59,Normal monitoring,Nutrient Deficiency
+1.69,Bright,5.3,18 ppm,37.2C,35.0C,27,18,96,58,Normal monitoring,Nutrient Deficiency
+1.68,Bright,3.7,48 ppm,16.2C,12.5C,50,25,164,74,Viral infection,Disease
+1.71,Dim,3.6,39 ppm,40.2C,31.2C,71,31,175,75,Pest infection,Disease
+1.64,Bright,5.7,19 ppm,43.3C,35.8C,45,22,95,29,Normal monitoring,Water Stress
+1.64,Dim,4.3,30 ppm,23.4C,18.8C,62,35,146,79,Viral infection,Disease
+1.66,Dim,4.7,10 ppm,29.8C,28.4C,39,17,80,57,Normal monitoring,Nutrient Deficiency
+1.65,Dim,4.6,19 ppm,28.9C,28.1C,26,12,86,54,Normal monitoring,Nutrient Deficiency
+1.62,Bright,4.7,12 ppm,35.0C,33.4C,31,11,82,62,Normal monitoring,Nutrient Deficiency
+1.58,Dim,5.9,8 ppm,29.5C,28.4C,87,48,196,64,Normal monitoring,Healthy
+1.66,Bright,4.6,14 ppm,20.0C,18.6C,26,12,99,56,Normal monitoring,Nutrient Deficiency
+1.61,Bright,5.7,15 ppm,37.1C,31.2C,42,19,122,16,Normal monitoring,Water Stress
+1.57,Dark,4.1,41 ppm,24.5C,20.8C,67,31,190,66,Bacterial infection,Disease
+1.67,Bright,4.1,51 ppm,21.1C,15.5C,65,38,187,78,Pest infection,Disease
+1.65,Bright,4.4,34 ppm,38.7C,32.7C,53,25,135,72,Viral infection,Disease
+1.67,Dark,4.7,19 ppm,38.6C,35.2C,35,13,85,59,Normal monitoring,Nutrient Deficiency
+1.67,Dim,3.2,59 ppm,42.2C,32.8C,60,38,175,69,Bacterial infection,Disease
+1.7,Bright,5.4,18 ppm,28.3C,25.0C,40,14,80,50,Normal monitoring,Nutrient Deficiency
+1.67,Bright,5.6,21 ppm,34.0C,26.8C,35,29,114,11,Normal monitoring,Water Stress
+1.62,Dim,6.4,14 ppm,29.8C,28.8C,89,46,195,67,Normal monitoring,Healthy
+1.65,Bright,4.6,10 ppm,24.4C,22.4C,33,14,102,59,Normal monitoring,Nutrient Deficiency
+1.63,Bright,5.7,24 ppm,40.7C,34.7C,35,21,120,21,Normal monitoring,Water Stress
+1.62,Bright,6.1,13 ppm,17.7C,18.8C,83,37,193,55,Normal monitoring,Healthy
+1.68,Bright,5.8,20 ppm,45.6C,40.3C,46,21,90,20,Normal monitoring,Water Stress
+1.66,Dark,3.4,36 ppm,29.4C,19.7C,64,32,179,78,Bacterial infection,Disease
+1.66,Bright,5.3,19 ppm,37.9C,35.3C,33,16,84,61,Normal monitoring,Nutrient Deficiency
+1.62,Dim,5.8,24 ppm,34.5C,28.3C,40,21,99,16,Normal monitoring,Water Stress
+1.67,Dark,5.7,23 ppm,35.0C,28.9C,48,20,106,16,Normal monitoring,Water Stress
+1.6,Bright,5.7,21 ppm,26.5C,20.1C,44,16,106,16,Normal monitoring,Water Stress
+1.64,Bright,5.6,17 ppm,18.4C,12.7C,37,22,117,17,Normal monitoring,Water Stress
+1.67,Dim,6.3,5 ppm,26.0C,25.0C,82,49,200,57,Normal monitoring,Healthy
+1.66,Bright,6.0,8 ppm,39.0C,36.7C,85,35,193,69,Normal monitoring,Healthy
+1.61,Dim,4.5,49 ppm,36.1C,32.5C,63,35,150,76,Viral infection,Disease
+1.64,Bright,3.9,52 ppm,43.5C,36.5C,75,28,190,81,Fungal infection,Disease
+1.7,Dim,5.9,17 ppm,21.7C,16.2C,36,25,122,25,Normal monitoring,Water Stress
+1.66,Bright,5.2,11 ppm,35.6C,32.0C,29,18,115,53,Normal monitoring,Nutrient Deficiency
+1.63,Dark,4.9,15 ppm,24.6C,20.8C,21,18,94,56,Normal monitoring,Nutrient Deficiency
+1.57,Bright,6.2,8 ppm,22.8C,22.5C,85,44,214,67,Normal monitoring,Healthy
+1.6,Dark,5.7,19 ppm,29.0C,21.4C,39,26,95,29,Normal monitoring,Water Stress
+1.7,Bright,5.0,19 ppm,37.0C,33.8C,38,17,114,64,Normal monitoring,Nutrient Deficiency
+1.64,Bright,5.9,16 ppm,20.3C,14.9C,39,18,102,22,Normal monitoring,Water Stress
+1.64,Dim,5.0,11 ppm,20.5C,19.4C,37,19,100,55,Normal monitoring,Nutrient Deficiency
+1.62,Bright,5.6,20 ppm,39.8C,33.8C,39,23,104,12,Normal monitoring,Water Stress
+1.62,Bright,4.0,57 ppm,37.7C,27.9C,65,25,178,69,Pest infection,Disease
+1.65,Dark,3.8,53 ppm,34.9C,30.0C,64,34,155,66,Bacterial infection,Disease
+1.63,Dim,5.0,10 ppm,27.3C,23.7C,36,16,109,64,Normal monitoring,Nutrient Deficiency
+1.62,Dark,6.3,10 ppm,15.9C,16.8C,87,38,192,57,Normal monitoring,Healthy
+1.63,Bright,5.9,20 ppm,38.6C,30.6C,37,16,113,11,Normal monitoring,Water Stress
+1.64,Bright,5.5,17 ppm,38.6C,36.9C,24,15,90,52,Normal monitoring,Nutrient Deficiency
+1.65,Dim,3.7,58 ppm,21.5C,15.3C,64,39,178,70,Bacterial infection,Disease
+1.64,Bright,4.7,11 ppm,32.5C,29.9C,27,14,94,52,Normal monitoring,Nutrient Deficiency
+1.63,Dim,4.3,43 ppm,33.0C,29.7C,54,28,167,66,Viral infection,Disease
+1.7,Bright,4.2,32 ppm,33.2C,28.2C,77,31,150,79,Bacterial infection,Disease
+1.71,Bright,5.9,11 ppm,35.0C,35.7C,87,44,210,59,Normal monitoring,Healthy
+1.64,Dim,5.9,19 ppm,40.2C,35.0C,36,26,123,25,Normal monitoring,Water Stress
+1.69,Bright,6.0,17 ppm,31.9C,24.4C,49,21,96,15,Normal monitoring,Water Stress
+1.58,Bright,6.5,14 ppm,15.2C,14.8C,84,45,197,57,Normal monitoring,Healthy
+1.63,Bright,4.2,58 ppm,38.6C,34.8C,73,39,186,69,Pest infection,Disease
+1.66,Bright,6.2,13 ppm,27.5C,25.4C,77,46,208,60,Normal monitoring,Healthy
+1.64,Dim,5.5,10 ppm,23.7C,23.2C,41,14,106,59,Normal monitoring,Nutrient Deficiency
+1.63,Bright,4.1,36 ppm,36.8C,32.0C,64,39,164,74,Viral infection,Disease
+1.71,Dark,6.4,7 ppm,35.4C,33.8C,75,39,209,67,Normal monitoring,Healthy
+1.71,Bright,4.9,18 ppm,36.7C,36.0C,25,11,89,52,Normal monitoring,Nutrient Deficiency
+1.65,Dim,6.1,8 ppm,25.0C,23.7C,88,42,216,61,Normal monitoring,Healthy
+1.65,Dim,5.9,12 ppm,31.0C,31.2C,84,37,197,68,Normal monitoring,Healthy
+1.64,Bright,5.4,12 ppm,22.7C,18.8C,33,18,92,60,Normal monitoring,Nutrient Deficiency
+1.67,Bright,4.0,51 ppm,30.0C,26.5C,63,27,156,67,Viral infection,Disease
+1.66,Dim,5.8,15 ppm,29.9C,23.2C,48,21,107,20,Normal monitoring,Water Stress
+1.65,Dim,6.1,11 ppm,35.0C,34.6C,76,45,202,59,Normal monitoring,Healthy
+1.6,Bright,4.0,31 ppm,41.5C,36.5C,55,33,146,67,Viral infection,Disease
+1.6,Bright,5.4,17 ppm,18.1C,16.9C,36,14,106,60,Normal monitoring,Nutrient Deficiency
+1.64,Bright,6.5,6 ppm,32.8C,32.4C,83,47,195,60,Normal monitoring,Healthy
+1.66,Bright,5.6,23 ppm,23.5C,15.8C,43,21,96,21,Normal monitoring,Water Stress
+1.69,Bright,6.0,11 ppm,23.8C,21.3C,87,40,200,63,Normal monitoring,Healthy
+1.66,Bright,6.0,17 ppm,34.5C,27.0C,42,21,119,17,Normal monitoring,Water Stress
+1.61,Dark,5.7,23 ppm,37.7C,29.7C,49,25,99,29,Normal monitoring,Water Stress
+1.62,Bright,6.2,12 ppm,24.5C,21.7C,78,48,205,69,Normal monitoring,Healthy
+1.65,Dim,6.2,14 ppm,32.3C,32.7C,83,36,205,57,Normal monitoring,Healthy
+1.65,Bright,5.8,12 ppm,37.0C,37.8C,81,46,207,61,Normal monitoring,Healthy
+1.65,Bright,4.2,47 ppm,35.5C,30.5C,73,26,168,70,Pest infection,Disease
+1.61,Bright,5.7,22 ppm,34.3C,27.9C,41,29,114,15,Normal monitoring,Water Stress
+1.67,Bright,6.0,15 ppm,37.3C,29.5C,46,18,117,22,Normal monitoring,Water Stress
+1.66,Bright,5.7,21 ppm,38.0C,31.4C,38,27,126,16,Normal monitoring,Water Stress
+1.61,Bright,4.7,15 ppm,28.2C,25.5C,28,15,107,52,Normal monitoring,Nutrient Deficiency
+1.71,Bright,6.0,6 ppm,16.2C,14.8C,80,35,207,60,Normal monitoring,Healthy
+1.68,Dark,3.9,59 ppm,26.7C,18.6C,70,28,188,76,Bacterial infection,Disease
+1.67,Dark,5.6,19 ppm,30.6C,23.3C,48,21,117,23,Normal monitoring,Water Stress
+1.61,Dim,6.2,9 ppm,29.9C,28.4C,86,43,200,59,Normal monitoring,Healthy
+1.73,Dim,6.2,11 ppm,21.6C,21.4C,89,40,208,61,Normal monitoring,Healthy
+1.62,Bright,4.7,10 ppm,17.6C,14.9C,36,10,92,56,Normal monitoring,Nutrient Deficiency
+1.64,Bright,5.7,15 ppm,28.9C,21.0C,48,17,103,21,Normal monitoring,Water Stress
+1.62,Bright,4.6,13 ppm,20.0C,18.2C,29,16,93,63,Normal monitoring,Nutrient Deficiency
+1.63,Dim,4.2,49 ppm,39.7C,33.8C,68,33,152,79,Viral infection,Disease
+1.62,Bright,6.4,9 ppm,33.5C,33.4C,78,46,216,64,Normal monitoring,Healthy
+1.62,Bright,3.8,39 ppm,21.3C,18.2C,71,39,155,83,Fungal infection,Disease
+1.63,Bright,4.4,51 ppm,38.4C,30.6C,61,37,193,84,Fungal infection,Disease
+1.64,Dim,5.7,23 ppm,20.7C,13.0C,43,24,125,29,Normal monitoring,Water Stress
+1.65,Bright,5.6,22 ppm,39.8C,34.0C,47,24,106,20,Normal monitoring,Water Stress
+1.67,Dim,5.4,10 ppm,22.8C,21.4C,34,13,100,50,Normal monitoring,Nutrient Deficiency
+1.61,Bright,5.8,19 ppm,40.5C,35.1C,48,23,121,19,Normal monitoring,Water Stress
+1.67,Bright,3.8,47 ppm,30.8C,27.0C,62,38,151,77,Pest infection,Disease
+1.65,Bright,4.2,43 ppm,33.0C,29.7C,78,36,170,67,Pest infection,Disease
+1.64,Bright,5.9,16 ppm,37.0C,29.2C,49,29,114,28,Normal monitoring,Water Stress
+1.61,Bright,6.4,10 ppm,12.8C,10.6C,78,42,206,67,Normal monitoring,Healthy
+1.63,Bright,5.9,18 ppm,36.9C,31.3C,46,19,103,25,Normal monitoring,Water Stress
+1.63,Dark,4.5,40 ppm,32.7C,25.1C,65,39,166,69,Pest infection,Disease
+1.66,Bright,5.3,17 ppm,28.1C,24.3C,42,12,90,64,Normal monitoring,Nutrient Deficiency
+1.59,Dim,3.9,61 ppm,36.8C,30.0C,68,35,151,82,Fungal infection,Disease
+1.66,Bright,5.3,15 ppm,27.7C,23.8C,49,19,117,53,Normal monitoring,Nutrient Deficiency
+1.65,Bright,5.7,15 ppm,43.5C,36.5C,48,21,101,21,Normal monitoring,Water Stress
+1.65,Bright,5.3,13 ppm,16.9C,15.5C,42,11,111,51,Normal monitoring,Nutrient Deficiency
+1.64,Bright,6.0,6 ppm,30.3C,31.0C,78,44,197,64,Normal monitoring,Healthy
+1.61,Bright,6.1,10 ppm,29.9C,27.9C,82,35,198,65,Normal monitoring,Healthy
+1.68,Bright,5.0,15 ppm,29.5C,28.6C,20,18,109,52,Normal monitoring,Nutrient Deficiency
+1.67,Bright,4.0,61 ppm,39.0C,34.0C,73,35,195,82,Fungal infection,Disease
+1.64,Bright,6.0,5 ppm,33.0C,33.4C,77,38,203,57,Normal monitoring,Healthy
+1.67,Dim,5.8,22 ppm,21.9C,16.7C,42,26,120,22,Normal monitoring,Water Stress
+1.67,Dim,3.9,44 ppm,30.8C,23.7C,70,35,169,75,Pest infection,Disease
+1.63,Bright,5.3,17 ppm,19.3C,16.9C,44,13,90,57,Normal monitoring,Nutrient Deficiency
+1.61,Bright,3.6,46 ppm,34.7C,31.6C,66,35,186,76,Bacterial infection,Disease
+1.67,Bright,5.6,23 ppm,39.5C,33.7C,44,18,97,20,Normal monitoring,Water Stress
+1.62,Dim,6.5,7 ppm,31.1C,29.1C,85,46,218,63,Normal monitoring,Healthy
+1.67,Bright,5.8,8 ppm,22.5C,20.7C,82,47,200,63,Normal monitoring,Healthy
+1.67,Bright,6.2,9 ppm,31.5C,31.4C,86,47,191,57,Normal monitoring,Healthy
+1.63,Bright,6.5,12 ppm,33.9C,33.7C,75,42,193,59,Normal monitoring,Healthy
+1.7,Bright,5.3,17 ppm,29.4C,26.9C,29,13,106,54,Normal monitoring,Nutrient Deficiency
+1.63,Bright,3.6,37 ppm,28.8C,24.9C,59,31,134,66,Viral infection,Disease
+1.59,Dim,5.9,18 ppm,37.7C,31.7C,43,29,98,28,Normal monitoring,Water Stress
+1.65,Dim,5.2,14 ppm,36.2C,32.6C,45,13,105,50,Normal monitoring,Nutrient Deficiency
+1.67,Bright,5.6,16 ppm,37.4C,30.9C,47,20,120,21,Normal monitoring,Water Stress
+1.67,Bright,5.8,23 ppm,42.2C,35.1C,38,22,120,27,Normal monitoring,Water Stress
+1.65,Dim,5.6,19 ppm,32.3C,24.4C,42,28,113,25,Normal monitoring,Water Stress
+1.68,Dim,5.6,19 ppm,40.2C,33.4C,46,15,113,29,Normal monitoring,Water Stress
+1.62,Dark,3.3,38 ppm,40.2C,35.1C,78,28,162,79,Bacterial infection,Disease
+1.69,Bright,4.6,17 ppm,35.4C,34.2C,24,15,116,53,Normal monitoring,Nutrient Deficiency
+1.62,Dim,3.6,49 ppm,21.6C,14.7C,75,30,163,74,Pest infection,Disease
+1.67,Bright,5.1,12 ppm,21.7C,21.6C,31,15,93,52,Normal monitoring,Nutrient Deficiency
+1.7,Bright,5.3,13 ppm,18.0C,17.7C,38,18,101,60,Normal monitoring,Nutrient Deficiency
+1.67,Bright,4.3,42 ppm,36.5C,32.1C,62,25,154,70,Fungal infection,Disease
+1.66,Dim,4.7,16 ppm,16.5C,13.4C,22,17,85,50,Normal monitoring,Nutrient Deficiency
+1.63,Bright,3.9,33 ppm,32.6C,28.0C,72,34,187,75,Pest infection,Disease
+1.63,Dim,5.0,11 ppm,32.9C,31.8C,37,14,90,64,Normal monitoring,Nutrient Deficiency
+1.67,Dark,4.7,11 ppm,24.1C,21.0C,38,19,85,51,Normal monitoring,Nutrient Deficiency
+1.64,Dim,4.6,15 ppm,20.0C,16.4C,28,18,83,54,Normal monitoring,Nutrient Deficiency
+1.66,Bright,5.6,15 ppm,26.1C,18.6C,46,27,91,19,Normal monitoring,Water Stress
+1.65,Bright,5.9,14 ppm,18.4C,17.3C,86,40,198,55,Normal monitoring,Healthy
+1.65,Bright,6.5,14 ppm,17.1C,17.0C,88,43,216,58,Normal monitoring,Healthy
+1.67,Bright,4.8,13 ppm,33.5C,31.8C,23,17,113,57,Normal monitoring,Nutrient Deficiency
+1.66,Dark,4.2,35 ppm,20.7C,16.5C,68,27,150,67,Viral infection,Disease
+1.65,Dim,5.9,6 ppm,35.2C,34.6C,86,49,212,58,Normal monitoring,Healthy
+1.66,Bright,4.1,31 ppm,44.2C,37.9C,73,28,180,76,Pest infection,Disease
+1.62,Dark,4.2,33 ppm,17.7C,14.5C,73,31,155,69,Pest infection,Disease
+1.7,Bright,4.7,11 ppm,36.1C,32.3C,34,16,101,60,Normal monitoring,Nutrient Deficiency
+1.68,Dim,6.2,8 ppm,38.9C,36.6C,85,41,190,68,Normal monitoring,Healthy
+1.66,Bright,5.8,21 ppm,30.0C,23.4C,46,23,107,27,Normal monitoring,Water Stress
+1.68,Bright,3.4,44 ppm,25.8C,17.2C,68,37,184,74,Bacterial infection,Disease
+1.7,Dim,5.9,19 ppm,31.5C,25.3C,39,27,111,12,Normal monitoring,Water Stress
+1.61,Bright,6.0,12 ppm,22.4C,19.5C,80,47,213,58,Normal monitoring,Healthy
+1.63,Dim,5.9,23 ppm,27.4C,19.7C,35,15,101,15,Normal monitoring,Water Stress
+1.71,Dim,4.6,12 ppm,35.1C,32.2C,20,13,105,53,Normal monitoring,Nutrient Deficiency
+1.65,Dim,6.0,20 ppm,44.0C,36.9C,39,22,110,27,Normal monitoring,Water Stress
+1.65,Bright,6.3,6 ppm,31.2C,30.8C,78,40,207,69,Normal monitoring,Healthy
+1.65,Dim,5.5,16 ppm,41.8C,35.6C,36,19,111,21,Normal monitoring,Water Stress
+1.67,Bright,5.7,18 ppm,21.8C,16.2C,37,18,129,22,Normal monitoring,Water Stress
+1.62,Dark,4.1,57 ppm,34.2C,27.0C,51,38,169,70,Viral infection,Disease
+1.69,Dim,5.3,11 ppm,16.3C,16.2C,20,14,82,61,Normal monitoring,Nutrient Deficiency
+1.67,Bright,4.8,10 ppm,31.4C,30.5C,26,14,108,64,Normal monitoring,Nutrient Deficiency
+1.61,Bright,6.3,12 ppm,27.2C,28.0C,84,43,218,64,Normal monitoring,Healthy
+1.64,Bright,5.9,9 ppm,36.6C,35.5C,88,46,219,57,Normal monitoring,Healthy
+1.64,Dim,5.6,19 ppm,25.6C,20.2C,46,28,99,25,Normal monitoring,Water Stress
+1.65,Bright,5.9,20 ppm,40.1C,34.5C,36,20,123,21,Normal monitoring,Water Stress
+1.64,Dark,5.8,22 ppm,43.5C,35.5C,38,19,122,16,Normal monitoring,Water Stress
+1.65,Bright,3.6,53 ppm,28.3C,24.7C,75,29,161,76,Pest infection,Disease
+1.64,Bright,5.9,22 ppm,41.6C,33.9C,37,26,107,26,Normal monitoring,Water Stress
+1.67,Dark,6.4,8 ppm,18.4C,16.0C,78,39,216,56,Normal monitoring,Healthy
+1.61,Dark,4.2,32 ppm,37.7C,34.0C,64,32,166,67,Viral infection,Disease
+1.71,Dark,3.9,37 ppm,29.4C,22.0C,65,26,183,66,Pest infection,Disease
+1.61,Dark,5.4,12 ppm,32.0C,29.8C,26,17,98,54,Normal monitoring,Nutrient Deficiency
+1.68,Bright,5.9,21 ppm,32.3C,24.6C,44,22,124,14,Normal monitoring,Water Stress
+1.67,Dim,5.7,23 ppm,27.1C,19.4C,38,25,104,10,Normal monitoring,Water Stress
+1.59,Bright,4.5,35 ppm,35.8C,32.5C,67,25,169,68,Pest infection,Disease
+1.61,Dim,6.4,8 ppm,32.9C,31.4C,86,44,196,63,Normal monitoring,Healthy
+1.65,Dim,5.5,23 ppm,41.8C,35.2C,40,19,120,22,Normal monitoring,Water Stress
+1.68,Dim,5.9,18 ppm,37.4C,31.2C,38,18,96,23,Normal monitoring,Water Stress
+1.64,Dim,6.2,12 ppm,29.4C,31.0C,87,43,219,60,Normal monitoring,Healthy
+1.67,Bright,5.9,18 ppm,42.8C,37.0C,41,18,106,26,Normal monitoring,Water Stress
+1.69,Bright,6.0,21 ppm,26.0C,20.4C,48,27,120,11,Normal monitoring,Water Stress
+1.59,Bright,6.3,7 ppm,20.8C,18.8C,78,38,207,55,Normal monitoring,Healthy
+1.67,Dim,4.1,43 ppm,42.5C,35.7C,79,30,155,71,Pest infection,Disease
+1.63,Dim,4.5,63 ppm,28.2C,18.7C,61,35,168,79,Fungal infection,Disease
+1.65,Bright,6.0,5 ppm,31.2C,32.8C,77,47,205,62,Normal monitoring,Healthy
+1.7,Dark,4.1,42 ppm,22.7C,16.0C,74,29,153,67,Pest infection,Disease
+1.65,Dark,4.7,10 ppm,23.6C,21.5C,49,15,119,54,Normal monitoring,Nutrient Deficiency
+1.68,Dim,6.0,21 ppm,24.3C,17.8C,42,18,105,22,Normal monitoring,Water Stress
+1.64,Dim,5.3,13 ppm,32.8C,31.3C,20,14,94,59,Normal monitoring,Nutrient Deficiency
+1.72,Dim,5.3,12 ppm,19.7C,17.0C,20,14,82,60,Normal monitoring,Nutrient Deficiency
+1.57,Bright,5.5,16 ppm,42.3C,34.5C,37,20,122,21,Normal monitoring,Water Stress
+1.68,Dim,6.3,6 ppm,14.7C,14.9C,77,49,198,61,Normal monitoring,Healthy
+1.71,Bright,5.5,23 ppm,34.2C,27.9C,36,18,111,13,Normal monitoring,Water Stress
+1.68,Bright,5.8,24 ppm,20.7C,14.6C,38,15,126,23,Normal monitoring,Water Stress
+1.66,Bright,5.7,15 ppm,38.2C,31.0C,35,24,108,26,Normal monitoring,Water Stress
+1.66,Bright,3.7,62 ppm,26.8C,19.7C,76,31,187,74,Fungal infection,Disease
+1.66,Dim,4.3,46 ppm,43.4C,34.1C,73,38,199,77,Pest infection,Disease
+1.68,Dim,5.7,24 ppm,37.2C,30.3C,39,29,118,27,Normal monitoring,Water Stress
+1.66,Dark,5.9,22 ppm,33.3C,26.2C,48,22,123,18,Normal monitoring,Water Stress
+1.65,Bright,6.0,13 ppm,17.8C,15.9C,86,45,206,58,Normal monitoring,Healthy
+1.64,Bright,4.1,37 ppm,41.3C,33.7C,72,28,193,68,Pest infection,Disease
+1.6,Dim,6.3,12 ppm,20.4C,22.2C,83,44,207,58,Normal monitoring,Healthy
+1.65,Dim,5.4,16 ppm,24.1C,20.5C,23,15,80,50,Normal monitoring,Nutrient Deficiency
+1.66,Bright,6.2,9 ppm,32.4C,31.5C,76,45,215,56,Normal monitoring,Healthy
+1.63,Dark,5.4,14 ppm,14.9C,11.4C,49,11,90,61,Normal monitoring,Nutrient Deficiency
+1.64,Bright,4.9,10 ppm,37.7C,35.0C,23,16,110,63,Normal monitoring,Nutrient Deficiency
+1.62,Dark,5.8,20 ppm,45.2C,38.4C,46,16,117,19,Normal monitoring,Water Stress
+1.67,Bright,5.5,22 ppm,36.9C,30.9C,38,18,110,14,Normal monitoring,Water Stress
+1.62,Bright,5.7,21 ppm,26.7C,18.9C,47,24,127,19,Normal monitoring,Water Stress
+1.66,Bright,6.0,21 ppm,30.1C,22.5C,41,26,120,29,Normal monitoring,Water Stress
+1.65,Dim,6.3,13 ppm,21.3C,21.2C,76,40,215,59,Normal monitoring,Healthy
+1.67,Dim,4.0,52 ppm,25.6C,19.0C,62,35,191,71,Pest infection,Disease
+1.68,Bright,5.5,12 ppm,22.0C,21.0C,34,12,80,55,Normal monitoring,Nutrient Deficiency
+1.63,Dark,5.8,22 ppm,38.9C,33.5C,42,29,99,12,Normal monitoring,Water Stress
+1.69,Dark,4.9,14 ppm,34.2C,32.0C,27,13,115,50,Normal monitoring,Nutrient Deficiency
+1.63,Bright,4.2,47 ppm,38.4C,31.8C,79,37,163,70,Fungal infection,Disease
+1.67,Bright,6.3,8 ppm,35.5C,32.5C,80,47,211,63,Normal monitoring,Healthy
+1.63,Bright,5.7,18 ppm,32.8C,25.8C,44,17,94,27,Normal monitoring,Water Stress
+1.61,Dark,6.1,6 ppm,23.7C,23.4C,80,36,212,66,Normal monitoring,Healthy
+1.64,Bright,3.9,43 ppm,25.6C,21.3C,54,31,151,68,Viral infection,Disease
+1.58,Dim,6.0,5 ppm,25.6C,24.5C,80,42,199,60,Normal monitoring,Healthy
+1.57,Bright,6.4,13 ppm,37.1C,35.2C,89,48,194,68,Normal monitoring,Healthy
+1.67,Dim,3.8,38 ppm,37.0C,29.5C,73,32,159,84,Fungal infection,Disease
+1.62,Dark,5.9,16 ppm,22.7C,14.8C,37,26,95,14,Normal monitoring,Water Stress
+1.63,Dark,6.0,15 ppm,42.2C,34.4C,49,29,102,23,Normal monitoring,Water Stress
+1.62,Bright,3.7,36 ppm,36.6C,33.4C,57,29,176,66,Viral infection,Disease
+1.62,Bright,4.2,55 ppm,23.1C,17.3C,65,26,182,65,Bacterial infection,Disease
+1.68,Dim,5.9,24 ppm,43.6C,36.0C,47,16,124,10,Normal monitoring,Water Stress
+1.67,Dim,4.6,11 ppm,15.8C,15.2C,32,10,85,54,Normal monitoring,Nutrient Deficiency
+1.64,Bright,5.0,18 ppm,37.5C,33.5C,32,14,95,50,Normal monitoring,Nutrient Deficiency
+1.67,Bright,5.8,20 ppm,31.8C,26.6C,48,20,114,27,Normal monitoring,Water Stress
+1.67,Bright,3.8,36 ppm,38.8C,30.2C,71,38,169,74,Pest infection,Disease
+1.58,Dim,5.6,16 ppm,33.5C,26.6C,41,25,106,18,Normal monitoring,Water Stress
+1.6,Bright,5.9,23 ppm,40.3C,32.5C,36,18,126,12,Normal monitoring,Water Stress
+1.63,Dim,6.0,23 ppm,41.3C,33.6C,36,23,102,14,Normal monitoring,Water Stress
+1.59,Bright,5.5,16 ppm,32.1C,27.1C,42,25,115,28,Normal monitoring,Water Stress
+1.65,Bright,3.6,36 ppm,31.6C,25.4C,68,32,173,81,Fungal infection,Disease
+1.63,Bright,3.3,47 ppm,27.2C,23.4C,61,25,199,71,Bacterial infection,Disease
+1.7,Bright,5.8,16 ppm,40.9C,33.8C,42,28,90,25,Normal monitoring,Water Stress
+1.67,Bright,3.6,30 ppm,33.2C,24.7C,55,32,169,70,Viral infection,Disease
+1.64,Bright,5.7,15 ppm,37.1C,30.2C,40,23,108,21,Normal monitoring,Water Stress
+1.68,Bright,3.8,60 ppm,38.7C,32.9C,60,27,195,78,Fungal infection,Disease
+1.66,Dark,5.2,14 ppm,32.5C,29.8C,21,15,102,62,Normal monitoring,Nutrient Deficiency
+1.63,Bright,5.7,22 ppm,39.3C,32.8C,41,29,113,25,Normal monitoring,Water Stress
+1.64,Dim,6.0,7 ppm,15.4C,15.5C,82,41,193,56,Normal monitoring,Healthy
+1.62,Bright,4.5,48 ppm,37.9C,31.9C,60,35,179,69,Pest infection,Disease
+1.74,Bright,5.6,24 ppm,40.2C,34.0C,42,19,96,10,Normal monitoring,Water Stress
+1.66,Bright,4.3,52 ppm,38.7C,31.2C,68,29,135,77,Viral infection,Disease
+1.61,Bright,4.9,15 ppm,19.3C,18.7C,39,16,82,51,Normal monitoring,Nutrient Deficiency
+1.66,Bright,5.0,12 ppm,35.2C,33.1C,39,17,112,53,Normal monitoring,Nutrient Deficiency
+1.63,Bright,4.6,17 ppm,39.0C,37.7C,47,15,117,61,Normal monitoring,Nutrient Deficiency
+1.63,Bright,6.3,6 ppm,28.5C,28.4C,86,41,199,63,Normal monitoring,Healthy
+1.63,Bright,6.4,8 ppm,19.6C,17.9C,77,35,193,63,Normal monitoring,Healthy
+1.67,Bright,6.2,9 ppm,22.6C,24.3C,81,38,214,57,Normal monitoring,Healthy
+1.64,Bright,5.2,14 ppm,24.0C,22.8C,33,10,106,57,Normal monitoring,Nutrient Deficiency
+1.57,Bright,3.9,39 ppm,21.0C,15.5C,62,28,196,65,Pest infection,Disease
+1.66,Bright,6.4,8 ppm,16.9C,14.1C,87,43,218,63,Normal monitoring,Healthy
+1.65,Bright,5.2,16 ppm,22.8C,19.3C,37,13,89,51,Normal monitoring,Nutrient Deficiency
+1.61,Dim,5.6,18 ppm,28.7C,23.6C,35,24,112,29,Normal monitoring,Water Stress
+1.66,Bright,6.2,9 ppm,35.2C,32.7C,81,42,210,64,Normal monitoring,Healthy
+1.61,Dark,5.5,20 ppm,36.6C,31.3C,47,22,105,20,Normal monitoring,Water Stress
+1.68,Bright,5.6,24 ppm,25.6C,18.0C,43,25,95,23,Normal monitoring,Water Stress
+1.63,Bright,5.8,22 ppm,26.4C,19.4C,37,21,107,13,Normal monitoring,Water Stress
+1.65,Bright,5.8,21 ppm,23.0C,17.2C,44,21,107,10,Normal monitoring,Water Stress
+1.63,Dark,3.8,48 ppm,35.3C,29.4C,61,25,152,81,Fungal infection,Disease
+1.65,Bright,4.4,41 ppm,36.6C,29.2C,50,36,147,71,Viral infection,Disease
+1.68,Bright,3.7,56 ppm,21.1C,13.1C,70,37,196,70,Fungal infection,Disease
+1.63,Bright,5.7,24 ppm,26.1C,20.8C,49,22,94,18,Normal monitoring,Water Stress
+1.62,Bright,6.4,8 ppm,25.9C,24.0C,86,39,215,68,Normal monitoring,Healthy
+1.66,Bright,4.1,37 ppm,36.6C,30.5C,62,28,152,70,Viral infection,Disease
+1.67,Bright,6.0,10 ppm,32.5C,29.6C,86,36,191,61,Normal monitoring,Healthy
+1.6,Bright,5.0,19 ppm,26.8C,25.8C,46,10,86,63,Normal monitoring,Nutrient Deficiency
+1.67,Dim,6.3,8 ppm,19.9C,18.2C,78,37,190,64,Normal monitoring,Healthy
+1.66,Bright,5.9,20 ppm,32.4C,25.2C,35,20,91,26,Normal monitoring,Water Stress
+1.68,Bright,5.7,23 ppm,42.0C,35.9C,44,21,94,21,Normal monitoring,Water Stress
+1.68,Bright,6.1,8 ppm,37.0C,37.0C,80,36,210,64,Normal monitoring,Healthy
+1.61,Bright,4.0,44 ppm,31.6C,22.8C,66,36,159,69,Pest infection,Disease
+1.65,Bright,5.5,16 ppm,21.8C,14.1C,35,19,97,25,Normal monitoring,Water Stress
+1.66,Bright,5.8,15 ppm,37.5C,30.3C,45,22,102,28,Normal monitoring,Water Stress
+1.62,Dim,3.6,59 ppm,33.8C,24.3C,77,33,153,78,Fungal infection,Disease
+1.69,Bright,3.6,42 ppm,39.7C,36.1C,62,39,163,71,Viral infection,Disease
+1.61,Bright,6.0,10 ppm,30.6C,30.8C,83,46,215,68,Normal monitoring,Healthy
+1.61,Dim,4.4,39 ppm,41.6C,33.2C,68,32,174,79,Pest infection,Disease
+1.64,Bright,6.5,14 ppm,30.2C,28.8C,77,48,191,59,Normal monitoring,Healthy
+1.64,Bright,5.4,15 ppm,40.8C,37.6C,49,13,117,54,Normal monitoring,Nutrient Deficiency
+1.62,Dim,4.8,19 ppm,34.0C,31.6C,24,15,88,54,Normal monitoring,Nutrient Deficiency
+1.63,Bright,4.5,16 ppm,31.4C,29.2C,41,12,83,57,Normal monitoring,Nutrient Deficiency
+1.66,Dim,3.9,38 ppm,22.8C,13.2C,60,34,152,78,Viral infection,Disease
+1.63,Dim,5.9,19 ppm,36.2C,30.6C,37,20,109,20,Normal monitoring,Water Stress
+1.71,Dim,6.3,12 ppm,17.6C,17.3C,78,49,208,63,Normal monitoring,Healthy
+1.67,Dark,6.5,12 ppm,33.6C,31.2C,82,39,202,58,Normal monitoring,Healthy
+1.65,Dim,6.3,12 ppm,37.7C,36.2C,89,40,211,55,Normal monitoring,Healthy
+1.65,Dark,5.9,24 ppm,23.4C,15.8C,45,29,104,23,Normal monitoring,Water Stress
+1.68,Dark,5.3,10 ppm,38.7C,36.2C,26,17,84,63,Normal monitoring,Nutrient Deficiency
+1.67,Dim,3.8,43 ppm,18.5C,13.0C,60,35,153,71,Pest infection,Disease
+1.63,Dim,4.6,14 ppm,22.5C,22.3C,28,15,110,50,Normal monitoring,Nutrient Deficiency
+1.66,Bright,5.7,23 ppm,34.1C,28.1C,37,16,114,29,Normal monitoring,Water Stress
+1.67,Dim,5.0,15 ppm,30.5C,27.6C,46,15,106,61,Normal monitoring,Nutrient Deficiency
+1.63,Bright,3.5,56 ppm,42.6C,33.1C,73,30,174,73,Fungal infection,Disease
+1.63,Bright,6.2,5 ppm,29.2C,30.7C,76,36,197,65,Normal monitoring,Healthy
+1.66,Dim,6.2,10 ppm,35.6C,36.0C,81,48,215,65,Normal monitoring,Healthy
+1.66,Bright,5.7,20 ppm,38.2C,31.9C,35,24,128,24,Normal monitoring,Water Stress
+1.66,Bright,5.6,17 ppm,34.6C,27.5C,42,22,93,12,Normal monitoring,Water Stress
+1.66,Bright,6.0,24 ppm,39.5C,33.7C,47,17,103,23,Normal monitoring,Water Stress
+1.64,Bright,6.1,14 ppm,34.3C,35.5C,78,40,215,60,Normal monitoring,Healthy
+1.61,Bright,6.1,12 ppm,35.6C,35.5C,89,43,217,57,Normal monitoring,Healthy
+1.66,Dark,5.8,17 ppm,35.5C,27.7C,48,16,92,28,Normal monitoring,Water Stress
+1.62,Bright,5.7,22 ppm,23.8C,16.6C,36,29,98,22,Normal monitoring,Water Stress
+1.63,Dark,4.2,48 ppm,41.0C,32.3C,68,39,152,65,Pest infection,Disease
+1.66,Bright,5.9,24 ppm,28.7C,21.2C,38,24,101,15,Normal monitoring,Water Stress
+1.67,Dim,4.8,10 ppm,28.8C,28.1C,35,19,89,55,Normal monitoring,Nutrient Deficiency
+1.62,Bright,6.4,12 ppm,31.8C,32.9C,88,41,208,65,Normal monitoring,Healthy
+1.65,Dark,4.6,10 ppm,37.6C,35.0C,25,13,102,62,Normal monitoring,Nutrient Deficiency
+1.63,Dark,3.3,32 ppm,22.2C,15.0C,61,32,163,69,Bacterial infection,Disease
+1.64,Bright,5.9,23 ppm,30.3C,23.4C,40,18,100,17,Normal monitoring,Water Stress
+1.65,Dim,5.3,12 ppm,38.2C,34.5C,25,15,81,54,Normal monitoring,Nutrient Deficiency
+1.64,Bright,4.3,37 ppm,23.0C,19.8C,69,29,147,76,Viral infection,Disease
+1.66,Bright,4.8,11 ppm,24.3C,21.4C,36,13,96,63,Normal monitoring,Nutrient Deficiency
+1.73,Dim,6.0,23 ppm,21.7C,16.3C,40,29,99,18,Normal monitoring,Water Stress
+1.61,Bright,6.1,8 ppm,38.1C,35.2C,75,38,198,55,Normal monitoring,Healthy
+1.63,Bright,5.1,13 ppm,18.1C,14.6C,27,19,94,63,Normal monitoring,Nutrient Deficiency
+1.64,Bright,4.8,17 ppm,34.6C,31.4C,36,12,101,51,Normal monitoring,Nutrient Deficiency
+1.63,Bright,6.2,6 ppm,23.9C,25.4C,80,42,194,58,Normal monitoring,Healthy
+1.71,Bright,3.8,51 ppm,41.1C,32.3C,79,37,194,74,Fungal infection,Disease
+1.63,Bright,6.1,13 ppm,26.1C,26.9C,89,45,211,62,Normal monitoring,Healthy
+1.67,Bright,6.0,12 ppm,37.9C,35.5C,87,45,209,61,Normal monitoring,Healthy
+1.69,Bright,5.9,20 ppm,21.4C,14.1C,36,22,91,15,Normal monitoring,Water Stress
+1.59,Bright,6.4,14 ppm,33.6C,34.3C,75,39,218,58,Normal monitoring,Healthy
+1.66,Bright,5.5,21 ppm,42.5C,36.6C,47,23,98,29,Normal monitoring,Water Stress
+1.63,Dim,5.3,15 ppm,39.3C,36.1C,24,19,86,52,Normal monitoring,Nutrient Deficiency
+1.59,Dim,5.9,6 ppm,35.8C,35.0C,85,45,203,63,Normal monitoring,Healthy
+1.7,Dim,5.2,15 ppm,37.3C,33.4C,34,17,113,51,Normal monitoring,Nutrient Deficiency
+1.63,Dark,3.9,33 ppm,42.1C,32.6C,66,36,179,79,Viral infection,Disease
+1.69,Dim,6.3,8 ppm,21.0C,20.1C,77,39,215,58,Normal monitoring,Healthy
+1.64,Bright,4.2,50 ppm,35.9C,29.8C,77,38,192,66,Pest infection,Disease
+1.63,Dim,5.1,11 ppm,18.0C,17.7C,49,16,93,56,Normal monitoring,Nutrient Deficiency
+1.65,Bright,5.8,19 ppm,34.2C,27.4C,41,23,100,19,Normal monitoring,Water Stress
+1.65,Bright,4.3,47 ppm,40.5C,31.3C,60,34,168,69,Pest infection,Disease
+1.68,Dim,6.1,14 ppm,26.2C,26.2C,80,48,199,66,Normal monitoring,Healthy
+1.63,Bright,6.4,11 ppm,18.7C,17.2C,79,37,216,61,Normal monitoring,Healthy
+1.68,Dark,5.8,14 ppm,19.3C,20.1C,75,45,216,69,Normal monitoring,Healthy
+1.63,Bright,4.6,13 ppm,31.7C,30.0C,38,14,119,59,Normal monitoring,Nutrient Deficiency
+1.65,Bright,4.6,12 ppm,35.1C,32.6C,28,16,109,64,Normal monitoring,Nutrient Deficiency
+1.68,Bright,6.3,6 ppm,33.5C,30.7C,87,35,197,59,Normal monitoring,Healthy
+1.62,Dim,6.3,12 ppm,32.6C,33.9C,75,46,195,63,Normal monitoring,Healthy
+1.65,Bright,4.2,46 ppm,33.4C,23.4C,69,33,141,67,Viral infection,Disease
+1.65,Bright,5.0,17 ppm,37.5C,34.9C,20,17,114,64,Normal monitoring,Nutrient Deficiency
+1.67,Bright,5.8,17 ppm,21.9C,14.7C,39,18,117,29,Normal monitoring,Water Stress
+1.58,Bright,4.7,12 ppm,33.4C,31.4C,46,13,92,54,Normal monitoring,Nutrient Deficiency
+1.64,Dim,3.6,54 ppm,24.6C,16.6C,70,30,165,71,Bacterial infection,Disease
+1.65,Dark,5.7,21 ppm,38.9C,32.4C,43,27,93,29,Normal monitoring,Water Stress
+1.73,Bright,5.8,24 ppm,41.7C,35.3C,47,22,114,13,Normal monitoring,Water Stress
+1.65,Dim,6.0,6 ppm,15.9C,17.5C,77,35,209,67,Normal monitoring,Healthy
+1.59,Bright,6.1,11 ppm,22.0C,23.9C,79,44,212,55,Normal monitoring,Healthy
+1.61,Bright,5.8,22 ppm,21.6C,15.5C,47,16,91,18,Normal monitoring,Water Stress
+1.67,Dim,5.8,10 ppm,19.4C,17.4C,82,46,215,66,Normal monitoring,Healthy
+1.66,Dim,5.6,20 ppm,38.0C,31.1C,46,15,99,11,Normal monitoring,Water Stress
+1.59,Bright,4.4,40 ppm,36.3C,32.0C,76,26,180,76,Pest infection,Disease
+1.71,Bright,4.4,54 ppm,29.4C,19.7C,68,25,170,76,Fungal infection,Disease
+1.64,Bright,5.1,15 ppm,23.4C,22.4C,34,19,96,56,Normal monitoring,Nutrient Deficiency
+1.65,Dim,6.5,8 ppm,13.8C,15.1C,84,40,214,55,Normal monitoring,Healthy
+1.65,Bright,5.2,13 ppm,22.7C,22.1C,37,15,114,50,Normal monitoring,Nutrient Deficiency
+1.69,Bright,5.9,10 ppm,23.6C,21.6C,76,43,190,60,Normal monitoring,Healthy
+1.64,Bright,3.7,54 ppm,25.7C,18.5C,79,29,172,71,Pest infection,Disease
+1.63,Bright,5.1,18 ppm,31.0C,28.9C,34,11,105,64,Normal monitoring,Nutrient Deficiency
+1.63,Bright,5.1,16 ppm,26.1C,24.3C,23,13,83,51,Normal monitoring,Nutrient Deficiency
+1.66,Bright,3.9,58 ppm,22.0C,18.2C,62,34,154,76,Pest infection,Disease
+1.63,Bright,6.2,14 ppm,15.3C,16.8C,87,43,197,64,Normal monitoring,Healthy
+1.66,Bright,4.5,35 ppm,22.8C,16.8C,79,30,183,71,Fungal infection,Disease
+1.63,Bright,4.5,42 ppm,37.6C,33.5C,65,29,160,65,Viral infection,Disease
+1.65,Bright,5.7,24 ppm,23.7C,16.4C,45,15,123,22,Normal monitoring,Water Stress
+1.67,Bright,5.6,24 ppm,41.0C,34.2C,35,26,128,13,Normal monitoring,Water Stress
+1.66,Bright,5.5,18 ppm,37.8C,32.3C,40,22,126,13,Normal monitoring,Water Stress
+1.68,Dim,5.8,19 ppm,18.9C,13.5C,43,17,104,15,Normal monitoring,Water Stress
+1.59,Bright,4.1,30 ppm,39.5C,29.9C,77,32,181,77,Pest infection,Disease
+1.63,Dim,5.6,22 ppm,31.2C,26.0C,41,27,90,28,Normal monitoring,Water Stress
+1.63,Bright,5.6,21 ppm,32.7C,25.6C,45,16,122,11,Normal monitoring,Water Stress
+1.64,Bright,5.3,11 ppm,36.8C,34.2C,21,18,90,58,Normal monitoring,Nutrient Deficiency
+1.69,Bright,5.2,18 ppm,33.1C,30.5C,36,17,98,54,Normal monitoring,Nutrient Deficiency
+1.63,Bright,5.9,21 ppm,39.2C,33.9C,41,25,111,21,Normal monitoring,Water Stress
+1.7,Dark,4.3,37 ppm,39.6C,31.0C,63,34,136,77,Viral infection,Disease
+1.64,Bright,4.5,17 ppm,30.5C,27.4C,37,15,85,52,Normal monitoring,Nutrient Deficiency
+1.68,Bright,5.3,18 ppm,24.9C,24.5C,20,11,102,62,Normal monitoring,Nutrient Deficiency
+1.64,Bright,3.7,56 ppm,23.5C,19.8C,64,37,198,65,Bacterial infection,Disease
+1.64,Bright,4.2,61 ppm,21.3C,14.8C,71,33,172,71,Fungal infection,Disease
+1.63,Dark,4.8,14 ppm,35.9C,35.9C,31,18,113,51,Normal monitoring,Nutrient Deficiency
+1.67,Dark,3.9,47 ppm,43.0C,38.0C,76,25,171,79,Pest infection,Disease
+1.7,Bright,5.9,11 ppm,32.5C,34.5C,85,42,199,63,Normal monitoring,Healthy
+1.67,Bright,5.9,14 ppm,26.2C,23.9C,82,47,210,61,Normal monitoring,Healthy
+1.64,Dim,5.5,22 ppm,28.1C,22.6C,42,16,111,20,Normal monitoring,Water Stress
+1.66,Bright,5.9,8 ppm,35.0C,34.5C,80,47,208,55,Normal monitoring,Healthy
+1.66,Dim,5.8,20 ppm,40.0C,34.7C,38,21,123,15,Normal monitoring,Water Stress
+1.64,Bright,5.0,16 ppm,35.6C,34.3C,25,17,85,63,Normal monitoring,Nutrient Deficiency
+1.63,Bright,5.8,20 ppm,33.9C,26.4C,36,16,114,22,Normal monitoring,Water Stress
+1.66,Dim,5.0,16 ppm,39.9C,37.9C,31,17,115,58,Normal monitoring,Nutrient Deficiency
+1.61,Bright,5.1,10 ppm,33.1C,29.6C,21,14,115,56,Normal monitoring,Nutrient Deficiency
+1.63,Dim,5.5,13 ppm,19.2C,18.3C,48,13,87,52,Normal monitoring,Nutrient Deficiency
+1.67,Bright,5.0,18 ppm,16.0C,15.9C,40,11,103,59,Normal monitoring,Nutrient Deficiency
+1.62,Bright,4.2,33 ppm,40.9C,32.1C,66,34,163,75,Viral infection,Disease
+1.7,Bright,3.7,54 ppm,22.3C,18.7C,56,33,162,67,Viral infection,Disease
+1.6,Bright,5.8,20 ppm,40.3C,33.7C,46,16,112,10,Normal monitoring,Water Stress
+1.65,Bright,5.8,17 ppm,34.6C,26.7C,35,15,94,22,Normal monitoring,Water Stress
+1.68,Bright,6.0,6 ppm,26.2C,26.5C,88,38,190,61,Normal monitoring,Healthy
+1.69,Dim,4.4,57 ppm,19.3C,15.0C,64,39,188,69,Pest infection,Disease
+1.68,Dim,3.2,42 ppm,27.7C,18.9C,67,27,198,73,Bacterial infection,Disease
+1.63,Dark,5.8,16 ppm,21.0C,14.5C,49,27,114,11,Normal monitoring,Water Stress
+1.63,Bright,6.1,8 ppm,12.1C,11.5C,84,45,214,60,Normal monitoring,Healthy
+1.59,Bright,4.6,18 ppm,31.2C,29.1C,32,10,98,55,Normal monitoring,Nutrient Deficiency
+1.68,Dim,4.5,58 ppm,45.9C,36.0C,67,37,142,76,Viral infection,Disease
+1.68,Bright,4.8,10 ppm,32.5C,31.6C,33,11,101,58,Normal monitoring,Nutrient Deficiency
+1.73,Bright,6.1,9 ppm,33.4C,32.7C,89,42,211,60,Normal monitoring,Healthy
+1.64,Bright,4.1,36 ppm,40.2C,32.1C,61,35,195,74,Bacterial infection,Disease
+1.69,Dim,5.9,24 ppm,38.7C,33.5C,49,19,114,21,Normal monitoring,Water Stress
+1.63,Dim,5.1,10 ppm,26.3C,24.9C,37,12,115,59,Normal monitoring,Nutrient Deficiency
+1.64,Bright,5.3,19 ppm,29.8C,27.3C,26,16,93,64,Normal monitoring,Nutrient Deficiency
+1.65,Dark,6.1,7 ppm,18.5C,17.0C,87,35,197,66,Normal monitoring,Healthy
+1.67,Bright,5.1,19 ppm,39.7C,37.8C,33,14,101,52,Normal monitoring,Nutrient Deficiency
+1.64,Dim,6.0,20 ppm,31.1C,24.9C,44,19,103,25,Normal monitoring,Water Stress
+1.66,Bright,4.0,36 ppm,35.4C,31.3C,66,28,198,70,Bacterial infection,Disease
+1.72,Bright,3.5,54 ppm,27.7C,23.3C,64,29,186,72,Bacterial infection,Disease
+1.67,Bright,5.7,20 ppm,37.8C,31.3C,47,15,124,25,Normal monitoring,Water Stress
+1.64,Bright,5.8,22 ppm,26.3C,19.1C,46,15,126,22,Normal monitoring,Water Stress
+1.66,Bright,4.7,10 ppm,24.2C,23.9C,41,14,95,63,Normal monitoring,Nutrient Deficiency
+1.71,Bright,6.0,10 ppm,31.4C,31.0C,76,40,207,57,Normal monitoring,Healthy
+1.65,Dim,4.7,13 ppm,31.9C,29.4C,48,16,96,50,Normal monitoring,Nutrient Deficiency
+1.6,Bright,3.5,35 ppm,32.2C,26.5C,65,34,193,67,Pest infection,Disease
+1.68,Bright,6.0,12 ppm,32.7C,33.8C,86,35,199,65,Normal monitoring,Healthy
+1.67,Dim,6.5,11 ppm,37.7C,34.9C,88,43,193,63,Normal monitoring,Healthy
+1.64,Bright,5.9,17 ppm,39.2C,33.5C,39,18,119,18,Normal monitoring,Water Stress
+1.62,Bright,5.1,15 ppm,27.1C,24.4C,21,13,101,50,Normal monitoring,Nutrient Deficiency
+1.65,Dim,4.5,46 ppm,39.7C,34.5C,73,28,167,70,Fungal infection,Disease
+1.63,Dim,5.8,16 ppm,23.4C,17.7C,37,24,102,12,Normal monitoring,Water Stress
+1.65,Bright,3.8,36 ppm,31.4C,25.7C,78,39,195,76,Bacterial infection,Disease
+1.66,Bright,5.7,20 ppm,42.5C,36.1C,40,24,92,13,Normal monitoring,Water Stress
+1.7,Bright,5.3,14 ppm,34.2C,33.8C,35,16,114,58,Normal monitoring,Nutrient Deficiency
+1.69,Dim,6.2,12 ppm,33.1C,34.1C,84,36,191,66,Normal monitoring,Healthy
+1.67,Bright,4.0,62 ppm,40.3C,32.7C,77,39,164,72,Fungal infection,Disease
+1.71,Dim,5.5,20 ppm,40.0C,33.5C,49,19,128,27,Normal monitoring,Water Stress
+1.63,Bright,4.9,14 ppm,30.2C,26.6C,30,11,106,59,Normal monitoring,Nutrient Deficiency
+1.64,Bright,6.5,12 ppm,30.6C,32.3C,84,47,210,59,Normal monitoring,Healthy
+1.67,Bright,5.7,20 ppm,31.7C,23.8C,42,23,96,11,Normal monitoring,Water Stress
+1.7,Dark,5.8,19 ppm,36.5C,29.1C,49,19,92,14,Normal monitoring,Water Stress
+1.69,Dim,5.0,19 ppm,33.6C,31.5C,32,13,83,56,Normal monitoring,Nutrient Deficiency
+1.62,Bright,5.1,17 ppm,32.2C,30.1C,31,15,86,54,Normal monitoring,Nutrient Deficiency
+1.65,Dim,6.5,9 ppm,34.0C,35.4C,80,45,212,55,Normal monitoring,Healthy
+1.6,Dim,4.4,62 ppm,25.9C,22.5C,70,29,199,77,Fungal infection,Disease
+1.69,Bright,3.7,30 ppm,43.2C,35.1C,71,29,193,71,Bacterial infection,Disease
+1.62,Dim,6.1,8 ppm,33.8C,35.1C,89,38,202,62,Normal monitoring,Healthy
+1.69,Dim,5.7,19 ppm,35.3C,29.9C,41,27,92,29,Normal monitoring,Water Stress
+1.67,Dim,6.0,13 ppm,17.2C,17.8C,78,47,196,68,Normal monitoring,Healthy
+1.58,Bright,4.7,13 ppm,34.7C,30.9C,38,13,108,50,Normal monitoring,Nutrient Deficiency
+1.67,Bright,5.9,24 ppm,36.1C,30.8C,38,26,102,22,Normal monitoring,Water Stress
+1.63,Bright,5.9,24 ppm,26.1C,18.9C,44,28,101,24,Normal monitoring,Water Stress
+1.63,Dim,6.0,8 ppm,33.1C,32.0C,75,37,202,67,Normal monitoring,Healthy
+1.66,Bright,4.4,45 ppm,37.4C,32.1C,53,38,176,75,Viral infection,Disease
+1.68,Dark,5.3,18 ppm,20.6C,19.9C,23,17,112,53,Normal monitoring,Nutrient Deficiency
+1.63,Bright,5.7,24 ppm,40.3C,33.8C,43,27,119,18,Normal monitoring,Water Stress
+1.64,Dim,6.0,12 ppm,10.2C,9.9C,75,37,217,56,Normal monitoring,Healthy
+1.66,Bright,5.9,8 ppm,25.6C,26.5C,78,42,194,55,Normal monitoring,Healthy
+1.68,Dim,6.5,5 ppm,30.5C,28.3C,77,47,216,57,Normal monitoring,Healthy
+1.66,Bright,5.3,18 ppm,15.6C,12.9C,28,14,88,59,Normal monitoring,Nutrient Deficiency
+1.64,Bright,5.8,23 ppm,41.9C,35.6C,49,18,123,27,Normal monitoring,Water Stress
+1.65,Dim,6.4,7 ppm,17.3C,15.1C,79,44,217,59,Normal monitoring,Healthy
+1.65,Dim,4.2,56 ppm,39.5C,32.6C,57,38,161,74,Viral infection,Disease
+1.66,Dark,5.8,23 ppm,26.5C,18.9C,46,22,113,12,Normal monitoring,Water Stress
+1.67,Bright,4.3,53 ppm,41.4C,31.9C,76,39,197,69,Pest infection,Disease
+1.71,Dim,4.9,13 ppm,32.1C,31.2C,27,14,83,55,Normal monitoring,Nutrient Deficiency
+1.68,Bright,6.0,9 ppm,35.2C,33.4C,77,39,194,68,Normal monitoring,Healthy
+1.65,Bright,5.5,24 ppm,40.5C,33.6C,38,17,97,23,Normal monitoring,Water Stress
+1.61,Dim,4.9,10 ppm,22.6C,20.3C,25,17,111,54,Normal monitoring,Nutrient Deficiency
+1.63,Bright,6.1,11 ppm,34.5C,35.5C,85,41,215,69,Normal monitoring,Healthy
+1.67,Bright,4.3,36 ppm,25.8C,17.2C,55,33,171,66,Viral infection,Disease
+1.64,Bright,6.0,23 ppm,25.0C,19.0C,47,27,112,19,Normal monitoring,Water Stress
+1.6,Bright,5.2,19 ppm,15.1C,11.2C,40,19,97,57,Normal monitoring,Nutrient Deficiency
+1.62,Bright,6.0,8 ppm,35.0C,35.2C,80,39,219,65,Normal monitoring,Healthy
+1.66,Bright,4.0,54 ppm,28.2C,23.9C,72,26,178,71,Bacterial infection,Disease
+1.69,Bright,4.2,40 ppm,33.4C,26.3C,63,38,192,84,Fungal infection,Disease
+1.66,Bright,5.6,18 ppm,41.5C,35.2C,43,28,95,21,Normal monitoring,Water Stress
+1.71,Bright,5.3,18 ppm,20.8C,19.8C,21,13,87,51,Normal monitoring,Nutrient Deficiency
+1.62,Bright,3.6,48 ppm,27.4C,18.1C,51,34,176,74,Viral infection,Disease
+1.61,Dim,5.3,19 ppm,35.1C,31.1C,20,17,108,50,Normal monitoring,Nutrient Deficiency
+1.64,Bright,5.2,16 ppm,32.3C,30.3C,48,11,115,50,Normal monitoring,Nutrient Deficiency
+1.64,Dim,5.3,13 ppm,24.4C,20.8C,27,16,81,59,Normal monitoring,Nutrient Deficiency
+1.61,Dim,4.1,64 ppm,19.1C,13.0C,62,30,188,70,Fungal infection,Disease
+1.64,Bright,6.1,7 ppm,37.4C,37.2C,77,36,190,68,Normal monitoring,Healthy
+1.63,Bright,4.1,49 ppm,37.7C,30.8C,72,33,177,75,Fungal infection,Disease
+1.65,Dim,3.7,47 ppm,23.5C,16.5C,57,26,143,74,Viral infection,Disease
+1.62,Bright,6.3,13 ppm,34.5C,32.5C,77,42,204,59,Normal monitoring,Healthy
+1.64,Dim,4.1,63 ppm,38.5C,34.9C,71,28,179,71,Fungal infection,Disease
+1.64,Dim,4.5,35 ppm,32.4C,28.7C,76,34,173,81,Fungal infection,Disease
+1.66,Bright,4.0,47 ppm,24.2C,16.2C,76,38,162,65,Pest infection,Disease
+1.63,Bright,5.7,20 ppm,31.5C,24.4C,43,21,106,27,Normal monitoring,Water Stress
+1.65,Dim,4.8,16 ppm,35.5C,32.0C,27,18,111,58,Normal monitoring,Nutrient Deficiency
+1.64,Bright,6.2,9 ppm,29.0C,27.7C,80,43,197,67,Normal monitoring,Healthy
+1.63,Bright,6.2,14 ppm,22.2C,23.9C,85,36,219,68,Normal monitoring,Healthy
+1.68,Bright,5.2,12 ppm,18.7C,17.9C,28,13,87,59,Normal monitoring,Nutrient Deficiency
+1.71,Bright,6.4,12 ppm,17.0C,17.2C,77,47,196,60,Normal monitoring,Healthy
+1.65,Bright,5.7,24 ppm,34.0C,28.9C,40,25,99,25,Normal monitoring,Water Stress
+1.63,Dim,5.7,16 ppm,37.1C,31.9C,42,25,101,11,Normal monitoring,Water Stress
+1.66,Bright,5.5,15 ppm,39.4C,36.4C,30,14,107,57,Normal monitoring,Nutrient Deficiency
+1.64,Dim,3.9,62 ppm,24.3C,16.4C,70,33,184,77,Fungal infection,Disease
+1.64,Bright,5.8,15 ppm,33.0C,27.3C,41,15,99,15,Normal monitoring,Water Stress
+1.71,Dim,5.5,17 ppm,14.1C,11.9C,47,14,102,59,Normal monitoring,Nutrient Deficiency
+1.67,Dim,5.8,21 ppm,37.7C,31.1C,42,15,105,17,Normal monitoring,Water Stress
+1.61,Bright,6.0,10 ppm,29.1C,27.9C,83,45,214,63,Normal monitoring,Healthy
+1.62,Dim,4.5,18 ppm,21.3C,17.9C,20,11,110,59,Normal monitoring,Nutrient Deficiency
+1.61,Bright,5.1,15 ppm,31.3C,30.4C,20,14,117,60,Normal monitoring,Nutrient Deficiency
+1.64,Bright,4.4,55 ppm,19.3C,14.6C,56,31,132,66,Viral infection,Disease
+1.67,Bright,4.0,41 ppm,33.7C,29.7C,71,32,174,77,Bacterial infection,Disease
+1.69,Bright,3.5,41 ppm,33.6C,29.1C,59,26,165,68,Viral infection,Disease
+1.66,Dim,5.9,17 ppm,36.1C,28.3C,36,15,112,16,Normal monitoring,Water Stress
+1.66,Bright,5.6,16 ppm,26.9C,20.6C,37,15,129,25,Normal monitoring,Water Stress
+1.63,Dark,6.5,6 ppm,28.1C,27.3C,83,38,217,55,Normal monitoring,Healthy
+1.65,Bright,5.8,21 ppm,25.6C,18.9C,42,17,114,14,Normal monitoring,Water Stress
+1.64,Bright,6.1,13 ppm,21.6C,21.4C,77,38,216,59,Normal monitoring,Healthy
+1.63,Bright,6.5,6 ppm,19.7C,21.1C,88,46,215,63,Normal monitoring,Healthy
+1.65,Bright,6.3,11 ppm,19.7C,16.8C,76,46,202,69,Normal monitoring,Healthy
+1.65,Dark,5.5,15 ppm,40.5C,34.4C,43,29,97,23,Normal monitoring,Water Stress
+1.69,Bright,4.5,39 ppm,23.3C,19.4C,62,25,162,74,Fungal infection,Disease
+1.65,Bright,6.4,9 ppm,19.6C,17.2C,79,40,200,61,Normal monitoring,Healthy
+1.69,Dim,6.5,9 ppm,29.9C,28.3C,85,37,190,57,Normal monitoring,Healthy
+1.64,Bright,6.4,5 ppm,23.5C,25.4C,80,40,207,69,Normal monitoring,Healthy
+1.64,Dim,4.9,18 ppm,25.6C,21.6C,25,10,107,55,Normal monitoring,Nutrient Deficiency
+1.62,Dim,6.1,11 ppm,33.7C,32.1C,87,40,204,55,Normal monitoring,Healthy
+1.64,Bright,6.1,11 ppm,14.8C,13.6C,81,45,211,67,Normal monitoring,Healthy
+1.65,Bright,5.9,22 ppm,25.9C,20.3C,40,22,94,27,Normal monitoring,Water Stress
+1.66,Bright,6.2,5 ppm,28.6C,30.3C,83,42,197,65,Normal monitoring,Healthy
+1.7,Dark,6.0,22 ppm,38.5C,32.8C,46,20,98,18,Normal monitoring,Water Stress
+1.65,Dim,5.1,19 ppm,38.5C,36.4C,23,10,95,62,Normal monitoring,Nutrient Deficiency
+1.64,Dim,5.5,23 ppm,30.0C,23.2C,37,28,90,13,Normal monitoring,Water Stress
+1.7,Bright,4.5,34 ppm,44.0C,35.2C,71,25,191,77,Pest infection,Disease
+1.68,Dim,5.5,15 ppm,28.5C,21.4C,35,27,126,29,Normal monitoring,Water Stress
+1.69,Bright,4.5,12 ppm,19.0C,18.0C,32,13,96,52,Normal monitoring,Nutrient Deficiency
+1.61,Bright,5.1,12 ppm,33.6C,31.8C,20,15,100,54,Normal monitoring,Nutrient Deficiency
+1.67,Bright,4.6,18 ppm,16.4C,14.8C,35,18,81,60,Normal monitoring,Nutrient Deficiency
+1.66,Bright,6.0,13 ppm,37.1C,36.0C,80,37,195,65,Normal monitoring,Healthy
+1.64,Bright,4.1,42 ppm,26.2C,21.2C,63,25,188,68,Pest infection,Disease
+1.65,Bright,5.2,16 ppm,33.9C,32.2C,23,16,91,61,Normal monitoring,Nutrient Deficiency
+1.65,Bright,4.1,32 ppm,32.7C,26.6C,76,34,152,70,Pest infection,Disease
+1.61,Bright,4.0,37 ppm,38.9C,32.9C,65,26,198,81,Fungal infection,Disease
+1.62,Dim,5.8,21 ppm,42.8C,37.5C,39,22,90,26,Normal monitoring,Water Stress
+1.63,Bright,5.5,11 ppm,17.3C,15.0C,22,12,111,56,Normal monitoring,Nutrient Deficiency
+1.64,Bright,6.3,7 ppm,34.0C,32.8C,76,39,211,58,Normal monitoring,Healthy
+1.64,Dark,6.5,12 ppm,21.9C,21.4C,84,38,198,60,Normal monitoring,Healthy
+1.68,Bright,4.4,44 ppm,40.8C,33.2C,61,32,186,74,Pest infection,Disease
+1.7,Bright,6.3,6 ppm,19.9C,17.4C,85,38,217,62,Normal monitoring,Healthy
+1.66,Bright,3.6,39 ppm,21.3C,13.2C,69,36,167,78,Pest infection,Disease
+1.65,Bright,3.5,52 ppm,33.5C,24.9C,66,29,168,71,Bacterial infection,Disease
+1.64,Bright,5.0,10 ppm,40.0C,36.4C,28,15,80,51,Normal monitoring,Nutrient Deficiency
+1.67,Dim,5.9,22 ppm,32.5C,27.0C,44,17,100,11,Normal monitoring,Water Stress
+1.64,Bright,3.5,40 ppm,35.9C,31.9C,71,31,189,79,Fungal infection,Disease
+1.59,Bright,5.9,20 ppm,30.2C,23.9C,43,18,120,13,Normal monitoring,Water Stress
+1.64,Bright,5.7,16 ppm,24.7C,17.9C,47,18,99,12,Normal monitoring,Water Stress
+1.66,Bright,5.9,15 ppm,36.8C,30.8C,42,27,107,23,Normal monitoring,Water Stress
+1.6,Dim,6.4,13 ppm,27.0C,27.4C,82,48,207,60,Normal monitoring,Healthy
+1.64,Bright,4.6,16 ppm,34.1C,32.8C,33,11,97,59,Normal monitoring,Nutrient Deficiency
+1.68,Bright,6.0,24 ppm,25.5C,17.9C,46,23,102,28,Normal monitoring,Water Stress
+1.66,Bright,5.7,17 ppm,35.6C,28.0C,42,23,96,25,Normal monitoring,Water Stress
+1.73,Bright,5.8,9 ppm,34.1C,35.9C,77,43,217,68,Normal monitoring,Healthy
+1.71,Dim,6.0,10 ppm,29.8C,29.4C,79,43,198,55,Normal monitoring,Healthy
+1.69,Bright,3.9,48 ppm,24.2C,19.1C,60,26,172,73,Viral infection,Disease
+1.66,Bright,4.1,64 ppm,35.9C,26.5C,67,25,196,79,Fungal infection,Disease
+1.65,Bright,6.2,5 ppm,30.1C,31.1C,85,36,210,68,Normal monitoring,Healthy
+1.63,Bright,6.0,7 ppm,37.2C,36.5C,88,35,213,57,Normal monitoring,Healthy
+1.67,Dim,5.6,19 ppm,22.2C,16.8C,35,26,125,20,Normal monitoring,Water Stress
+1.66,Bright,6.0,14 ppm,31.0C,30.5C,82,47,215,64,Normal monitoring,Healthy
+1.61,Bright,5.6,24 ppm,39.8C,33.6C,46,25,102,17,Normal monitoring,Water Stress
+1.65,Dim,6.2,6 ppm,17.8C,18.5C,88,46,192,65,Normal monitoring,Healthy
+1.66,Bright,5.1,17 ppm,33.2C,31.7C,27,19,90,50,Normal monitoring,Nutrient Deficiency
+1.6,Dim,4.4,38 ppm,28.4C,23.6C,65,34,141,77,Viral infection,Disease
+1.66,Bright,5.7,22 ppm,44.0C,36.1C,41,16,118,27,Normal monitoring,Water Stress
+1.65,Dim,4.0,37 ppm,37.8C,33.6C,71,31,191,69,Pest infection,Disease
+1.66,Bright,6.0,13 ppm,32.1C,31.5C,88,38,214,69,Normal monitoring,Healthy
+1.62,Dim,6.1,11 ppm,26.7C,24.4C,87,48,209,69,Normal monitoring,Healthy
+1.59,Bright,4.1,52 ppm,41.7C,37.2C,61,27,183,70,Pest infection,Disease
+1.67,Bright,5.1,11 ppm,19.9C,17.9C,31,15,101,63,Normal monitoring,Nutrient Deficiency
+1.65,Dim,3.7,34 ppm,29.4C,23.5C,79,37,155,77,Bacterial infection,Disease
+1.65,Bright,6.0,10 ppm,13.4C,13.4C,83,38,195,63,Normal monitoring,Healthy
+1.66,Bright,5.9,18 ppm,36.5C,29.8C,41,26,104,11,Normal monitoring,Water Stress
+1.63,Bright,5.9,6 ppm,30.0C,28.7C,84,46,195,69,Normal monitoring,Healthy
+1.65,Bright,6.1,11 ppm,32.6C,31.2C,88,48,209,66,Normal monitoring,Healthy
+1.64,Bright,3.9,36 ppm,42.4C,34.0C,67,25,161,72,Fungal infection,Disease
+1.58,Dim,4.8,19 ppm,32.0C,29.4C,44,18,86,64,Normal monitoring,Nutrient Deficiency
+1.7,Bright,4.7,15 ppm,29.0C,26.6C,48,13,81,54,Normal monitoring,Nutrient Deficiency
+1.68,Dim,5.7,19 ppm,37.3C,30.9C,48,28,95,14,Normal monitoring,Water Stress
+1.64,Bright,5.7,24 ppm,33.6C,28.5C,36,28,107,14,Normal monitoring,Water Stress
+1.63,Bright,5.8,6 ppm,34.6C,33.7C,76,46,214,64,Normal monitoring,Healthy
+1.66,Dark,4.5,17 ppm,38.1C,34.5C,46,17,95,57,Normal monitoring,Nutrient Deficiency
+1.66,Bright,5.8,20 ppm,35.4C,27.7C,38,17,97,11,Normal monitoring,Water Stress
+1.6,Bright,5.1,12 ppm,30.7C,30.1C,44,10,83,52,Normal monitoring,Nutrient Deficiency
+1.67,Bright,5.2,18 ppm,17.0C,14.3C,33,11,118,51,Normal monitoring,Nutrient Deficiency
+1.63,Bright,4.2,41 ppm,26.3C,18.9C,67,29,179,79,Fungal infection,Disease
+1.71,Bright,6.2,6 ppm,23.3C,23.7C,88,42,191,68,Normal monitoring,Healthy
+1.64,Dim,6.2,9 ppm,20.0C,17.4C,82,37,195,57,Normal monitoring,Healthy
+1.67,Bright,5.9,23 ppm,26.5C,20.5C,38,24,113,19,Normal monitoring,Water Stress
+1.62,Bright,6.0,15 ppm,40.9C,35.5C,47,19,112,25,Normal monitoring,Water Stress
+1.63,Bright,4.4,45 ppm,37.1C,30.6C,73,29,183,81,Fungal infection,Disease
+1.69,Bright,5.7,21 ppm,33.6C,28.1C,44,25,116,12,Normal monitoring,Water Stress
+1.68,Bright,4.4,35 ppm,30.4C,20.4C,63,27,181,73,Fungal infection,Disease
+1.67,Dim,6.2,12 ppm,21.8C,23.6C,79,37,211,60,Normal monitoring,Healthy
+1.64,Dim,6.1,11 ppm,17.7C,19.3C,87,38,206,61,Normal monitoring,Healthy
+1.69,Dim,5.3,17 ppm,37.2C,34.9C,24,11,118,62,Normal monitoring,Nutrient Deficiency
+1.62,Dim,6.1,13 ppm,14.8C,14.5C,80,36,195,57,Normal monitoring,Healthy
+1.64,Dim,5.9,9 ppm,38.5C,38.9C,88,38,207,64,Normal monitoring,Healthy
+1.7,Dim,6.1,5 ppm,26.3C,23.9C,80,40,190,68,Normal monitoring,Healthy
+1.66,Dim,6.0,9 ppm,12.9C,13.9C,86,43,193,59,Normal monitoring,Healthy
+1.64,Bright,4.9,13 ppm,14.3C,12.4C,48,11,94,55,Normal monitoring,Nutrient Deficiency
+1.69,Dim,5.3,16 ppm,36.3C,32.4C,22,17,103,56,Normal monitoring,Nutrient Deficiency
+1.66,Bright,5.6,20 ppm,42.4C,36.8C,43,26,101,11,Normal monitoring,Water Stress
+1.59,Dark,4.3,31 ppm,40.9C,32.9C,64,29,174,67,Viral infection,Disease
+1.65,Dim,5.6,23 ppm,27.2C,20.7C,38,23,119,19,Normal monitoring,Water Stress
+1.62,Dim,3.6,34 ppm,44.8C,35.8C,61,36,147,67,Viral infection,Disease
+1.65,Bright,4.1,35 ppm,23.8C,15.3C,59,35,167,65,Viral infection,Disease
+1.62,Dark,4.5,19 ppm,15.9C,12.3C,24,18,82,56,Normal monitoring,Nutrient Deficiency
+1.62,Dim,3.9,51 ppm,40.4C,34.9C,72,39,177,75,Pest infection,Disease
+1.62,Bright,5.8,10 ppm,25.6C,24.5C,89,48,209,56,Normal monitoring,Healthy
+1.63,Dim,5.6,20 ppm,25.4C,18.3C,49,21,99,11,Normal monitoring,Water Stress
+1.6,Dim,5.6,18 ppm,41.4C,34.8C,41,26,95,25,Normal monitoring,Water Stress
+1.66,Bright,4.9,18 ppm,27.3C,26.3C,29,14,98,61,Normal monitoring,Nutrient Deficiency
+1.63,Bright,6.0,6 ppm,12.3C,14.0C,81,37,192,64,Normal monitoring,Healthy
+1.68,Bright,6.1,13 ppm,30.8C,29.7C,84,47,199,66,Normal monitoring,Healthy
+1.63,Dark,3.8,35 ppm,19.4C,14.9C,67,31,160,69,Pest infection,Disease
+1.63,Dim,6.1,9 ppm,14.7C,16.3C,79,46,205,65,Normal monitoring,Healthy
+1.6,Bright,4.9,10 ppm,19.6C,16.5C,23,12,104,61,Normal monitoring,Nutrient Deficiency
+1.67,Dim,5.9,21 ppm,36.6C,31.5C,47,21,113,11,Normal monitoring,Water Stress
+1.64,Bright,4.7,16 ppm,35.4C,31.5C,20,19,119,57,Normal monitoring,Nutrient Deficiency
+1.64,Bright,3.9,51 ppm,19.0C,13.4C,74,38,154,77,Bacterial infection,Disease
+1.67,Bright,4.6,17 ppm,33.1C,31.7C,38,18,93,62,Normal monitoring,Nutrient Deficiency
+1.61,Dim,4.2,36 ppm,32.1C,26.5C,65,30,177,79,Viral infection,Disease
+1.68,Bright,5.1,12 ppm,38.3C,35.0C,30,12,104,55,Normal monitoring,Nutrient Deficiency
+1.66,Bright,5.8,15 ppm,42.8C,35.7C,48,25,95,15,Normal monitoring,Water Stress
+1.59,Bright,3.5,45 ppm,41.7C,36.7C,61,27,177,67,Bacterial infection,Disease
+1.62,Dark,5.8,6 ppm,25.3C,25.0C,86,47,190,64,Normal monitoring,Healthy
+1.69,Dark,5.6,21 ppm,32.5C,25.7C,45,21,93,29,Normal monitoring,Water Stress
+1.64,Bright,5.8,11 ppm,21.4C,22.2C,78,36,198,64,Normal monitoring,Healthy
+1.69,Dim,4.1,30 ppm,40.4C,32.2C,76,39,166,75,Pest infection,Disease
+1.66,Dim,4.0,57 ppm,31.5C,26.1C,66,28,165,78,Viral infection,Disease
+1.65,Bright,4.8,19 ppm,28.9C,26.0C,24,17,110,52,Normal monitoring,Nutrient Deficiency
+1.66,Dim,6.3,9 ppm,18.6C,19.7C,81,44,207,68,Normal monitoring,Healthy
+1.68,Bright,5.7,17 ppm,38.9C,33.6C,44,28,115,22,Normal monitoring,Water Stress
+1.67,Bright,6.4,12 ppm,13.8C,14.6C,86,42,191,61,Normal monitoring,Healthy
+1.63,Dark,6.3,11 ppm,37.4C,38.6C,80,41,214,64,Normal monitoring,Healthy
+1.66,Dim,4.0,38 ppm,33.7C,30.3C,74,28,199,75,Bacterial infection,Disease
+1.67,Bright,6.5,11 ppm,28.4C,26.8C,88,41,206,55,Normal monitoring,Healthy
+1.62,Bright,4.9,16 ppm,28.5C,25.6C,38,18,98,58,Normal monitoring,Nutrient Deficiency
+1.68,Bright,6.1,7 ppm,41.7C,39.2C,82,42,206,66,Normal monitoring,Healthy
+1.62,Bright,5.9,16 ppm,41.1C,34.2C,42,29,126,11,Normal monitoring,Water Stress
+1.64,Bright,5.9,15 ppm,38.4C,33.4C,46,25,129,25,Normal monitoring,Water Stress
+1.65,Dim,4.7,15 ppm,31.1C,29.2C,34,19,108,63,Normal monitoring,Nutrient Deficiency
+1.6,Bright,3.3,36 ppm,24.6C,16.5C,64,29,163,70,Bacterial infection,Disease
+1.65,Bright,6.3,12 ppm,16.9C,17.7C,81,42,202,64,Normal monitoring,Healthy
+1.68,Bright,6.4,6 ppm,37.3C,37.5C,78,35,196,68,Normal monitoring,Healthy
+1.63,Bright,5.6,18 ppm,42.4C,36.9C,38,27,104,19,Normal monitoring,Water Stress
+1.69,Bright,4.9,12 ppm,32.7C,32.6C,47,17,97,58,Normal monitoring,Nutrient Deficiency
+1.68,Dim,6.5,12 ppm,33.8C,31.8C,83,41,198,56,Normal monitoring,Healthy
+1.65,Dim,3.8,63 ppm,27.7C,23.0C,74,31,156,71,Fungal infection,Disease
+1.62,Bright,4.9,14 ppm,32.4C,32.3C,20,11,88,61,Normal monitoring,Nutrient Deficiency
+1.62,Bright,6.0,8 ppm,22.2C,21.2C,85,47,204,60,Normal monitoring,Healthy
+1.63,Bright,5.2,15 ppm,24.2C,21.8C,20,10,103,51,Normal monitoring,Nutrient Deficiency
+1.64,Dark,4.6,16 ppm,34.9C,31.4C,26,15,101,64,Normal monitoring,Nutrient Deficiency
+1.61,Dim,5.5,23 ppm,20.5C,15.2C,42,26,93,24,Normal monitoring,Water Stress
+1.61,Bright,5.0,12 ppm,34.1C,33.4C,30,14,99,56,Normal monitoring,Nutrient Deficiency
+1.68,Dim,5.5,16 ppm,35.8C,32.3C,20,18,118,51,Normal monitoring,Nutrient Deficiency
+1.68,Bright,5.0,13 ppm,16.1C,15.5C,39,10,111,61,Normal monitoring,Nutrient Deficiency
+1.63,Bright,6.2,10 ppm,16.2C,15.4C,88,38,206,67,Normal monitoring,Healthy
+1.62,Bright,5.6,16 ppm,37.1C,30.2C,41,20,92,12,Normal monitoring,Water Stress
+1.7,Bright,3.6,56 ppm,36.6C,31.1C,68,31,184,75,Bacterial infection,Disease
+1.63,Bright,3.6,62 ppm,20.8C,16.8C,73,26,170,73,Fungal infection,Disease
+1.67,Bright,5.6,15 ppm,37.3C,29.5C,36,21,118,19,Normal monitoring,Water Stress
+1.63,Dim,6.5,13 ppm,20.5C,20.4C,75,36,209,55,Normal monitoring,Healthy
+1.67,Dim,6.1,6 ppm,28.5C,30.0C,78,40,214,68,Normal monitoring,Healthy
+1.66,Dim,4.3,37 ppm,37.4C,28.5C,72,37,152,82,Fungal infection,Disease
+1.68,Dim,5.1,19 ppm,32.3C,32.1C,35,16,88,64,Normal monitoring,Nutrient Deficiency
+1.63,Bright,4.1,45 ppm,37.0C,30.4C,75,25,150,71,Bacterial infection,Disease
+1.64,Bright,3.6,32 ppm,24.2C,20.6C,76,37,156,65,Pest infection,Disease
+1.68,Bright,5.9,18 ppm,39.7C,34.3C,38,17,116,11,Normal monitoring,Water Stress
+1.73,Bright,3.6,53 ppm,18.1C,11.3C,75,33,183,78,Bacterial infection,Disease
+1.6,Bright,4.0,36 ppm,41.8C,37.3C,66,29,164,77,Fungal infection,Disease
+1.6,Bright,4.6,15 ppm,37.9C,35.2C,22,11,106,52,Normal monitoring,Nutrient Deficiency
+1.64,Bright,4.8,14 ppm,21.1C,19.5C,34,12,118,53,Normal monitoring,Nutrient Deficiency
+1.64,Bright,4.8,14 ppm,35.5C,33.6C,21,17,118,51,Normal monitoring,Nutrient Deficiency
+1.65,Dim,4.8,13 ppm,23.6C,19.8C,29,17,89,62,Normal monitoring,Nutrient Deficiency
+1.62,Bright,5.7,20 ppm,41.7C,33.8C,36,16,98,12,Normal monitoring,Water Stress
+1.65,Bright,6.2,11 ppm,17.5C,15.0C,78,40,201,56,Normal monitoring,Healthy
+1.66,Bright,6.0,19 ppm,26.9C,21.7C,42,15,90,21,Normal monitoring,Water Stress
+1.69,Bright,4.1,50 ppm,30.1C,25.0C,65,30,175,78,Pest infection,Disease
+1.68,Bright,6.3,6 ppm,32.4C,32.1C,82,36,216,61,Normal monitoring,Healthy
+1.71,Bright,3.4,44 ppm,34.9C,26.7C,65,30,157,69,Bacterial infection,Disease
+1.63,Bright,5.8,13 ppm,16.4C,16.9C,87,38,197,55,Normal monitoring,Healthy
+1.65,Bright,4.9,14 ppm,27.5C,26.7C,31,16,108,51,Normal monitoring,Nutrient Deficiency
+1.63,Dark,4.6,19 ppm,32.0C,28.1C,35,11,115,51,Normal monitoring,Nutrient Deficiency
+1.64,Bright,3.8,52 ppm,21.6C,15.4C,68,30,161,78,Pest infection,Disease
+1.68,Bright,6.1,8 ppm,31.4C,31.8C,81,48,199,61,Normal monitoring,Healthy
+1.66,Bright,6.5,13 ppm,24.9C,23.4C,88,47,218,63,Normal monitoring,Healthy
+1.62,Dark,4.7,16 ppm,38.0C,34.8C,31,19,93,53,Normal monitoring,Nutrient Deficiency
+1.65,Bright,4.8,15 ppm,26.5C,25.8C,20,10,81,50,Normal monitoring,Nutrient Deficiency
+1.68,Dim,5.6,15 ppm,31.7C,26.4C,49,15,96,10,Normal monitoring,Water Stress
+1.65,Dim,5.7,21 ppm,18.6C,12.3C,49,15,115,26,Normal monitoring,Water Stress
+1.62,Bright,5.7,22 ppm,22.9C,17.0C,43,24,124,15,Normal monitoring,Water Stress
+1.66,Bright,5.6,18 ppm,36.7C,29.5C,35,15,113,13,Normal monitoring,Water Stress
+1.61,Bright,4.8,10 ppm,16.1C,15.4C,21,13,114,56,Normal monitoring,Nutrient Deficiency
+1.64,Bright,5.9,6 ppm,26.2C,24.9C,81,43,197,66,Normal monitoring,Healthy
+1.61,Bright,6.1,14 ppm,37.4C,38.4C,75,41,205,68,Normal monitoring,Healthy
+1.68,Bright,6.0,18 ppm,38.6C,30.7C,46,28,113,18,Normal monitoring,Water Stress
+1.63,Dim,5.9,15 ppm,34.0C,29.0C,35,19,128,19,Normal monitoring,Water Stress
+1.63,Bright,5.1,12 ppm,37.9C,37.0C,40,10,93,58,Normal monitoring,Nutrient Deficiency
+1.63,Dark,5.5,23 ppm,24.3C,18.8C,35,18,92,29,Normal monitoring,Water Stress
+1.66,Dim,5.0,18 ppm,21.5C,19.5C,28,19,116,55,Normal monitoring,Nutrient Deficiency
+1.65,Bright,3.6,57 ppm,36.7C,30.3C,74,28,183,80,Fungal infection,Disease
+1.61,Bright,4.4,43 ppm,36.6C,30.0C,78,32,165,73,Pest infection,Disease
+1.62,Dark,5.7,17 ppm,29.0C,23.7C,43,16,123,12,Normal monitoring,Water Stress
+1.68,Dark,5.3,15 ppm,32.5C,31.9C,29,16,81,60,Normal monitoring,Nutrient Deficiency
+1.6,Dim,6.5,5 ppm,37.8C,36.5C,77,46,216,58,Normal monitoring,Healthy
+1.63,Bright,6.0,8 ppm,25.0C,23.3C,87,43,193,55,Normal monitoring,Healthy
+1.6,Dim,5.2,16 ppm,23.5C,20.2C,39,10,97,64,Normal monitoring,Nutrient Deficiency
+1.71,Dark,4.3,51 ppm,25.4C,17.3C,60,38,170,79,Fungal infection,Disease
+1.65,Dim,4.3,43 ppm,40.4C,35.0C,57,32,146,76,Viral infection,Disease
+1.65,Dim,6.0,13 ppm,19.5C,20.5C,81,44,196,67,Normal monitoring,Healthy
+1.64,Bright,5.3,15 ppm,34.0C,32.8C,36,13,116,61,Normal monitoring,Nutrient Deficiency
+1.6,Bright,5.0,10 ppm,24.4C,23.2C,29,12,88,59,Normal monitoring,Nutrient Deficiency
+1.66,Bright,3.5,54 ppm,40.3C,33.5C,78,34,167,79,Bacterial infection,Disease
+1.65,Dark,6.2,11 ppm,28.3C,26.9C,78,38,212,68,Normal monitoring,Healthy
+1.59,Dim,4.0,33 ppm,36.6C,27.7C,78,37,163,67,Pest infection,Disease
+1.62,Bright,5.1,11 ppm,33.3C,31.8C,35,11,94,51,Normal monitoring,Nutrient Deficiency
+1.63,Dim,4.3,33 ppm,46.3C,36.8C,52,39,175,72,Viral infection,Disease
+1.6,Bright,5.7,24 ppm,39.1C,31.3C,39,21,108,29,Normal monitoring,Water Stress
+1.65,Dark,5.5,15 ppm,27.9C,21.3C,35,27,94,22,Normal monitoring,Water Stress
+1.65,Bright,6.2,12 ppm,37.6C,35.2C,77,42,197,56,Normal monitoring,Healthy
+1.63,Dark,3.9,47 ppm,26.6C,22.2C,72,34,164,79,Pest infection,Disease
+1.68,Bright,3.5,47 ppm,34.5C,29.7C,69,32,173,78,Bacterial infection,Disease
+1.65,Bright,4.9,16 ppm,22.2C,19.9C,37,18,103,59,Normal monitoring,Nutrient Deficiency
+1.65,Bright,5.2,11 ppm,19.3C,17.4C,46,13,103,56,Normal monitoring,Nutrient Deficiency
+1.71,Dim,6.5,7 ppm,33.3C,33.6C,88,43,195,68,Normal monitoring,Healthy
+1.69,Bright,4.8,12 ppm,18.9C,16.4C,26,10,112,51,Normal monitoring,Nutrient Deficiency
+1.65,Dim,5.8,22 ppm,40.8C,34.3C,46,15,102,23,Normal monitoring,Water Stress
+1.64,Dim,5.3,17 ppm,37.7C,36.8C,30,12,83,60,Normal monitoring,Nutrient Deficiency
+1.66,Dim,3.5,41 ppm,38.1C,30.8C,79,38,180,71,Fungal infection,Disease
+1.64,Bright,5.3,16 ppm,33.2C,32.6C,31,16,91,53,Normal monitoring,Nutrient Deficiency
+1.65,Dark,5.4,15 ppm,23.1C,22.7C,37,13,104,50,Normal monitoring,Nutrient Deficiency
+1.62,Bright,5.7,17 ppm,34.4C,29.3C,45,22,102,24,Normal monitoring,Water Stress
+1.65,Dim,5.2,14 ppm,37.8C,34.1C,28,15,116,57,Normal monitoring,Nutrient Deficiency
+1.62,Bright,5.8,18 ppm,35.4C,29.2C,39,26,95,18,Normal monitoring,Water Stress
+1.62,Bright,5.5,22 ppm,30.2C,23.7C,43,29,129,28,Normal monitoring,Water Stress
+1.66,Bright,5.9,23 ppm,44.5C,37.7C,38,24,99,15,Normal monitoring,Water Stress
+1.65,Dim,3.2,47 ppm,35.7C,30.4C,62,38,169,66,Bacterial infection,Disease
+1.61,Bright,3.8,57 ppm,40.6C,32.9C,65,32,160,67,Pest infection,Disease
+1.61,Bright,5.9,5 ppm,21.6C,20.8C,84,44,196,55,Normal monitoring,Healthy
+1.65,Bright,5.8,18 ppm,37.2C,32.0C,47,29,93,27,Normal monitoring,Water Stress
+1.66,Dim,6.0,10 ppm,32.6C,31.6C,75,40,208,62,Normal monitoring,Healthy
+1.66,Bright,4.5,14 ppm,12.7C,12.4C,39,12,102,51,Normal monitoring,Nutrient Deficiency
+1.61,Dark,3.6,58 ppm,23.2C,16.3C,70,28,181,80,Fungal infection,Disease
+1.6,Dim,5.7,21 ppm,41.3C,35.2C,36,26,105,22,Normal monitoring,Water Stress
+1.62,Dim,6.3,6 ppm,21.8C,20.4C,76,42,200,67,Normal monitoring,Healthy
+1.67,Dim,6.0,15 ppm,23.8C,16.3C,43,17,91,29,Normal monitoring,Water Stress
+1.67,Bright,3.8,42 ppm,32.7C,26.4C,62,39,137,78,Viral infection,Disease
+1.68,Bright,4.8,11 ppm,30.4C,29.0C,29,19,84,53,Normal monitoring,Nutrient Deficiency
+1.6,Bright,5.3,19 ppm,33.8C,30.7C,28,14,83,51,Normal monitoring,Nutrient Deficiency
+1.63,Bright,3.9,50 ppm,24.4C,19.5C,74,34,156,68,Bacterial infection,Disease
+1.67,Dim,5.6,17 ppm,29.7C,23.6C,47,23,110,23,Normal monitoring,Water Stress
+1.62,Bright,5.3,16 ppm,18.0C,17.4C,36,15,82,53,Normal monitoring,Nutrient Deficiency
+1.65,Dim,5.1,18 ppm,38.8C,35.8C,37,12,81,50,Normal monitoring,Nutrient Deficiency
+1.67,Dim,5.5,16 ppm,33.8C,31.3C,25,19,90,56,Normal monitoring,Nutrient Deficiency
+1.66,Bright,4.2,51 ppm,36.9C,32.7C,53,32,149,73,Viral infection,Disease
+1.66,Bright,5.4,19 ppm,28.9C,26.0C,48,11,111,59,Normal monitoring,Nutrient Deficiency
+1.67,Dark,4.8,10 ppm,29.1C,28.5C,31,16,110,51,Normal monitoring,Nutrient Deficiency
+1.68,Bright,4.8,14 ppm,34.3C,31.0C,26,10,87,50,Normal monitoring,Nutrient Deficiency
+1.64,Dark,5.8,20 ppm,29.6C,22.5C,41,20,114,12,Normal monitoring,Water Stress
+1.65,Bright,3.7,47 ppm,39.4C,34.0C,78,33,171,77,Fungal infection,Disease
+1.64,Bright,6.2,7 ppm,35.1C,34.2C,76,47,219,65,Normal monitoring,Healthy
+1.64,Bright,5.6,23 ppm,30.0C,23.0C,35,17,110,18,Normal monitoring,Water Stress
+1.59,Bright,6.2,6 ppm,37.4C,35.0C,87,40,214,67,Normal monitoring,Healthy
+1.7,Bright,3.9,50 ppm,42.3C,36.5C,53,34,130,65,Viral infection,Disease
+1.61,Bright,6.3,7 ppm,32.5C,31.5C,82,39,204,55,Normal monitoring,Healthy
+1.66,Bright,5.8,21 ppm,28.6C,22.8C,38,28,125,14,Normal monitoring,Water Stress
+1.64,Bright,5.5,23 ppm,37.2C,31.5C,47,19,115,23,Normal monitoring,Water Stress
+1.73,Dark,6.4,6 ppm,33.6C,32.5C,81,49,194,59,Normal monitoring,Healthy
+1.68,Bright,5.8,24 ppm,33.6C,25.9C,36,18,108,16,Normal monitoring,Water Stress
+1.66,Bright,4.1,47 ppm,40.6C,36.0C,76,37,198,82,Fungal infection,Disease
+1.62,Dim,5.4,13 ppm,18.9C,16.2C,45,14,111,58,Normal monitoring,Nutrient Deficiency
+1.66,Bright,6.2,9 ppm,29.9C,29.7C,85,48,191,61,Normal monitoring,Healthy
+1.63,Bright,5.0,12 ppm,32.5C,31.3C,38,14,112,57,Normal monitoring,Nutrient Deficiency
+1.64,Bright,4.1,54 ppm,23.9C,15.9C,69,25,140,77,Viral infection,Disease
+1.63,Bright,4.9,17 ppm,29.4C,26.9C,33,10,100,59,Normal monitoring,Nutrient Deficiency
+1.67,Dim,4.9,18 ppm,16.5C,14.8C,39,17,118,52,Normal monitoring,Nutrient Deficiency
+1.64,Dark,6.3,8 ppm,26.8C,26.1C,87,38,205,59,Normal monitoring,Healthy
+1.64,Bright,4.9,14 ppm,26.2C,22.6C,39,10,89,59,Normal monitoring,Nutrient Deficiency
+1.67,Bright,4.2,46 ppm,35.6C,29.9C,60,34,146,68,Viral infection,Disease
+1.69,Dim,4.7,14 ppm,19.9C,16.9C,30,14,114,51,Normal monitoring,Nutrient Deficiency
+1.69,Bright,6.0,12 ppm,22.3C,23.5C,76,48,200,56,Normal monitoring,Healthy
+1.64,Bright,4.4,50 ppm,42.4C,34.3C,71,31,182,73,Pest infection,Disease
+1.62,Dark,6.4,6 ppm,33.3C,33.7C,84,49,191,61,Normal monitoring,Healthy
+1.67,Bright,5.8,13 ppm,19.4C,17.8C,79,48,198,63,Normal monitoring,Healthy
+1.64,Bright,3.5,46 ppm,28.1C,20.3C,61,35,194,65,Bacterial infection,Disease
+1.65,Bright,6.1,9 ppm,31.7C,33.2C,83,49,211,56,Normal monitoring,Healthy
+1.67,Bright,3.9,40 ppm,36.2C,28.7C,62,34,155,66,Viral infection,Disease
+1.64,Dark,5.0,14 ppm,33.8C,33.1C,27,18,88,64,Normal monitoring,Nutrient Deficiency
+1.67,Dim,5.9,21 ppm,27.0C,21.1C,38,19,102,18,Normal monitoring,Water Stress
+1.61,Bright,5.9,22 ppm,41.3C,35.0C,46,16,110,19,Normal monitoring,Water Stress
+1.6,Bright,5.6,20 ppm,30.1C,23.0C,43,24,102,24,Normal monitoring,Water Stress
+1.72,Bright,5.8,20 ppm,28.6C,23.3C,45,20,129,10,Normal monitoring,Water Stress
+1.65,Bright,6.2,10 ppm,31.7C,29.6C,78,44,195,69,Normal monitoring,Healthy
+1.58,Dim,5.8,23 ppm,40.2C,32.5C,43,24,111,15,Normal monitoring,Water Stress
+1.64,Bright,3.7,42 ppm,36.7C,32.7C,69,34,167,73,Fungal infection,Disease
+1.61,Bright,5.6,18 ppm,31.9C,24.5C,44,27,123,14,Normal monitoring,Water Stress
+1.63,Bright,3.5,64 ppm,23.3C,14.6C,77,32,172,81,Fungal infection,Disease
+1.63,Bright,6.2,11 ppm,34.8C,34.7C,89,49,197,61,Normal monitoring,Healthy
+1.65,Dim,4.3,59 ppm,41.0C,34.5C,60,33,175,72,Fungal infection,Disease
+1.6,Dim,3.5,48 ppm,22.8C,14.0C,75,37,151,67,Bacterial infection,Disease
+1.67,Dim,6.0,17 ppm,43.6C,35.6C,46,27,114,21,Normal monitoring,Water Stress
+1.69,Bright,5.5,16 ppm,31.9C,31.8C,38,10,80,59,Normal monitoring,Nutrient Deficiency
+1.65,Bright,5.9,7 ppm,15.1C,14.1C,75,39,193,60,Normal monitoring,Healthy
+1.7,Bright,5.5,22 ppm,41.4C,35.8C,39,24,104,28,Normal monitoring,Water Stress
+1.58,Dark,5.3,10 ppm,38.0C,35.0C,27,12,112,61,Normal monitoring,Nutrient Deficiency
+1.66,Bright,6.4,7 ppm,27.0C,24.4C,87,49,209,57,Normal monitoring,Healthy
+1.69,Dim,4.8,15 ppm,35.1C,32.1C,32,14,116,63,Normal monitoring,Nutrient Deficiency
+1.71,Bright,4.2,38 ppm,31.5C,21.6C,77,30,175,76,Pest infection,Disease
+1.7,Bright,5.6,24 ppm,22.8C,17.3C,45,27,122,14,Normal monitoring,Water Stress
+1.62,Bright,5.9,15 ppm,26.8C,19.6C,42,16,121,24,Normal monitoring,Water Stress
+1.69,Dim,6.3,9 ppm,16.1C,17.3C,75,49,202,61,Normal monitoring,Healthy
+1.64,Dim,6.1,11 ppm,32.2C,29.9C,87,37,215,57,Normal monitoring,Healthy
+1.66,Bright,4.4,54 ppm,15.6C,12.0C,63,28,152,69,Pest infection,Disease
+1.62,Dim,5.3,15 ppm,17.2C,14.3C,26,10,103,57,Normal monitoring,Nutrient Deficiency
+1.68,Bright,4.1,53 ppm,22.4C,19.0C,73,34,173,65,Bacterial infection,Disease
+1.65,Bright,5.9,15 ppm,32.1C,26.2C,39,26,124,20,Normal monitoring,Water Stress
+1.69,Dim,4.4,44 ppm,40.9C,36.1C,61,34,155,72,Pest infection,Disease
+1.65,Dim,5.8,7 ppm,14.5C,14.2C,80,45,216,64,Normal monitoring,Healthy
+1.65,Dark,5.8,5 ppm,36.7C,34.5C,80,47,216,57,Normal monitoring,Healthy
+1.66,Dim,3.7,55 ppm,20.8C,14.6C,57,25,147,66,Viral infection,Disease
+1.68,Dim,5.8,9 ppm,11.3C,13.0C,84,41,217,64,Normal monitoring,Healthy
+1.6,Dim,5.5,24 ppm,25.3C,19.4C,47,22,120,25,Normal monitoring,Water Stress
+1.68,Bright,5.6,20 ppm,36.1C,29.3C,37,17,95,17,Normal monitoring,Water Stress
+1.64,Dim,5.7,15 ppm,41.3C,34.5C,48,21,111,28,Normal monitoring,Water Stress
+1.68,Bright,6.3,8 ppm,24.3C,24.4C,83,42,193,69,Normal monitoring,Healthy
+1.63,Bright,5.8,16 ppm,34.2C,28.4C,42,16,112,27,Normal monitoring,Water Stress
+1.65,Bright,4.4,62 ppm,45.5C,36.4C,79,33,196,74,Fungal infection,Disease
+1.66,Dim,5.1,17 ppm,32.9C,31.9C,38,11,109,63,Normal monitoring,Nutrient Deficiency
+1.67,Bright,6.0,17 ppm,39.7C,33.7C,48,18,91,23,Normal monitoring,Water Stress
+1.67,Bright,5.6,21 ppm,39.5C,32.6C,47,26,118,21,Normal monitoring,Water Stress
+1.65,Bright,4.3,43 ppm,23.8C,16.2C,52,29,169,72,Viral infection,Disease
+1.65,Bright,6.0,6 ppm,34.9C,36.5C,78,35,199,62,Normal monitoring,Healthy
+1.62,Bright,5.0,12 ppm,40.4C,38.4C,33,10,98,63,Normal monitoring,Nutrient Deficiency
+1.66,Dim,5.5,10 ppm,27.2C,26.2C,45,19,95,64,Normal monitoring,Nutrient Deficiency
+1.6,Bright,6.1,14 ppm,30.4C,32.2C,88,43,196,69,Normal monitoring,Healthy
+1.67,Dark,5.4,16 ppm,30.2C,30.0C,49,10,85,62,Normal monitoring,Nutrient Deficiency
+1.65,Dim,4.7,18 ppm,18.4C,16.8C,37,12,81,52,Normal monitoring,Nutrient Deficiency
+1.61,Dim,6.0,16 ppm,45.6C,37.7C,46,22,124,14,Normal monitoring,Water Stress
+1.68,Dim,6.0,8 ppm,27.9C,26.9C,89,43,192,57,Normal monitoring,Healthy
+1.73,Bright,5.8,18 ppm,38.3C,31.4C,43,27,109,12,Normal monitoring,Water Stress
+1.62,Bright,4.8,16 ppm,21.9C,21.1C,28,17,91,64,Normal monitoring,Nutrient Deficiency
+1.65,Dim,6.2,14 ppm,31.8C,31.4C,87,46,210,62,Normal monitoring,Healthy
+1.62,Bright,3.8,30 ppm,32.8C,23.0C,73,35,151,70,Bacterial infection,Disease
+1.65,Dim,6.4,6 ppm,33.4C,32.8C,85,39,219,61,Normal monitoring,Healthy
+1.66,Dark,3.8,39 ppm,38.3C,33.0C,63,26,168,79,Fungal infection,Disease
+1.63,Dim,6.4,7 ppm,33.7C,35.5C,83,36,201,57,Normal monitoring,Healthy
+1.63,Dim,5.7,22 ppm,31.6C,23.9C,47,20,104,25,Normal monitoring,Water Stress
+1.67,Dark,3.8,56 ppm,31.5C,24.7C,63,37,186,71,Pest infection,Disease
+1.65,Bright,5.9,23 ppm,43.0C,36.3C,45,20,115,15,Normal monitoring,Water Stress
+1.66,Bright,4.9,15 ppm,23.5C,22.4C,30,19,99,51,Normal monitoring,Nutrient Deficiency
+1.63,Bright,5.4,13 ppm,19.9C,18.9C,32,13,116,60,Normal monitoring,Nutrient Deficiency
+1.65,Dim,5.6,15 ppm,42.2C,34.3C,49,16,125,28,Normal monitoring,Water Stress
+1.66,Dim,5.0,12 ppm,28.4C,27.8C,27,14,114,61,Normal monitoring,Nutrient Deficiency
+1.65,Bright,6.0,24 ppm,32.6C,26.6C,37,26,120,24,Normal monitoring,Water Stress
+1.63,Bright,5.1,18 ppm,23.8C,21.6C,31,12,110,56,Normal monitoring,Nutrient Deficiency
+1.66,Bright,5.8,19 ppm,42.2C,36.1C,40,15,109,18,Normal monitoring,Water Stress
+1.61,Bright,4.3,36 ppm,40.8C,36.8C,79,38,156,65,Pest infection,Disease
+1.67,Bright,3.7,42 ppm,33.2C,28.0C,71,28,172,74,Fungal infection,Disease
+1.65,Dim,5.2,15 ppm,15.8C,14.2C,21,15,102,64,Normal monitoring,Nutrient Deficiency
+1.65,Bright,5.3,14 ppm,20.2C,19.8C,43,19,86,62,Normal monitoring,Nutrient Deficiency
+1.69,Dim,4.6,14 ppm,34.0C,33.7C,29,14,118,61,Normal monitoring,Nutrient Deficiency
+1.61,Dim,4.8,14 ppm,19.7C,17.7C,42,19,113,54,Normal monitoring,Nutrient Deficiency
+1.63,Bright,5.7,20 ppm,39.6C,34.3C,45,17,101,20,Normal monitoring,Water Stress
+1.66,Bright,4.8,12 ppm,35.2C,33.9C,31,17,81,63,Normal monitoring,Nutrient Deficiency
+1.66,Dim,5.8,7 ppm,18.8C,17.6C,86,35,196,63,Normal monitoring,Healthy
+1.62,Bright,5.8,24 ppm,40.7C,34.5C,36,17,96,25,Normal monitoring,Water Stress
+1.64,Dim,4.9,15 ppm,30.1C,27.1C,37,12,96,59,Normal monitoring,Nutrient Deficiency
+1.64,Dim,5.9,8 ppm,27.1C,28.4C,81,46,206,58,Normal monitoring,Healthy
+1.65,Dim,5.8,23 ppm,39.0C,31.9C,49,24,101,25,Normal monitoring,Water Stress
+1.59,Bright,5.9,9 ppm,35.5C,35.7C,78,35,197,61,Normal monitoring,Healthy
+1.65,Bright,4.9,16 ppm,37.1C,35.3C,23,11,85,59,Normal monitoring,Nutrient Deficiency
+1.68,Dark,5.6,23 ppm,22.4C,15.2C,48,21,112,19,Normal monitoring,Water Stress
+1.68,Bright,6.2,12 ppm,32.4C,31.5C,86,46,219,58,Normal monitoring,Healthy
+1.64,Dim,5.8,16 ppm,37.6C,29.8C,37,29,92,19,Normal monitoring,Water Stress
+1.74,Dim,6.1,6 ppm,11.7C,10.7C,76,35,208,59,Normal monitoring,Healthy
+1.64,Dim,4.1,51 ppm,31.0C,26.3C,65,30,166,74,Pest infection,Disease
+1.68,Bright,5.9,6 ppm,16.3C,17.4C,78,41,199,58,Normal monitoring,Healthy
+1.66,Dim,5.6,15 ppm,23.1C,17.4C,36,21,99,29,Normal monitoring,Water Stress
+1.67,Dark,6.4,11 ppm,21.3C,22.0C,77,44,219,61,Normal monitoring,Healthy
+1.66,Dim,3.5,32 ppm,39.4C,30.5C,53,35,170,68,Viral infection,Disease
+1.64,Bright,5.2,18 ppm,23.8C,20.8C,26,15,88,63,Normal monitoring,Nutrient Deficiency
+1.57,Bright,3.7,37 ppm,27.8C,24.1C,61,27,146,73,Viral infection,Disease
+1.61,Bright,5.4,15 ppm,19.4C,16.4C,32,14,98,53,Normal monitoring,Nutrient Deficiency
+1.65,Bright,5.5,20 ppm,38.2C,30.5C,44,28,118,12,Normal monitoring,Water Stress
+1.66,Dim,5.1,19 ppm,31.5C,31.4C,35,18,80,59,Normal monitoring,Nutrient Deficiency
+1.66,Dark,4.6,12 ppm,16.8C,14.7C,34,10,94,59,Normal monitoring,Nutrient Deficiency
+1.67,Bright,6.0,15 ppm,20.6C,14.9C,44,21,99,15,Normal monitoring,Water Stress
+1.65,Bright,3.6,47 ppm,24.5C,16.3C,67,39,170,70,Fungal infection,Disease
+1.62,Bright,5.6,20 ppm,23.0C,15.2C,42,17,115,10,Normal monitoring,Water Stress
+1.63,Bright,6.1,14 ppm,30.9C,31.6C,75,46,216,69,Normal monitoring,Healthy
+1.62,Bright,5.3,14 ppm,27.3C,23.3C,23,17,95,56,Normal monitoring,Nutrient Deficiency
+1.66,Bright,4.4,40 ppm,39.2C,35.3C,54,35,167,73,Viral infection,Disease
+1.62,Bright,4.0,49 ppm,37.6C,31.8C,78,39,184,73,Fungal infection,Disease
+1.72,Bright,5.6,19 ppm,40.4C,34.3C,41,27,95,16,Normal monitoring,Water Stress
+1.63,Dim,4.3,53 ppm,23.5C,18.3C,55,28,130,68,Viral infection,Disease
+1.64,Dim,6.0,7 ppm,35.7C,32.9C,83,41,200,57,Normal monitoring,Healthy
+1.62,Dim,6.1,13 ppm,28.6C,30.0C,82,37,209,69,Normal monitoring,Healthy
+1.67,Bright,5.7,17 ppm,38.9C,31.2C,46,24,128,17,Normal monitoring,Water Stress
+1.67,Bright,4.9,10 ppm,31.6C,28.2C,26,18,99,57,Normal monitoring,Nutrient Deficiency
+1.64,Dim,5.6,23 ppm,40.6C,35.1C,38,17,94,12,Normal monitoring,Water Stress
+1.66,Bright,3.7,58 ppm,25.0C,19.0C,79,36,154,76,Bacterial infection,Disease
+1.6,Bright,4.9,11 ppm,18.2C,16.2C,21,16,113,52,Normal monitoring,Nutrient Deficiency
+1.67,Bright,6.5,10 ppm,34.2C,35.6C,87,41,194,68,Normal monitoring,Healthy
+1.64,Dim,3.6,47 ppm,35.6C,30.3C,66,38,185,75,Bacterial infection,Disease
+1.66,Dim,3.6,40 ppm,40.1C,36.6C,65,35,144,77,Viral infection,Disease
+1.66,Dim,5.3,10 ppm,31.1C,29.3C,26,19,107,63,Normal monitoring,Nutrient Deficiency
+1.66,Bright,3.6,64 ppm,31.6C,21.8C,61,31,196,80,Fungal infection,Disease
+1.71,Dim,6.0,20 ppm,39.5C,33.6C,39,23,91,11,Normal monitoring,Water Stress
+1.66,Dark,5.9,15 ppm,24.1C,16.4C,47,27,122,11,Normal monitoring,Water Stress
+1.64,Bright,4.1,52 ppm,36.2C,32.4C,78,31,184,75,Bacterial infection,Disease
+1.7,Dark,4.6,19 ppm,26.3C,23.4C,27,17,82,56,Normal monitoring,Nutrient Deficiency
+1.63,Bright,6.4,5 ppm,36.1C,36.1C,83,40,216,65,Normal monitoring,Healthy
+1.65,Dim,4.0,52 ppm,21.2C,14.2C,74,33,163,77,Pest infection,Disease
+1.65,Bright,5.9,15 ppm,24.8C,17.2C,37,20,128,10,Normal monitoring,Water Stress
+1.65,Dim,4.0,34 ppm,25.8C,18.9C,68,33,144,73,Viral infection,Disease
+1.64,Dim,4.2,44 ppm,33.3C,24.5C,64,38,153,79,Pest infection,Disease
+1.64,Dim,5.1,14 ppm,31.7C,29.8C,44,13,108,62,Normal monitoring,Nutrient Deficiency
+1.59,Dim,5.5,20 ppm,21.9C,15.2C,38,16,115,16,Normal monitoring,Water Stress
+1.62,Bright,3.2,51 ppm,25.5C,19.3C,62,25,158,68,Bacterial infection,Disease
+1.58,Dim,6.3,9 ppm,16.1C,17.9C,78,35,210,64,Normal monitoring,Healthy
+1.65,Bright,4.0,53 ppm,46.8C,37.8C,65,35,152,69,Pest infection,Disease
+1.69,Dim,5.6,20 ppm,37.5C,30.4C,48,19,94,13,Normal monitoring,Water Stress
+1.67,Bright,5.3,12 ppm,38.1C,36.2C,31,15,111,64,Normal monitoring,Nutrient Deficiency
+1.62,Dim,3.7,59 ppm,33.8C,27.2C,74,31,185,77,Fungal infection,Disease
+1.67,Bright,5.8,18 ppm,36.7C,31.1C,46,29,110,19,Normal monitoring,Water Stress
+1.66,Bright,5.0,17 ppm,33.2C,29.7C,30,12,119,62,Normal monitoring,Nutrient Deficiency
+1.71,Dark,3.8,45 ppm,21.1C,15.6C,67,36,162,74,Pest infection,Disease
+1.62,Bright,5.9,24 ppm,44.5C,36.9C,40,17,98,29,Normal monitoring,Water Stress
+1.63,Dim,4.2,51 ppm,41.2C,35.3C,71,33,179,78,Pest infection,Disease
+1.68,Bright,5.6,23 ppm,39.1C,32.9C,37,19,121,19,Normal monitoring,Water Stress
+1.68,Bright,5.7,23 ppm,39.7C,31.7C,49,27,107,21,Normal monitoring,Water Stress
+1.67,Dim,6.4,9 ppm,18.5C,16.1C,79,47,197,62,Normal monitoring,Healthy
+1.65,Dim,5.6,22 ppm,43.1C,35.1C,45,20,106,13,Normal monitoring,Water Stress
+1.69,Dim,5.0,11 ppm,34.6C,30.9C,30,13,92,62,Normal monitoring,Nutrient Deficiency
+1.71,Dim,5.9,19 ppm,22.9C,16.2C,40,29,119,21,Normal monitoring,Water Stress
+1.64,Bright,5.1,16 ppm,36.4C,34.7C,31,15,92,64,Normal monitoring,Nutrient Deficiency
+1.64,Dim,5.5,18 ppm,40.1C,33.0C,47,20,114,25,Normal monitoring,Water Stress
+1.69,Bright,4.0,57 ppm,30.3C,22.0C,76,33,170,66,Bacterial infection,Disease
+1.61,Bright,3.7,32 ppm,28.1C,18.7C,67,29,160,74,Pest infection,Disease
+1.62,Bright,6.3,7 ppm,17.1C,17.6C,75,42,212,61,Normal monitoring,Healthy
+1.65,Bright,3.9,51 ppm,22.3C,19.3C,67,36,136,67,Viral infection,Disease
+1.69,Dim,3.7,59 ppm,40.3C,33.6C,51,35,139,78,Viral infection,Disease
+1.65,Dim,5.5,19 ppm,27.4C,21.3C,41,27,126,26,Normal monitoring,Water Stress
+1.61,Bright,5.7,19 ppm,44.2C,37.0C,47,27,95,10,Normal monitoring,Water Stress
+1.56,Bright,4.7,17 ppm,39.6C,36.6C,49,12,103,59,Normal monitoring,Nutrient Deficiency
+1.63,Dark,5.2,15 ppm,36.8C,33.6C,26,18,118,58,Normal monitoring,Nutrient Deficiency
+1.66,Bright,5.2,12 ppm,34.3C,31.6C,41,15,96,55,Normal monitoring,Nutrient Deficiency
+1.63,Bright,4.2,60 ppm,27.2C,18.9C,76,25,198,72,Fungal infection,Disease
+1.66,Bright,4.5,45 ppm,24.5C,19.7C,75,34,180,81,Fungal infection,Disease
+1.7,Bright,6.1,14 ppm,29.3C,26.8C,83,49,204,64,Normal monitoring,Healthy
+1.61,Bright,5.7,20 ppm,33.9C,27.9C,44,17,114,19,Normal monitoring,Water Stress
+1.66,Bright,4.7,12 ppm,27.7C,26.2C,41,15,119,55,Normal monitoring,Nutrient Deficiency
+1.64,Dark,4.2,44 ppm,27.9C,19.3C,69,29,183,78,Fungal infection,Disease
+1.66,Dim,6.3,13 ppm,18.8C,16.1C,80,46,214,69,Normal monitoring,Healthy
+1.63,Bright,5.5,20 ppm,40.5C,35.2C,43,22,92,22,Normal monitoring,Water Stress
+1.62,Dark,5.0,19 ppm,26.2C,22.2C,31,19,118,57,Normal monitoring,Nutrient Deficiency
+1.7,Bright,5.7,20 ppm,21.8C,14.5C,45,25,95,10,Normal monitoring,Water Stress
+1.59,Dim,6.5,14 ppm,29.5C,28.1C,84,41,215,59,Normal monitoring,Healthy
+1.65,Dark,4.4,51 ppm,23.2C,15.1C,65,38,195,80,Fungal infection,Disease
+1.65,Bright,4.7,11 ppm,21.9C,19.7C,37,17,96,50,Normal monitoring,Nutrient Deficiency
+1.66,Dim,5.8,24 ppm,26.9C,20.9C,43,17,115,18,Normal monitoring,Water Stress
+1.7,Dark,3.6,48 ppm,39.9C,31.6C,72,30,193,75,Fungal infection,Disease
+1.67,Bright,6.4,6 ppm,19.2C,19.8C,82,44,193,57,Normal monitoring,Healthy
+1.66,Bright,5.5,18 ppm,42.5C,35.4C,48,15,126,11,Normal monitoring,Water Stress
+1.64,Bright,6.5,6 ppm,33.8C,30.9C,85,46,190,64,Normal monitoring,Healthy
+1.65,Bright,3.8,42 ppm,37.2C,30.4C,62,26,160,66,Viral infection,Disease
+1.66,Dim,3.7,54 ppm,19.2C,14.5C,76,25,195,68,Pest infection,Disease
+1.61,Bright,6.1,7 ppm,33.6C,32.2C,89,38,198,61,Normal monitoring,Healthy
+1.65,Bright,5.3,19 ppm,36.0C,33.9C,24,13,118,60,Normal monitoring,Nutrient Deficiency
+1.64,Bright,4.1,37 ppm,35.0C,25.9C,66,37,153,77,Bacterial infection,Disease
+1.69,Bright,6.4,10 ppm,12.7C,11.3C,76,43,198,60,Normal monitoring,Healthy
+1.63,Bright,4.6,11 ppm,31.9C,29.9C,21,10,117,50,Normal monitoring,Nutrient Deficiency
+1.62,Dim,5.0,10 ppm,35.3C,31.8C,25,16,96,63,Normal monitoring,Nutrient Deficiency
+1.6,Dark,4.0,46 ppm,40.2C,34.2C,65,39,173,72,Pest infection,Disease
+1.65,Bright,6.4,11 ppm,36.2C,34.0C,77,47,198,61,Normal monitoring,Healthy
+1.69,Dim,5.9,22 ppm,19.6C,14.3C,41,22,123,25,Normal monitoring,Water Stress
+1.67,Dim,4.4,52 ppm,34.4C,25.1C,60,25,167,68,Pest infection,Disease
+1.68,Bright,5.7,22 ppm,20.0C,14.0C,42,24,117,23,Normal monitoring,Water Stress
+1.62,Dim,5.8,23 ppm,25.4C,20.3C,41,20,125,26,Normal monitoring,Water Stress
+1.66,Bright,5.5,16 ppm,33.0C,27.8C,38,26,95,25,Normal monitoring,Water Stress
+1.64,Bright,3.3,32 ppm,37.8C,28.9C,68,28,186,69,Bacterial infection,Disease
+1.64,Dim,4.1,38 ppm,43.9C,37.1C,69,26,174,75,Viral infection,Disease
+1.64,Bright,5.4,19 ppm,20.5C,20.1C,20,11,97,56,Normal monitoring,Nutrient Deficiency
+1.62,Dim,6.3,13 ppm,31.5C,29.7C,79,45,215,66,Normal monitoring,Healthy
+1.66,Bright,4.3,31 ppm,22.4C,15.7C,79,35,175,69,Pest infection,Disease
+1.61,Bright,5.9,16 ppm,26.7C,21.1C,44,20,97,10,Normal monitoring,Water Stress
+1.7,Bright,5.2,13 ppm,42.6C,38.7C,44,18,83,61,Normal monitoring,Nutrient Deficiency
+1.62,Bright,5.5,17 ppm,29.7C,26.6C,34,12,92,59,Normal monitoring,Nutrient Deficiency
+1.64,Dim,6.1,12 ppm,27.0C,24.3C,85,46,195,64,Normal monitoring,Healthy
+1.7,Dim,5.2,19 ppm,38.8C,38.7C,34,13,96,63,Normal monitoring,Nutrient Deficiency
+1.71,Bright,6.0,10 ppm,16.4C,17.8C,85,36,213,68,Normal monitoring,Healthy
+1.64,Dim,4.9,15 ppm,36.6C,32.6C,26,13,97,62,Normal monitoring,Nutrient Deficiency
+1.64,Bright,4.4,47 ppm,39.1C,32.0C,77,37,155,69,Pest infection,Disease
+1.66,Bright,4.3,48 ppm,21.0C,15.0C,51,30,161,67,Viral infection,Disease
+1.65,Bright,4.9,11 ppm,30.1C,29.9C,30,18,81,52,Normal monitoring,Nutrient Deficiency
+1.65,Bright,3.6,57 ppm,27.6C,21.3C,60,37,152,76,Bacterial infection,Disease
+1.63,Dim,5.3,18 ppm,25.6C,24.2C,34,12,100,63,Normal monitoring,Nutrient Deficiency
+1.58,Dark,5.6,23 ppm,24.6C,18.5C,38,23,101,20,Normal monitoring,Water Stress
+1.66,Bright,6.3,7 ppm,19.9C,19.2C,78,42,216,67,Normal monitoring,Healthy
+1.62,Dark,5.2,17 ppm,32.8C,31.0C,24,13,105,57,Normal monitoring,Nutrient Deficiency
+1.6,Bright,6.3,13 ppm,31.3C,32.3C,78,45,195,65,Normal monitoring,Healthy
+1.67,Dim,5.6,19 ppm,40.5C,33.8C,40,26,115,24,Normal monitoring,Water Stress
+1.62,Bright,4.9,16 ppm,28.2C,25.5C,49,18,81,58,Normal monitoring,Nutrient Deficiency
+1.63,Bright,5.9,11 ppm,32.8C,33.3C,75,42,217,57,Normal monitoring,Healthy
+1.64,Dark,4.5,56 ppm,42.6C,36.6C,64,30,157,78,Viral infection,Disease
+1.65,Bright,5.2,14 ppm,17.4C,16.9C,27,18,116,62,Normal monitoring,Nutrient Deficiency
+1.61,Bright,4.1,54 ppm,31.0C,25.5C,65,32,182,65,Pest infection,Disease
+1.62,Bright,3.6,58 ppm,45.4C,36.0C,73,26,150,71,Pest infection,Disease
+1.73,Bright,5.8,18 ppm,34.6C,27.1C,44,23,91,18,Normal monitoring,Water Stress
+1.66,Bright,6.0,8 ppm,25.9C,25.1C,75,38,207,62,Normal monitoring,Healthy
+1.67,Bright,6.3,6 ppm,23.3C,25.0C,76,48,206,63,Normal monitoring,Healthy
+1.67,Dark,6.5,14 ppm,31.9C,33.7C,83,41,202,59,Normal monitoring,Healthy
+1.66,Bright,4.2,45 ppm,41.1C,33.0C,75,25,159,71,Bacterial infection,Disease
+1.6,Dim,4.2,53 ppm,25.3C,19.4C,52,25,178,74,Viral infection,Disease
+1.64,Bright,5.6,19 ppm,39.6C,33.1C,42,22,110,15,Normal monitoring,Water Stress
+1.65,Dim,3.8,31 ppm,38.5C,33.0C,63,38,192,65,Pest infection,Disease
+1.61,Dim,5.1,17 ppm,14.7C,12.3C,21,12,99,52,Normal monitoring,Nutrient Deficiency
+1.63,Bright,5.8,15 ppm,26.3C,20.1C,38,25,128,26,Normal monitoring,Water Stress
+1.7,Bright,5.6,20 ppm,35.4C,29.4C,39,18,129,29,Normal monitoring,Water Stress
+1.65,Bright,5.5,12 ppm,31.8C,28.3C,34,19,99,52,Normal monitoring,Nutrient Deficiency
+1.63,Dim,6.4,5 ppm,30.5C,31.4C,85,36,207,58,Normal monitoring,Healthy
+1.67,Dim,5.5,19 ppm,38.0C,30.1C,42,22,119,21,Normal monitoring,Water Stress
+1.67,Bright,5.1,12 ppm,22.7C,21.1C,26,13,101,59,Normal monitoring,Nutrient Deficiency
+1.58,Bright,5.6,23 ppm,41.5C,35.9C,48,28,118,17,Normal monitoring,Water Stress
+1.62,Bright,6.2,7 ppm,18.2C,18.7C,81,36,213,60,Normal monitoring,Healthy
+1.63,Dim,4.8,19 ppm,34.8C,32.8C,23,19,82,58,Normal monitoring,Nutrient Deficiency
+1.65,Bright,3.9,34 ppm,45.4C,40.4C,59,33,162,78,Viral infection,Disease
+1.6,Dim,4.8,11 ppm,36.2C,33.9C,37,18,116,57,Normal monitoring,Nutrient Deficiency
+1.7,Dim,5.9,13 ppm,35.0C,35.3C,78,38,198,60,Normal monitoring,Healthy
+1.65,Dim,5.9,11 ppm,18.2C,15.3C,82,48,215,60,Normal monitoring,Healthy
+1.67,Dark,6.3,11 ppm,24.2C,22.3C,79,44,206,57,Normal monitoring,Healthy
+1.61,Dark,5.9,14 ppm,27.6C,27.5C,81,49,213,55,Normal monitoring,Healthy
+1.65,Bright,4.1,59 ppm,32.5C,23.3C,62,37,197,68,Bacterial infection,Disease
+1.61,Dim,4.4,49 ppm,26.5C,22.4C,62,35,161,72,Viral infection,Disease
+1.64,Dim,4.4,52 ppm,35.4C,30.2C,66,31,186,73,Pest infection,Disease
+1.7,Dim,5.9,18 ppm,43.5C,35.9C,49,27,104,13,Normal monitoring,Water Stress
+1.64,Bright,4.4,33 ppm,40.5C,33.1C,59,39,144,68,Viral infection,Disease
+1.72,Bright,4.8,18 ppm,32.6C,29.5C,20,15,94,56,Normal monitoring,Nutrient Deficiency
+1.6,Bright,6.4,8 ppm,27.9C,29.3C,76,36,206,67,Normal monitoring,Healthy
+1.64,Bright,4.1,31 ppm,34.2C,26.2C,68,35,167,65,Viral infection,Disease
+1.65,Bright,6.0,7 ppm,20.2C,18.9C,77,44,191,63,Normal monitoring,Healthy
+1.6,Bright,6.1,6 ppm,35.6C,33.0C,83,44,200,60,Normal monitoring,Healthy
+1.64,Bright,5.6,21 ppm,39.1C,32.4C,45,24,116,29,Normal monitoring,Water Stress
+1.63,Bright,5.8,17 ppm,32.1C,26.0C,47,28,105,16,Normal monitoring,Water Stress
+1.64,Dim,4.0,38 ppm,44.4C,36.5C,62,28,174,81,Fungal infection,Disease
+1.67,Dim,5.8,21 ppm,18.6C,12.8C,43,24,128,11,Normal monitoring,Water Stress
+1.67,Bright,6.0,13 ppm,9.3C,10.5C,86,40,201,68,Normal monitoring,Healthy
+1.71,Bright,6.0,9 ppm,25.3C,23.9C,86,36,217,59,Normal monitoring,Healthy
+1.65,Bright,5.2,11 ppm,36.0C,32.3C,49,16,98,56,Normal monitoring,Nutrient Deficiency
+1.65,Bright,5.8,16 ppm,31.2C,23.8C,41,15,126,15,Normal monitoring,Water Stress
+1.62,Dark,3.6,56 ppm,21.8C,14.6C,76,31,166,77,Pest infection,Disease
+1.65,Bright,4.1,53 ppm,29.3C,22.7C,66,37,161,68,Bacterial infection,Disease
+1.63,Bright,5.9,9 ppm,20.0C,18.4C,86,46,219,64,Normal monitoring,Healthy
+1.66,Dim,6.0,15 ppm,43.1C,36.2C,43,18,106,11,Normal monitoring,Water Stress
+1.69,Bright,5.8,7 ppm,15.4C,16.0C,78,38,210,68,Normal monitoring,Healthy
+1.7,Dark,5.5,19 ppm,25.6C,25.0C,22,11,103,60,Normal monitoring,Nutrient Deficiency
+1.67,Bright,4.3,50 ppm,38.4C,29.1C,70,28,174,79,Pest infection,Disease
+1.69,Bright,5.1,17 ppm,28.0C,25.2C,34,14,106,50,Normal monitoring,Nutrient Deficiency
+1.6,Bright,6.1,5 ppm,37.1C,35.9C,78,40,210,62,Normal monitoring,Healthy
+1.61,Bright,6.4,7 ppm,34.0C,35.0C,86,49,195,67,Normal monitoring,Healthy
+1.61,Dim,6.0,14 ppm,16.3C,15.5C,79,43,190,61,Normal monitoring,Healthy
+1.7,Bright,4.0,46 ppm,43.9C,34.8C,62,29,165,65,Viral infection,Disease
+1.65,Bright,4.9,11 ppm,22.5C,19.9C,27,11,97,64,Normal monitoring,Nutrient Deficiency
+1.65,Bright,5.2,10 ppm,18.6C,16.2C,28,16,105,52,Normal monitoring,Nutrient Deficiency
+1.68,Bright,5.5,12 ppm,38.4C,35.7C,24,15,93,58,Normal monitoring,Nutrient Deficiency
+1.63,Bright,6.0,15 ppm,39.9C,33.0C,44,24,121,19,Normal monitoring,Water Stress
+1.62,Dim,3.6,55 ppm,26.3C,22.3C,68,37,168,77,Viral infection,Disease
+1.67,Bright,4.8,11 ppm,37.3C,35.6C,45,18,86,57,Normal monitoring,Nutrient Deficiency
+1.69,Bright,3.6,46 ppm,37.3C,28.1C,74,39,155,73,Bacterial infection,Disease
+1.64,Bright,3.3,59 ppm,38.6C,32.2C,62,32,151,79,Bacterial infection,Disease
+1.69,Bright,5.7,20 ppm,40.3C,32.5C,35,21,118,15,Normal monitoring,Water Stress
+1.67,Bright,4.8,13 ppm,18.5C,15.2C,24,14,113,60,Normal monitoring,Nutrient Deficiency
+1.66,Bright,4.4,51 ppm,27.3C,21.0C,74,28,193,68,Pest infection,Disease
+1.67,Dim,4.9,15 ppm,31.5C,27.7C,28,17,91,59,Normal monitoring,Nutrient Deficiency
+1.69,Bright,3.9,32 ppm,36.3C,28.9C,50,31,135,70,Viral infection,Disease
+1.71,Bright,5.1,17 ppm,39.7C,35.9C,21,16,96,55,Normal monitoring,Nutrient Deficiency
+1.58,Dim,6.5,7 ppm,26.4C,27.4C,87,43,205,56,Normal monitoring,Healthy
+1.65,Bright,4.8,18 ppm,10.7C,10.1C,28,17,87,59,Normal monitoring,Nutrient Deficiency
+1.69,Bright,4.6,11 ppm,30.4C,29.8C,47,10,84,59,Normal monitoring,Nutrient Deficiency
+1.64,Bright,5.2,16 ppm,31.7C,29.9C,39,10,108,59,Normal monitoring,Nutrient Deficiency
+1.61,Bright,4.2,44 ppm,33.5C,27.0C,65,27,159,81,Fungal infection,Disease
+1.67,Bright,5.9,21 ppm,17.4C,12.1C,49,21,99,19,Normal monitoring,Water Stress
+1.69,Dim,6.4,11 ppm,35.3C,33.1C,77,48,211,68,Normal monitoring,Healthy
+1.7,Bright,6.3,14 ppm,32.6C,31.5C,80,46,214,67,Normal monitoring,Healthy
+1.65,Bright,4.4,44 ppm,37.2C,31.0C,70,34,180,76,Fungal infection,Disease
+1.66,Bright,5.7,23 ppm,40.0C,33.5C,40,20,91,29,Normal monitoring,Water Stress
+1.69,Dim,3.8,63 ppm,22.0C,15.5C,60,29,174,74,Fungal infection,Disease
+1.64,Bright,5.9,18 ppm,35.0C,28.7C,41,27,99,18,Normal monitoring,Water Stress
+1.61,Bright,3.7,40 ppm,29.5C,24.4C,65,25,195,79,Fungal infection,Disease
+1.65,Dark,5.7,21 ppm,25.7C,20.7C,43,26,129,16,Normal monitoring,Water Stress
+1.66,Bright,5.9,7 ppm,16.9C,17.9C,88,36,203,64,Normal monitoring,Healthy
+1.71,Bright,5.9,9 ppm,26.8C,28.3C,86,44,205,57,Normal monitoring,Healthy
+1.65,Bright,5.9,8 ppm,32.3C,33.3C,79,38,192,57,Normal monitoring,Healthy
+1.65,Dim,6.3,8 ppm,31.6C,30.6C,87,49,215,64,Normal monitoring,Healthy
+1.67,Bright,5.6,22 ppm,37.4C,32.1C,45,19,127,18,Normal monitoring,Water Stress
+1.64,Dim,4.6,14 ppm,31.7C,31.4C,29,19,102,54,Normal monitoring,Nutrient Deficiency
+1.68,Bright,5.4,14 ppm,34.2C,32.1C,38,11,102,53,Normal monitoring,Nutrient Deficiency
+1.62,Dark,4.9,12 ppm,15.4C,12.4C,35,14,84,62,Normal monitoring,Nutrient Deficiency
+1.63,Bright,5.6,23 ppm,19.9C,14.6C,44,29,116,21,Normal monitoring,Water Stress
+1.65,Bright,4.0,36 ppm,21.9C,12.9C,61,29,163,67,Viral infection,Disease
+1.68,Bright,5.4,18 ppm,19.2C,16.2C,30,15,105,59,Normal monitoring,Nutrient Deficiency
+1.66,Dim,5.8,17 ppm,33.4C,28.0C,38,21,97,24,Normal monitoring,Water Stress
+1.65,Bright,6.1,13 ppm,18.2C,17.8C,88,42,191,55,Normal monitoring,Healthy
+1.66,Bright,4.0,42 ppm,40.5C,35.3C,74,36,178,71,Bacterial infection,Disease
+1.71,Bright,5.7,19 ppm,35.5C,28.4C,36,18,95,20,Normal monitoring,Water Stress
+1.6,Bright,4.1,44 ppm,40.4C,34.1C,57,31,166,67,Viral infection,Disease
+1.66,Dim,5.9,17 ppm,41.7C,34.7C,39,29,92,28,Normal monitoring,Water Stress
+1.66,Bright,6.5,13 ppm,20.5C,20.9C,86,35,203,68,Normal monitoring,Healthy
+1.64,Bright,4.2,33 ppm,41.0C,31.4C,55,27,160,68,Viral infection,Disease
+1.65,Dark,3.3,43 ppm,24.1C,16.7C,73,38,163,73,Bacterial infection,Disease
+1.71,Bright,5.9,11 ppm,22.5C,20.8C,79,38,207,55,Normal monitoring,Healthy
+1.66,Dim,4.7,19 ppm,28.3C,27.7C,28,15,95,52,Normal monitoring,Nutrient Deficiency
+1.65,Bright,6.0,10 ppm,22.2C,19.7C,88,42,201,64,Normal monitoring,Healthy
+1.61,Bright,5.6,16 ppm,19.8C,14.5C,48,29,94,13,Normal monitoring,Water Stress
+1.68,Dark,5.8,21 ppm,35.4C,28.8C,35,23,110,26,Normal monitoring,Water Stress
+1.63,Dim,6.1,12 ppm,34.4C,34.6C,78,49,204,69,Normal monitoring,Healthy
+1.66,Dark,5.0,19 ppm,32.2C,31.7C,32,12,87,53,Normal monitoring,Nutrient Deficiency
+1.62,Bright,5.2,15 ppm,36.2C,34.8C,34,11,98,51,Normal monitoring,Nutrient Deficiency
+1.64,Bright,5.2,19 ppm,15.8C,14.9C,27,16,90,56,Normal monitoring,Nutrient Deficiency
+1.67,Bright,5.7,16 ppm,34.5C,29.1C,47,20,124,25,Normal monitoring,Water Stress
+1.61,Bright,5.8,20 ppm,24.1C,17.6C,49,25,109,13,Normal monitoring,Water Stress
+1.61,Bright,6.0,20 ppm,32.8C,27.2C,41,17,114,25,Normal monitoring,Water Stress
+1.62,Dim,5.5,21 ppm,35.4C,30.2C,39,23,115,20,Normal monitoring,Water Stress
+1.68,Bright,4.6,17 ppm,42.6C,39.1C,34,10,101,60,Normal monitoring,Nutrient Deficiency
+1.64,Dim,5.0,13 ppm,36.9C,35.1C,27,10,106,61,Normal monitoring,Nutrient Deficiency
+1.63,Dim,4.8,11 ppm,29.8C,29.4C,27,11,84,52,Normal monitoring,Nutrient Deficiency
+1.65,Bright,5.8,8 ppm,33.7C,35.5C,77,45,196,68,Normal monitoring,Healthy
+1.66,Dim,4.9,19 ppm,16.7C,16.5C,29,15,96,56,Normal monitoring,Nutrient Deficiency
+1.65,Bright,5.1,15 ppm,24.8C,23.0C,38,12,91,59,Normal monitoring,Nutrient Deficiency
+1.69,Dim,5.6,21 ppm,39.2C,34.2C,48,28,126,28,Normal monitoring,Water Stress
+1.61,Bright,4.8,17 ppm,32.3C,30.7C,29,10,115,55,Normal monitoring,Nutrient Deficiency
+1.64,Bright,4.0,41 ppm,41.1C,33.0C,50,34,130,76,Viral infection,Disease
+1.64,Bright,5.5,23 ppm,21.2C,14.3C,35,15,122,15,Normal monitoring,Water Stress
+1.66,Bright,5.6,21 ppm,41.6C,33.8C,45,16,103,17,Normal monitoring,Water Stress
+1.65,Bright,5.8,22 ppm,34.0C,26.5C,39,19,107,10,Normal monitoring,Water Stress
+1.66,Bright,4.7,18 ppm,35.4C,32.2C,37,18,80,63,Normal monitoring,Nutrient Deficiency
+1.7,Bright,6.0,7 ppm,29.4C,28.5C,84,37,196,68,Normal monitoring,Healthy
+1.66,Bright,5.4,13 ppm,34.2C,32.5C,46,18,114,56,Normal monitoring,Nutrient Deficiency
+1.64,Bright,6.3,12 ppm,16.5C,15.8C,80,39,211,59,Normal monitoring,Healthy
+1.63,Dark,4.1,60 ppm,35.1C,28.7C,62,29,182,80,Fungal infection,Disease
+1.66,Dim,3.7,44 ppm,32.6C,29.0C,64,28,188,73,Fungal infection,Disease
+1.65,Dim,5.9,24 ppm,37.5C,32.1C,44,25,108,27,Normal monitoring,Water Stress
+1.64,Bright,5.8,19 ppm,43.4C,36.2C,46,21,129,18,Normal monitoring,Water Stress
+1.68,Dim,6.2,5 ppm,33.9C,31.9C,78,49,204,67,Normal monitoring,Healthy
+1.64,Bright,3.4,31 ppm,34.7C,27.0C,72,29,177,77,Bacterial infection,Disease
+1.64,Bright,6.0,5 ppm,33.1C,33.3C,80,42,194,69,Normal monitoring,Healthy
+1.63,Dim,3.3,58 ppm,25.7C,20.0C,77,31,196,65,Bacterial infection,Disease
+1.64,Dark,4.5,56 ppm,40.4C,34.7C,63,37,153,70,Fungal infection,Disease
+1.66,Bright,5.8,9 ppm,22.3C,23.2C,81,38,203,63,Normal monitoring,Healthy
+1.65,Bright,4.5,37 ppm,22.1C,18.1C,68,33,152,65,Viral infection,Disease
+1.67,Dim,5.6,18 ppm,19.6C,14.4C,48,17,104,15,Normal monitoring,Water Stress
+1.6,Bright,4.0,37 ppm,32.4C,28.2C,58,34,141,65,Viral infection,Disease
+1.64,Dim,5.8,22 ppm,32.2C,24.3C,45,16,113,14,Normal monitoring,Water Stress
+1.66,Dim,5.4,17 ppm,29.8C,28.6C,29,18,95,60,Normal monitoring,Nutrient Deficiency
+1.64,Bright,4.9,16 ppm,28.1C,27.1C,37,14,117,62,Normal monitoring,Nutrient Deficiency
+1.62,Bright,6.1,11 ppm,34.1C,35.2C,89,39,204,58,Normal monitoring,Healthy
+1.67,Bright,6.0,23 ppm,35.2C,28.5C,48,20,112,14,Normal monitoring,Water Stress
+1.64,Dim,6.3,11 ppm,37.7C,36.6C,83,36,197,62,Normal monitoring,Healthy
+1.65,Dark,4.2,57 ppm,22.0C,12.7C,74,36,158,72,Fungal infection,Disease
+1.6,Dark,5.6,21 ppm,35.1C,27.9C,41,21,115,22,Normal monitoring,Water Stress
+1.6,Dark,6.0,5 ppm,27.7C,27.7C,75,39,206,62,Normal monitoring,Healthy
+1.66,Bright,5.0,12 ppm,17.5C,15.5C,29,16,109,59,Normal monitoring,Nutrient Deficiency
+1.63,Bright,5.1,15 ppm,22.6C,19.2C,27,14,100,51,Normal monitoring,Nutrient Deficiency
+1.61,Bright,5.9,11 ppm,27.0C,26.6C,78,47,198,57,Normal monitoring,Healthy
+1.7,Bright,4.4,31 ppm,29.6C,23.1C,72,31,189,69,Pest infection,Disease
+1.68,Dim,4.6,14 ppm,35.3C,33.2C,25,16,116,55,Normal monitoring,Nutrient Deficiency
+1.62,Bright,4.4,30 ppm,44.8C,35.2C,68,29,183,72,Pest infection,Disease
+1.6,Bright,4.3,56 ppm,36.4C,32.0C,79,29,157,70,Pest infection,Disease
+1.67,Dim,3.2,48 ppm,33.1C,28.9C,69,28,179,67,Bacterial infection,Disease
+1.66,Bright,5.8,15 ppm,19.5C,13.9C,42,22,98,21,Normal monitoring,Water Stress
+1.63,Bright,3.7,37 ppm,37.0C,33.6C,62,26,175,70,Bacterial infection,Disease
+1.65,Bright,6.0,16 ppm,31.8C,25.2C,45,25,129,21,Normal monitoring,Water Stress
+1.67,Bright,4.6,17 ppm,17.9C,16.7C,28,11,106,54,Normal monitoring,Nutrient Deficiency
+1.61,Bright,5.2,18 ppm,30.8C,27.4C,32,13,116,58,Normal monitoring,Nutrient Deficiency
+1.6,Bright,4.0,33 ppm,34.9C,26.9C,74,38,199,75,Bacterial infection,Disease
+1.65,Bright,4.2,47 ppm,31.4C,25.8C,65,26,157,77,Viral infection,Disease
+1.62,Bright,5.0,11 ppm,23.6C,20.4C,41,18,83,61,Normal monitoring,Nutrient Deficiency
+1.65,Bright,4.2,43 ppm,29.9C,23.5C,71,34,183,72,Pest infection,Disease
+1.64,Bright,6.2,12 ppm,36.4C,33.5C,86,45,198,69,Normal monitoring,Healthy
+1.68,Dim,5.5,15 ppm,20.5C,15.3C,43,24,128,29,Normal monitoring,Water Stress
+1.66,Bright,6.1,6 ppm,23.4C,22.2C,85,42,211,58,Normal monitoring,Healthy
+1.66,Bright,4.6,15 ppm,30.0C,26.7C,37,11,104,62,Normal monitoring,Nutrient Deficiency
+1.62,Bright,5.5,15 ppm,24.5C,16.5C,39,25,116,14,Normal monitoring,Water Stress
+1.69,Bright,6.3,13 ppm,26.2C,27.3C,89,39,217,69,Normal monitoring,Healthy
+1.63,Bright,6.5,12 ppm,31.6C,30.5C,87,47,204,68,Normal monitoring,Healthy
+1.64,Dim,6.3,12 ppm,18.3C,16.8C,88,35,214,61,Normal monitoring,Healthy
+1.62,Bright,6.4,7 ppm,37.6C,34.7C,82,38,213,63,Normal monitoring,Healthy
+1.63,Bright,3.3,48 ppm,32.1C,25.9C,72,27,193,70,Bacterial infection,Disease
+1.68,Bright,6.0,10 ppm,32.9C,30.0C,75,46,216,57,Normal monitoring,Healthy
+1.65,Dim,5.8,18 ppm,29.9C,22.5C,46,22,98,24,Normal monitoring,Water Stress
+1.66,Bright,5.9,11 ppm,11.7C,13.6C,83,36,208,61,Normal monitoring,Healthy
+1.62,Bright,5.4,13 ppm,26.9C,23.2C,36,12,92,64,Normal monitoring,Nutrient Deficiency
+1.68,Bright,5.6,24 ppm,36.6C,31.2C,44,18,125,10,Normal monitoring,Water Stress
+1.67,Bright,4.8,15 ppm,28.2C,27.4C,34,19,110,60,Normal monitoring,Nutrient Deficiency
+1.63,Bright,6.0,14 ppm,35.3C,33.4C,82,44,215,57,Normal monitoring,Healthy
+1.62,Dark,5.8,11 ppm,22.1C,20.1C,83,43,214,64,Normal monitoring,Healthy
+1.71,Dark,3.9,40 ppm,18.7C,15.7C,64,30,157,67,Viral infection,Disease
+1.62,Dim,5.9,7 ppm,30.2C,30.8C,86,39,219,57,Normal monitoring,Healthy
+1.62,Dark,5.9,13 ppm,31.8C,29.4C,81,36,197,55,Normal monitoring,Healthy
+1.64,Dark,5.4,11 ppm,30.3C,29.3C,45,13,90,54,Normal monitoring,Nutrient Deficiency
+1.64,Bright,5.5,24 ppm,29.2C,22.0C,44,23,92,20,Normal monitoring,Water Stress
+1.7,Dim,5.3,14 ppm,22.2C,18.6C,31,14,89,60,Normal monitoring,Nutrient Deficiency
+1.68,Dim,3.8,40 ppm,41.4C,33.1C,67,39,168,75,Bacterial infection,Disease
+1.68,Bright,4.6,13 ppm,19.5C,17.1C,27,12,117,53,Normal monitoring,Nutrient Deficiency
+1.63,Dim,5.9,23 ppm,26.5C,20.7C,49,23,128,19,Normal monitoring,Water Stress
+1.64,Bright,5.5,17 ppm,31.9C,26.3C,43,17,100,21,Normal monitoring,Water Stress
+1.67,Dim,6.0,7 ppm,16.6C,17.9C,85,42,208,59,Normal monitoring,Healthy
+1.67,Bright,5.1,15 ppm,32.9C,32.4C,30,11,93,59,Normal monitoring,Nutrient Deficiency
+1.64,Bright,4.6,16 ppm,35.2C,32.9C,21,13,113,60,Normal monitoring,Nutrient Deficiency
+1.65,Bright,6.5,7 ppm,25.5C,23.1C,80,42,202,68,Normal monitoring,Healthy
+1.6,Bright,4.1,53 ppm,22.6C,16.3C,53,33,153,65,Viral infection,Disease
+1.72,Bright,5.4,17 ppm,30.7C,27.0C,27,18,82,57,Normal monitoring,Nutrient Deficiency
+1.68,Bright,6.5,11 ppm,37.0C,34.3C,88,47,191,63,Normal monitoring,Healthy
+1.67,Bright,3.8,50 ppm,34.7C,29.4C,76,35,196,73,Fungal infection,Disease
+1.66,Bright,5.2,10 ppm,16.5C,14.6C,32,11,84,50,Normal monitoring,Nutrient Deficiency
+1.67,Bright,5.0,15 ppm,32.3C,30.2C,28,12,110,59,Normal monitoring,Nutrient Deficiency
+1.63,Dark,5.2,14 ppm,40.0C,36.7C,26,14,117,63,Normal monitoring,Nutrient Deficiency
+1.62,Bright,4.9,17 ppm,30.5C,28.3C,29,12,88,50,Normal monitoring,Nutrient Deficiency
+1.65,Dim,6.0,11 ppm,30.6C,32.1C,89,46,210,64,Normal monitoring,Healthy
+1.65,Bright,5.8,18 ppm,38.0C,32.6C,41,26,128,22,Normal monitoring,Water Stress
+1.65,Bright,5.9,12 ppm,31.0C,29.8C,83,42,197,62,Normal monitoring,Healthy
+1.67,Bright,6.4,8 ppm,24.9C,22.1C,76,42,192,63,Normal monitoring,Healthy
+1.66,Dark,5.5,21 ppm,22.1C,14.2C,47,25,105,17,Normal monitoring,Water Stress
+1.64,Bright,5.0,19 ppm,17.7C,17.2C,20,16,85,63,Normal monitoring,Nutrient Deficiency
+1.67,Dim,5.7,19 ppm,32.6C,27.2C,43,26,91,15,Normal monitoring,Water Stress
+1.63,Dark,5.9,7 ppm,11.7C,13.3C,83,48,204,57,Normal monitoring,Healthy
+1.63,Bright,6.2,8 ppm,33.2C,32.4C,76,37,212,61,Normal monitoring,Healthy
+1.68,Dark,4.4,61 ppm,33.2C,24.1C,75,39,151,73,Fungal infection,Disease
+1.68,Bright,6.2,14 ppm,36.4C,35.3C,82,41,204,64,Normal monitoring,Healthy
+1.65,Bright,6.3,7 ppm,38.6C,40.1C,83,49,194,57,Normal monitoring,Healthy
+1.66,Dim,5.9,19 ppm,35.5C,29.9C,38,24,108,24,Normal monitoring,Water Stress
+1.64,Dim,6.0,8 ppm,33.3C,32.9C,75,47,209,63,Normal monitoring,Healthy
+1.63,Bright,6.0,13 ppm,21.3C,23.2C,79,42,215,63,Normal monitoring,Healthy
+1.65,Bright,5.2,18 ppm,17.3C,16.4C,44,18,82,53,Normal monitoring,Nutrient Deficiency
+1.63,Dim,6.0,16 ppm,39.1C,32.4C,46,22,123,17,Normal monitoring,Water Stress
+1.63,Bright,5.0,15 ppm,19.6C,15.6C,33,12,94,62,Normal monitoring,Nutrient Deficiency
+1.68,Bright,6.3,8 ppm,30.6C,29.3C,86,45,197,63,Normal monitoring,Healthy
+1.65,Bright,5.7,23 ppm,40.4C,32.9C,41,19,108,23,Normal monitoring,Water Stress
+1.65,Bright,4.5,35 ppm,43.6C,36.5C,65,27,160,75,Viral infection,Disease
+1.59,Bright,6.5,8 ppm,28.7C,27.2C,88,39,212,61,Normal monitoring,Healthy
+1.69,Dark,5.8,20 ppm,27.9C,22.8C,35,17,97,15,Normal monitoring,Water Stress
+1.64,Bright,5.0,19 ppm,27.2C,26.9C,46,16,113,63,Normal monitoring,Nutrient Deficiency
+1.67,Dark,4.8,19 ppm,21.6C,20.8C,42,11,94,51,Normal monitoring,Nutrient Deficiency
+1.68,Bright,3.3,39 ppm,38.6C,33.8C,72,35,161,68,Bacterial infection,Disease
+1.65,Bright,4.6,11 ppm,34.3C,33.6C,33,10,95,50,Normal monitoring,Nutrient Deficiency
+1.68,Bright,6.2,10 ppm,31.3C,31.3C,86,42,211,58,Normal monitoring,Healthy
+1.69,Dim,5.6,23 ppm,30.3C,25.2C,35,23,95,29,Normal monitoring,Water Stress
+1.63,Bright,4.6,15 ppm,23.0C,19.2C,22,19,112,60,Normal monitoring,Nutrient Deficiency
+1.64,Bright,5.8,18 ppm,22.7C,16.7C,41,20,94,20,Normal monitoring,Water Stress
+1.62,Bright,6.4,6 ppm,18.3C,15.8C,76,46,193,58,Normal monitoring,Healthy
+1.7,Bright,5.8,17 ppm,33.2C,27.0C,40,26,129,22,Normal monitoring,Water Stress
+1.72,Bright,4.0,55 ppm,22.8C,15.6C,72,25,199,74,Bacterial infection,Disease
+1.65,Dark,3.7,44 ppm,43.5C,33.8C,60,37,195,76,Fungal infection,Disease
+1.61,Dim,4.1,33 ppm,34.3C,25.7C,50,25,176,70,Viral infection,Disease
+1.69,Bright,5.9,20 ppm,38.4C,32.7C,46,29,125,12,Normal monitoring,Water Stress
+1.68,Bright,5.9,20 ppm,40.9C,35.1C,40,21,115,26,Normal monitoring,Water Stress
+1.64,Dim,3.4,37 ppm,42.0C,34.0C,72,33,161,66,Bacterial infection,Disease
+1.65,Dim,5.9,18 ppm,33.6C,27.0C,40,29,124,20,Normal monitoring,Water Stress
+1.63,Dark,6.1,12 ppm,36.7C,35.1C,84,47,210,65,Normal monitoring,Healthy
+1.67,Dim,5.8,24 ppm,41.0C,33.8C,35,17,99,14,Normal monitoring,Water Stress
+1.65,Bright,5.1,13 ppm,29.0C,28.1C,31,17,89,58,Normal monitoring,Nutrient Deficiency
+1.66,Bright,4.2,52 ppm,35.4C,28.1C,67,32,163,66,Bacterial infection,Disease
+1.62,Bright,6.4,14 ppm,27.6C,28.8C,80,41,215,68,Normal monitoring,Healthy
+1.65,Dim,5.9,24 ppm,38.9C,31.8C,48,22,95,20,Normal monitoring,Water Stress
+1.64,Bright,4.9,19 ppm,35.2C,33.5C,31,13,102,64,Normal monitoring,Nutrient Deficiency
+1.65,Bright,5.9,6 ppm,22.3C,19.7C,87,39,205,66,Normal monitoring,Healthy
+1.64,Dim,3.8,45 ppm,44.4C,35.3C,62,29,184,69,Pest infection,Disease
+1.63,Bright,5.7,17 ppm,33.4C,26.2C,44,16,115,24,Normal monitoring,Water Stress
+1.7,Bright,3.8,40 ppm,38.5C,34.5C,75,28,156,71,Fungal infection,Disease
+1.66,Dim,5.9,10 ppm,15.5C,15.0C,85,47,207,65,Normal monitoring,Healthy
+1.64,Bright,3.7,63 ppm,35.6C,27.8C,68,39,191,70,Fungal infection,Disease
+1.61,Bright,5.9,14 ppm,34.5C,33.4C,77,41,206,63,Normal monitoring,Healthy
+1.65,Dim,5.0,18 ppm,35.3C,34.2C,33,18,118,54,Normal monitoring,Nutrient Deficiency
+1.64,Bright,4.2,59 ppm,26.1C,22.7C,72,29,163,80,Fungal infection,Disease
+1.65,Bright,3.8,50 ppm,21.9C,17.9C,65,29,176,84,Fungal infection,Disease
+1.7,Dim,5.2,11 ppm,33.0C,31.5C,49,14,116,52,Normal monitoring,Nutrient Deficiency
+1.7,Bright,4.0,39 ppm,33.5C,25.7C,75,28,176,71,Pest infection,Disease
+1.68,Dim,6.0,16 ppm,33.9C,26.0C,37,20,114,25,Normal monitoring,Water Stress
+1.64,Bright,6.0,17 ppm,32.8C,27.2C,49,28,98,20,Normal monitoring,Water Stress
+1.63,Bright,5.6,21 ppm,36.8C,30.5C,38,26,128,24,Normal monitoring,Water Stress
+1.69,Dim,6.0,10 ppm,31.3C,29.3C,83,45,193,56,Normal monitoring,Healthy
+1.62,Dim,6.3,10 ppm,25.9C,27.5C,77,37,209,62,Normal monitoring,Healthy
+1.64,Bright,5.7,16 ppm,32.0C,26.0C,48,18,102,10,Normal monitoring,Water Stress
+1.65,Bright,4.4,60 ppm,40.8C,34.3C,61,31,166,82,Fungal infection,Disease
+1.66,Dim,6.0,10 ppm,34.2C,33.7C,76,42,217,69,Normal monitoring,Healthy
+1.63,Bright,5.2,18 ppm,28.7C,26.8C,36,10,102,55,Normal monitoring,Nutrient Deficiency
+1.61,Bright,3.6,64 ppm,43.4C,33.5C,69,28,161,77,Fungal infection,Disease
+1.63,Dim,3.8,38 ppm,41.0C,31.1C,64,33,183,71,Fungal infection,Disease
+1.63,Bright,4.3,49 ppm,36.2C,29.1C,60,36,158,74,Fungal infection,Disease
+1.54,Bright,4.9,17 ppm,37.2C,33.9C,21,17,107,56,Normal monitoring,Nutrient Deficiency
+1.62,Dim,5.8,23 ppm,43.7C,37.0C,41,22,117,22,Normal monitoring,Water Stress
+1.63,Bright,3.8,55 ppm,27.3C,23.8C,70,30,178,73,Bacterial infection,Disease
+1.67,Bright,6.2,7 ppm,40.1C,37.6C,79,37,205,67,Normal monitoring,Healthy
+1.62,Dim,5.6,22 ppm,33.0C,27.7C,48,21,114,24,Normal monitoring,Water Stress
+1.6,Dim,5.3,19 ppm,34.4C,33.5C,21,18,109,58,Normal monitoring,Nutrient Deficiency
+1.62,Dim,5.0,14 ppm,20.6C,17.9C,35,10,80,56,Normal monitoring,Nutrient Deficiency
+1.61,Bright,3.7,45 ppm,45.1C,36.7C,71,25,172,83,Fungal infection,Disease
+1.66,Dim,6.0,16 ppm,23.2C,17.1C,44,15,93,10,Normal monitoring,Water Stress
+1.63,Bright,4.9,16 ppm,21.8C,20.7C,25,18,104,58,Normal monitoring,Nutrient Deficiency
+1.65,Bright,5.8,19 ppm,38.5C,30.7C,45,27,94,26,Normal monitoring,Water Stress
+1.67,Bright,4.8,12 ppm,29.9C,27.8C,34,12,92,53,Normal monitoring,Nutrient Deficiency
+1.65,Bright,4.7,19 ppm,35.2C,33.5C,29,15,101,59,Normal monitoring,Nutrient Deficiency
+1.67,Bright,4.8,12 ppm,31.0C,29.3C,33,18,103,58,Normal monitoring,Nutrient Deficiency
+1.61,Bright,5.8,21 ppm,36.2C,29.7C,43,19,91,10,Normal monitoring,Water Stress
+1.65,Dim,6.3,11 ppm,39.5C,36.6C,82,49,210,55,Normal monitoring,Healthy
+1.67,Dim,6.2,12 ppm,32.0C,33.5C,79,43,206,63,Normal monitoring,Healthy
+1.64,Dim,5.1,12 ppm,38.3C,36.5C,24,15,104,51,Normal monitoring,Nutrient Deficiency
+1.67,Bright,5.8,20 ppm,38.6C,31.3C,39,18,110,29,Normal monitoring,Water Stress
+1.7,Dim,4.7,11 ppm,19.8C,19.0C,48,14,117,55,Normal monitoring,Nutrient Deficiency
+1.68,Bright,5.6,21 ppm,32.0C,26.3C,36,16,104,26,Normal monitoring,Water Stress
+1.65,Bright,3.8,42 ppm,35.1C,27.2C,58,27,142,79,Viral infection,Disease
+1.65,Bright,5.9,5 ppm,24.5C,26.4C,87,42,214,61,Normal monitoring,Healthy
+1.67,Bright,3.8,32 ppm,27.2C,19.9C,79,32,179,69,Bacterial infection,Disease
+1.62,Bright,5.9,5 ppm,19.8C,18.7C,86,36,218,58,Normal monitoring,Healthy
+1.66,Bright,5.5,17 ppm,33.9C,30.9C,24,19,98,50,Normal monitoring,Nutrient Deficiency
+1.64,Bright,5.3,14 ppm,38.5C,34.9C,21,16,81,55,Normal monitoring,Nutrient Deficiency
+1.66,Bright,5.9,14 ppm,31.6C,29.1C,86,46,201,58,Normal monitoring,Healthy
+1.68,Bright,4.2,36 ppm,40.9C,34.8C,72,39,187,76,Fungal infection,Disease
+1.65,Dim,5.4,17 ppm,36.1C,33.0C,44,19,109,60,Normal monitoring,Nutrient Deficiency
+1.67,Bright,5.8,18 ppm,24.4C,17.2C,46,20,123,28,Normal monitoring,Water Stress
+1.62,Bright,4.7,19 ppm,26.0C,23.0C,34,12,86,61,Normal monitoring,Nutrient Deficiency
+1.63,Dim,5.7,20 ppm,20.0C,14.1C,38,27,112,13,Normal monitoring,Water Stress
+1.66,Dim,4.3,54 ppm,41.5C,36.9C,53,26,156,65,Viral infection,Disease
+1.68,Bright,4.9,15 ppm,18.0C,15.0C,21,12,113,64,Normal monitoring,Nutrient Deficiency
+1.65,Dim,4.0,62 ppm,40.7C,33.7C,69,33,195,84,Fungal infection,Disease
